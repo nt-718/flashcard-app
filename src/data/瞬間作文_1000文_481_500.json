@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "私はコーヒーを一杯いただきたいです。",
+    "en": "I would like a cup of coffee.",
+    "cn": "我想要一杯咖啡。",
+    "pinyin": "wǒ xiǎng yào yī bēi kā fēi。",
+    "grammar": "would",
+    "notes": "would like で丁寧な希望。"
+  },
+  {
+    "jp": "私たちは窓際の席を希望します。",
+    "en": "We would like a table by the window.",
+    "cn": "我们想要一个靠窗的座位。",
+    "pinyin": "wǒ men xiǎng yào yí gè kào chuāng de zuò wèi。",
+    "grammar": "would",
+    "notes": "店での丁寧な希望表現。"
+  },
+  {
+    "jp": "彼はあとであなたと話したいそうです。",
+    "en": "He would like to talk with you later.",
+    "cn": "他说他想稍后和你谈谈。",
+    "pinyin": "tā shuō tā xiǎng shāo hòu hé nǐ tán tán。",
+    "grammar": "would",
+    "notes": "would like to + 動詞。"
+  },
+  {
+    "jp": "彼女はその仕事を受けたいと思っています。",
+    "en": "She would like to take the job.",
+    "cn": "她想接受那份工作。",
+    "pinyin": "tā xiǎng jiē shòu nà fèn gōng zuò。",
+    "grammar": "would",
+    "notes": "丁寧な願望。"
+  },
+  {
+    "jp": "手伝っていただけますか。",
+    "en": "Would you help me?",
+    "cn": "你愿意帮我吗？",
+    "pinyin": "nǐ yuàn yì bāng wǒ ma？",
+    "grammar": "would",
+    "notes": "Would you ...? は丁寧な依頼。"
+  },
+  {
+    "jp": "もう少し待っていただけますか。",
+    "en": "Would you wait a little longer?",
+    "cn": "你愿意再等一会儿吗？",
+    "pinyin": "nǐ yuàn yì zài děng yī huì er ma？",
+    "grammar": "would",
+    "notes": "依頼を柔らかくする would。"
+  },
+  {
+    "jp": "ドアを閉めていただけますか。",
+    "en": "Would you close the door?",
+    "cn": "你愿意把门关上吗？",
+    "pinyin": "nǐ yuàn yì bǎ mén guān shàng ma？",
+    "grammar": "would",
+    "notes": "丁寧な依頼の定番。"
+  },
+  {
+    "jp": "この番号に電話していただけますか。",
+    "en": "Would you call this number?",
+    "cn": "你愿意打这个号码吗？",
+    "pinyin": "nǐ yuàn yì dǎ zhè ge hào mǎ ma？",
+    "grammar": "would",
+    "notes": "Would you + 動詞原形。"
+  },
+  {
+    "jp": "私は外食するより家で食べたいです。",
+    "en": "I would rather eat at home.",
+    "cn": "我宁愿在家吃饭，也不愿出去吃。",
+    "pinyin": "wǒ nìng yuàn zài jiā chī fàn， yě bù yuàn chū qù chī。",
+    "grammar": "would",
+    "notes": "would rather で好みを言う。"
+  },
+  {
+    "jp": "彼は今日は歩くほうがいいと言っています。",
+    "en": "He would rather walk today.",
+    "cn": "他说他今天宁愿走路。",
+    "pinyin": "tā shuō tā jīn tiān nìng yuàn zǒu lù。",
+    "grammar": "would",
+    "notes": "would rather + 動詞原形。"
+  },
+  {
+    "jp": "子どものころ、私はその川でよく遊びました。",
+    "en": "When I was a child, I would often play by that river.",
+    "cn": "我小时候常常在那条河边玩。",
+    "pinyin": "wǒ xiǎo shí hòu cháng cháng zài nà tiáo hé biān wán。",
+    "grammar": "would",
+    "notes": "would は過去の習慣も表せる。"
+  },
+  {
+    "jp": "祖父は夕食後によく散歩しました。",
+    "en": "My grandfather would take a walk after dinner.",
+    "cn": "我祖父晚饭后常常去散步。",
+    "pinyin": "wǒ zǔ fù wǎn fàn hòu cháng cháng qù sàn bù。",
+    "grammar": "would",
+    "notes": "過去の反復行動の would。"
+  },
+  {
+    "jp": "彼女は学生のころ毎日図書館に行きました。",
+    "en": "She would go to the library every day as a student.",
+    "cn": "她当学生时每天都会去图书馆。",
+    "pinyin": "tā dāng xué shēng shí měi tiān dū huì qù tú shū guǎn。",
+    "grammar": "would",
+    "notes": "過去の習慣。"
+  },
+  {
+    "jp": "私たちは夏になるとよく海に行きました。",
+    "en": "We would often go to the beach in summer.",
+    "cn": "一到夏天，我们常去海边。",
+    "pinyin": "yī dào xià tiān， wǒ men cháng qù hǎi biān。",
+    "grammar": "would",
+    "notes": "季節的な習慣にも使える。"
+  },
+  {
+    "jp": "彼は会議ではいつも一番後ろに座りました。",
+    "en": "He would always sit in the back during meetings.",
+    "cn": "他开会时总坐在最后面。",
+    "pinyin": "tā kāi huì shí zǒng zuò zài zuì hòu miàn。",
+    "grammar": "would",
+    "notes": "always と合わせた過去習慣。"
+  },
+  {
+    "jp": "その提案は受け入れられないでしょう。",
+    "en": "That would be hard to accept.",
+    "cn": "那个提议恐怕很难接受。",
+    "pinyin": "nà ge tí yì kǒng pà hěn nán jiē shòu。",
+    "grammar": "would",
+    "notes": "would は控えめな推量にもなる。"
+  },
+  {
+    "jp": "私ならその電車には乗らないでしょう。",
+    "en": "I wouldn't take that train.",
+    "cn": "如果是我，我不会坐那班火车。",
+    "pinyin": "rú guǒ shì wǒ， wǒ bú huì zuò nà bān huǒ chē。",
+    "grammar": "would",
+    "notes": "wouldn't で控えめな否定。"
+  },
+  {
+    "jp": "彼女ならもっと慎重に考えるでしょう。",
+    "en": "She would think more carefully.",
+    "cn": "如果是她，她会想得更谨慎。",
+    "pinyin": "rú guǒ shì tā， tā huì xiǎng dé gèng jǐn shèn。",
+    "grammar": "would",
+    "notes": "仮定的な話にも使う。"
+  },
+  {
+    "jp": "私たちはその計画を支持するでしょう。",
+    "en": "We would support the plan.",
+    "cn": "我们会支持那个计划。",
+    "pinyin": "wǒ men huì zhī chí nà ge jì huà。",
+    "grammar": "would",
+    "notes": "仮定的な条件を省略した would。"
+  },
+  {
+    "jp": "私はできれば明日行きたいです。",
+    "en": "I would like to go tomorrow if possible.",
+    "cn": "如果可以的话，我想明天去。",
+    "pinyin": "rú guǒ kě yǐ de huà， wǒ xiǎng míng tiān qù。",
+    "grammar": "would",
+    "notes": "would like to で丁寧に意向を述べる。"
+  }
+]

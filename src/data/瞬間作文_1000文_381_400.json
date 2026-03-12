@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "その窓は昨日壊されました。",
+    "en": "The window was broken yesterday.",
+    "cn": "那扇窗户昨天被打破了。",
+    "pinyin": "nà shàn chuāng hù zuó tiān bèi dǎ pò le。",
+    "grammar": "受動態",
+    "notes": "受動態は be動詞 + 過去分詞。"
+  },
+  {
+    "jp": "その会議は今朝中止されました。",
+    "en": "The meeting was canceled this morning.",
+    "cn": "那场会议今天早上被取消了。",
+    "pinyin": "nà chǎng huì yì jīn tiān zǎo shàng bèi qǔ xiāo le。",
+    "grammar": "受動態",
+    "notes": "行為を受ける側を主語にする。"
+  },
+  {
+    "jp": "そのレポートはメールで送られました。",
+    "en": "The report was sent by email.",
+    "cn": "那份报告是通过电子邮件发出的。",
+    "pinyin": "nà fèn bào gào shì tōng guò diàn zi yóu jiàn fā chū de。",
+    "grammar": "受動態",
+    "notes": "sent は send の過去分詞。"
+  },
+  {
+    "jp": "その部屋は正午前に掃除されました。",
+    "en": "The room was cleaned before noon.",
+    "cn": "那个房间在中午前被打扫了。",
+    "pinyin": "nà ge fáng jiān zài zhōng wǔ qián bèi dǎ sǎo le。",
+    "grammar": "受動態",
+    "notes": "受動態で『掃除された』を表す。"
+  },
+  {
+    "jp": "そのドアは6時に閉められました。",
+    "en": "The door was closed at six.",
+    "cn": "那扇门六点被关上了。",
+    "pinyin": "nà shàn mén liù diǎn bèi guān shàng le。",
+    "grammar": "受動態",
+    "notes": "過去に受けた動作を述べる。"
+  },
+  {
+    "jp": "その写真は去年撮られました。",
+    "en": "The photo was taken last year.",
+    "cn": "那张照片是去年拍的。",
+    "pinyin": "nà zhāng zhào piān shì qù nián pāi de。",
+    "grammar": "受動態",
+    "notes": "taken は take の過去分詞。"
+  },
+  {
+    "jp": "その問題はすぐに解決されました。",
+    "en": "The problem was solved quickly.",
+    "cn": "那个问题很快就被解决了。",
+    "pinyin": "nà ge wèn tí hěn kuài jiù bèi jiě jué le。",
+    "grammar": "受動態",
+    "notes": "solve → solved の受動態。"
+  },
+  {
+    "jp": "この本は世界中で読まれています。",
+    "en": "This book is read around the world.",
+    "cn": "这本书在世界各地都有人读。",
+    "pinyin": "zhè běn shū zài shì jiè gè dì dōu yǒu rén dú。",
+    "grammar": "受動態",
+    "notes": "現在の一般事実の受動態。"
+  },
+  {
+    "jp": "英語は多くの国で話されています。",
+    "en": "English is spoken in many countries.",
+    "cn": "英语在很多国家都有人说。",
+    "pinyin": "yīng yǔ zài hěn duō guó jiā dōu yǒu rén shuō。",
+    "grammar": "受動態",
+    "notes": "is spoken で一般的事実。"
+  },
+  {
+    "jp": "その橋は毎年点検されます。",
+    "en": "The bridge is checked every year.",
+    "cn": "那座桥每年都会接受检查。",
+    "pinyin": "nà zuò qiáo měi nián dū huì jiē shòu jiǎn chá。",
+    "grammar": "受動態",
+    "notes": "現在形の受動態。"
+  },
+  {
+    "jp": "その手紙はまだ書かれていません。",
+    "en": "The letter has not been written yet.",
+    "cn": "那封信还没写好。",
+    "pinyin": "nà fēng xìn hái méi xiě hǎo。",
+    "grammar": "受動態",
+    "notes": "現在完了の受動態。"
+  },
+  {
+    "jp": "この部屋は今使われています。",
+    "en": "This room is being used now.",
+    "cn": "这个房间现在正在被使用。",
+    "pinyin": "zhè ge fáng jiān xiàn zài zhèng zài bèi shǐ yòng。",
+    "grammar": "受動態",
+    "notes": "進行形の受動態。"
+  },
+  {
+    "jp": "そのチケットは昨日すべて売られました。",
+    "en": "The tickets were all sold yesterday.",
+    "cn": "那些票昨天全都卖光了。",
+    "pinyin": "nà xiē piào zuó tiān quán dōu mài guāng le。",
+    "grammar": "受動態",
+    "notes": "複数主語では were を使う。"
+  },
+  {
+    "jp": "その書類は机の上に置かれました。",
+    "en": "The documents were placed on the desk.",
+    "cn": "那些文件被放在桌子上了。",
+    "pinyin": "nà xiē wén jiàn bèi fàng zài zhuō zi shàng le。",
+    "grammar": "受動態",
+    "notes": "place の受動態。"
+  },
+  {
+    "jp": "これらの箱は慎重に運ばれました。",
+    "en": "These boxes were carried carefully.",
+    "cn": "这些箱子被小心地搬运了。",
+    "pinyin": "zhè xiē xiāng zi bèi xiǎo xīn dì bān yùn le。",
+    "grammar": "受動態",
+    "notes": "複数の受動態。"
+  },
+  {
+    "jp": "この橋は100年前に建てられました。",
+    "en": "This bridge was built one hundred years ago.",
+    "cn": "这座桥是一百年前建成的。",
+    "pinyin": "zhè zuò qiáo shì yì bǎi nián qián jiàn chéng de。",
+    "grammar": "受動態",
+    "notes": "built は build の過去分詞。"
+  },
+  {
+    "jp": "その歌は多くの人に愛されています。",
+    "en": "That song is loved by many people.",
+    "cn": "那首歌受到很多人的喜爱。",
+    "pinyin": "nà shǒu gē shòu dào hěn duō rén de xǐ ài。",
+    "grammar": "受動態",
+    "notes": "by + 行為者を後ろに置ける。"
+  },
+  {
+    "jp": "この料理はオリーブオイルで作られます。",
+    "en": "This dish is made with olive oil.",
+    "cn": "这道菜是用橄榄油做的。",
+    "pinyin": "zhè dào cài shì yòng gǎn lǎn yóu zuò de。",
+    "grammar": "受動態",
+    "notes": "made with で材料を言う。"
+  },
+  {
+    "jp": "私の携帯は昨日修理されました。",
+    "en": "My phone was repaired yesterday.",
+    "cn": "我的手机昨天被修好了。",
+    "pinyin": "wǒ de shǒu jī zuó tiān bèi xiū hǎo le。",
+    "grammar": "受動態",
+    "notes": "repair の受動態。"
+  },
+  {
+    "jp": "その計画は来月発表されます。",
+    "en": "The plan will be announced next month.",
+    "cn": "这个计划将于下个月公布。",
+    "pinyin": "zhè ge jì huà jiāng yú xià gè yuè gōng bù。",
+    "grammar": "受動態",
+    "notes": "未来の受動態は will be + 過去分詞。"
+  }
+]

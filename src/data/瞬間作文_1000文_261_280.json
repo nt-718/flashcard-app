@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "私は9時にコンピューターを使っていました。",
+    "en": "I was using the computer at nine.",
+    "cn": "我九点时正在用电脑。",
+    "pinyin": "wǒ jiǔ diǎn shí zhèng zài yòng diàn nǎo。",
+    "grammar": "過去進行形",
+    "notes": "過去進行形は過去のある時点で進行中。"
+  },
+  {
+    "jp": "私はそのとき家に歩いて帰っていました。",
+    "en": "I was walking home then.",
+    "cn": "我那时正走路回家。",
+    "pinyin": "wǒ nà shí zhèng zǒu lù huí jiā。",
+    "grammar": "過去進行形",
+    "notes": "then で過去のその時を示す。"
+  },
+  {
+    "jp": "私はバスを待っていました。",
+    "en": "I was waiting for the bus.",
+    "cn": "我当时正在等公交车。",
+    "pinyin": "wǒ dāng shí zhèng zài děng gōng jiāo chē。",
+    "grammar": "過去進行形",
+    "notes": "was / were + 動詞ing。"
+  },
+  {
+    "jp": "私は台所で話していました。",
+    "en": "I was talking in the kitchen.",
+    "cn": "我当时正在厨房里说话。",
+    "pinyin": "wǒ dāng shí zhèng zài chú fáng lǐ shuō huà。",
+    "grammar": "過去進行形",
+    "notes": "進行中だった状況を表す。"
+  },
+  {
+    "jp": "私たちは9時にコンピューターを使っていました。",
+    "en": "We were using the computer at nine.",
+    "cn": "我们九点时正在用电脑。",
+    "pinyin": "wǒ men jiǔ diǎn shí zhèng zài yòng diàn nǎo。",
+    "grammar": "過去進行形",
+    "notes": "過去進行形は過去のある時点で進行中。"
+  },
+  {
+    "jp": "私たちはそのとき家に歩いて帰っていました。",
+    "en": "We were walking home then.",
+    "cn": "我们那时正走路回家。",
+    "pinyin": "wǒ men nà shí zhèng zǒu lù huí jiā。",
+    "grammar": "過去進行形",
+    "notes": "then で過去のその時を示す。"
+  },
+  {
+    "jp": "私たちはバスを待っていました。",
+    "en": "We were waiting for the bus.",
+    "cn": "我们当时正在等公交车。",
+    "pinyin": "wǒ men dāng shí zhèng zài děng gōng jiāo chē。",
+    "grammar": "過去進行形",
+    "notes": "was / were + 動詞ing。"
+  },
+  {
+    "jp": "私たちは台所で話していました。",
+    "en": "We were talking in the kitchen.",
+    "cn": "我们当时正在厨房里说话。",
+    "pinyin": "wǒ men dāng shí zhèng zài chú fáng lǐ shuō huà。",
+    "grammar": "過去進行形",
+    "notes": "進行中だった状況を表す。"
+  },
+  {
+    "jp": "彼は9時にコンピューターを使っていました。",
+    "en": "He was using the computer at nine.",
+    "cn": "他九点时正在用电脑。",
+    "pinyin": "tā jiǔ diǎn shí zhèng zài yòng diàn nǎo。",
+    "grammar": "過去進行形",
+    "notes": "過去進行形は過去のある時点で進行中。"
+  },
+  {
+    "jp": "彼はそのとき家に歩いて帰っていました。",
+    "en": "He was walking home then.",
+    "cn": "他那时正走路回家。",
+    "pinyin": "tā nà shí zhèng zǒu lù huí jiā。",
+    "grammar": "過去進行形",
+    "notes": "then で過去のその時を示す。"
+  },
+  {
+    "jp": "彼はバスを待っていました。",
+    "en": "He was waiting for the bus.",
+    "cn": "他当时正在等公交车。",
+    "pinyin": "tā dāng shí zhèng zài děng gōng jiāo chē。",
+    "grammar": "過去進行形",
+    "notes": "was / were + 動詞ing。"
+  },
+  {
+    "jp": "彼は台所で話していました。",
+    "en": "He was talking in the kitchen.",
+    "cn": "他当时正在厨房里说话。",
+    "pinyin": "tā dāng shí zhèng zài chú fáng lǐ shuō huà。",
+    "grammar": "過去進行形",
+    "notes": "進行中だった状況を表す。"
+  },
+  {
+    "jp": "彼女は9時にコンピューターを使っていました。",
+    "en": "She was using the computer at nine.",
+    "cn": "她九点时正在用电脑。",
+    "pinyin": "tā jiǔ diǎn shí zhèng zài yòng diàn nǎo。",
+    "grammar": "過去進行形",
+    "notes": "過去進行形は過去のある時点で進行中。"
+  },
+  {
+    "jp": "彼女はそのとき家に歩いて帰っていました。",
+    "en": "She was walking home then.",
+    "cn": "她那时正走路回家。",
+    "pinyin": "tā nà shí zhèng zǒu lù huí jiā。",
+    "grammar": "過去進行形",
+    "notes": "then で過去のその時を示す。"
+  },
+  {
+    "jp": "彼女はバスを待っていました。",
+    "en": "She was waiting for the bus.",
+    "cn": "她当时正在等公交车。",
+    "pinyin": "tā dāng shí zhèng zài děng gōng jiāo chē。",
+    "grammar": "過去進行形",
+    "notes": "was / were + 動詞ing。"
+  },
+  {
+    "jp": "彼女は台所で話していました。",
+    "en": "She was talking in the kitchen.",
+    "cn": "她当时正在厨房里说话。",
+    "pinyin": "tā dāng shí zhèng zài chú fáng lǐ shuō huà。",
+    "grammar": "過去進行形",
+    "notes": "進行中だった状況を表す。"
+  },
+  {
+    "jp": "彼らは9時にコンピューターを使っていました。",
+    "en": "They were using the computer at nine.",
+    "cn": "他们九点时正在用电脑。",
+    "pinyin": "tā men jiǔ diǎn shí zhèng zài yòng diàn nǎo。",
+    "grammar": "過去進行形",
+    "notes": "過去進行形は過去のある時点で進行中。"
+  },
+  {
+    "jp": "彼らはそのとき家に歩いて帰っていました。",
+    "en": "They were walking home then.",
+    "cn": "他们那时正走路回家。",
+    "pinyin": "tā men nà shí zhèng zǒu lù huí jiā。",
+    "grammar": "過去進行形",
+    "notes": "then で過去のその時を示す。"
+  },
+  {
+    "jp": "彼らはバスを待っていました。",
+    "en": "They were waiting for the bus.",
+    "cn": "他们当时正在等公交车。",
+    "pinyin": "tā men dāng shí zhèng zài děng gōng jiāo chē。",
+    "grammar": "過去進行形",
+    "notes": "was / were + 動詞ing。"
+  },
+  {
+    "jp": "彼らは台所で話していました。",
+    "en": "They were talking in the kitchen.",
+    "cn": "他们当时正在厨房里说话。",
+    "pinyin": "tā men dāng shí zhèng zài chú fáng lǐ shuō huà。",
+    "grammar": "過去進行形",
+    "notes": "進行中だった状況を表す。"
+  }
+]

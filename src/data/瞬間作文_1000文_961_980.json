@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "私があなたならその仕事を受けません。",
+    "en": "If I were you, I would not take the job.",
+    "cn": "如果我是你，我不会接受那份工作。",
+    "pinyin": "rú guǒ wǒ shì nǐ， wǒ bú huì jiē shòu nà fèn gōng zuò。",
+    "grammar": "仮定法の基本",
+    "notes": "仮定法では If I were you が定型。"
+  },
+  {
+    "jp": "もっと時間があれば、もっと勉強するのに。",
+    "en": "If I had more time, I would study more.",
+    "cn": "如果我有更多时间，我会多学习。",
+    "pinyin": "rú guǒ wǒ yǒu gèng duō shí jiān， wǒ huì duō xué xí。",
+    "grammar": "仮定法の基本",
+    "notes": "現在の事実に反する仮定。"
+  },
+  {
+    "jp": "彼がここにいれば、私たちを助けるでしょう。",
+    "en": "If he were here, he would help us.",
+    "cn": "如果他在这里，他会帮助我们。",
+    "pinyin": "rú guǒ tā zài zhè lǐ， tā huì bāng zhù wǒ men。",
+    "grammar": "仮定法の基本",
+    "notes": "be 動詞は were を使う。"
+  },
+  {
+    "jp": "お金がもっとあれば、その車を買うのに。",
+    "en": "If I had enough money, I would buy the car.",
+    "cn": "如果我有足够的钱，我就会买那辆车。",
+    "pinyin": "rú guǒ wǒ yǒu zú gòu de qián， wǒ jiù huì mǎi nà liàng chē。",
+    "grammar": "仮定法の基本",
+    "notes": "If + 過去形, would + 原形。"
+  },
+  {
+    "jp": "彼女がもっと慎重ならそんなことは言わないでしょう。",
+    "en": "If she were more careful, she would not say that.",
+    "cn": "如果她再谨慎一点，她就不会说那种话。",
+    "pinyin": "rú guǒ tā zài jǐn shèn yì diǎn， tā jiù bú huì shuō nà zhǒng huà。",
+    "grammar": "仮定法の基本",
+    "notes": "形容詞にも仮定法を使う。"
+  },
+  {
+    "jp": "私たちが近くに住んでいればもっと会えるのに。",
+    "en": "If we lived closer, we could see each other more often.",
+    "cn": "如果我们住得近一点，就能更常见面。",
+    "pinyin": "rú guǒ wǒ men zhù dé jìn yì diǎn， jiù néng gèng cháng jiàn miàn。",
+    "grammar": "仮定法の基本",
+    "notes": "could を使って可能性を表せる。"
+  },
+  {
+    "jp": "もし彼らがもっと早く出れば間に合うのに。",
+    "en": "If they left earlier, they would be on time.",
+    "cn": "如果他们早点出发，就能准时到。",
+    "pinyin": "rú guǒ tā men zǎo diǎn chū fā， jiù néng zhǔn shí dào。",
+    "grammar": "仮定法の基本",
+    "notes": "現実と逆の想定。"
+  },
+  {
+    "jp": "私が彼なら謝るでしょう。",
+    "en": "If I were him, I would apologize.",
+    "cn": "如果我是他，我会道歉。",
+    "pinyin": "rú guǒ wǒ shì tā， wǒ huì dào qiàn。",
+    "grammar": "仮定法の基本",
+    "notes": "If I were him も定型。"
+  },
+  {
+    "jp": "今日は晴れていればよかったのに。",
+    "en": "I wish it were sunny today.",
+    "cn": "要是今天是晴天就好了。",
+    "pinyin": "yào shì jīn tiān shì qíng tiān jiù hǎo le。",
+    "grammar": "仮定法の基本",
+    "notes": "I wish + 仮定法で願望。"
+  },
+  {
+    "jp": "もっと背が高ければよかったのに。",
+    "en": "I wish I were taller.",
+    "cn": "要是我再高一点就好了。",
+    "pinyin": "yào shì wǒ zài gāo yì diǎn jiù hǎo le。",
+    "grammar": "仮定法の基本",
+    "notes": "現在の不満を I wish で表す。"
+  },
+  {
+    "jp": "彼がここにいればいいのに。",
+    "en": "I wish he were here.",
+    "cn": "要是他在这里就好了。",
+    "pinyin": "yào shì tā zài zhè lǐ jiù hǎo le。",
+    "grammar": "仮定法の基本",
+    "notes": "I wish + were。"
+  },
+  {
+    "jp": "もっと英語が話せたらいいのに。",
+    "en": "I wish I could speak English better.",
+    "cn": "要是我的英语能说得更好就好了。",
+    "pinyin": "yào shì wǒ de yīng yǔ néng shuō dé gèng hǎo jiù hǎo le。",
+    "grammar": "仮定法の基本",
+    "notes": "I wish + could も使える。"
+  },
+  {
+    "jp": "昨日もっと早く寝ていればよかったのに。",
+    "en": "I wish I had gone to bed earlier last night.",
+    "cn": "要是我昨晚早点睡就好了。",
+    "pinyin": "yào shì wǒ zuó wǎn zǎo diǎn shuì jiù hǎo le。",
+    "grammar": "仮定法の基本",
+    "notes": "過去の後悔は I wish + had + 過去分詞。"
+  },
+  {
+    "jp": "その電車に乗っていれば間に合ったのに。",
+    "en": "If I had caught the train, I would have been on time.",
+    "cn": "如果我赶上了那班火车，我就会准时到。",
+    "pinyin": "rú guǒ wǒ gǎn shàng le nà bān huǒ chē， wǒ jiù huì zhǔn shí dào。",
+    "grammar": "仮定法の基本",
+    "notes": "過去の反事実条件。"
+  },
+  {
+    "jp": "彼が電話してくれていれば、私は行ったのに。",
+    "en": "If he had called me, I would have gone.",
+    "cn": "如果他给我打了电话，我就会去。",
+    "pinyin": "rú guǒ tā gěi wǒ dǎ le diàn huà， wǒ jiù huì qù。",
+    "grammar": "仮定法の基本",
+    "notes": "If + had + pp, would have + pp。"
+  },
+  {
+    "jp": "もっと勉強していれば試験に受かったのに。",
+    "en": "If she had studied more, she would have passed the exam.",
+    "cn": "如果她多学一点，就会通过考试。",
+    "pinyin": "rú guǒ tā duō xué yì diǎn， jiù huì tōng guò kǎo shì。",
+    "grammar": "仮定法の基本",
+    "notes": "過去の結果の仮定。"
+  },
+  {
+    "jp": "雨が降っていなければ散歩したのに。",
+    "en": "If it had not been raining, we would have taken a walk.",
+    "cn": "要是没下雨，我们就去散步了。",
+    "pinyin": "yào shì méi xià yǔ， wǒ men jiù qù sàn bù le。",
+    "grammar": "仮定法の基本",
+    "notes": "否定の仮定法過去完了。"
+  },
+  {
+    "jp": "私が知っていればあなたに話したのに。",
+    "en": "If I had known, I would have told you.",
+    "cn": "如果我早知道，我就会告诉你。",
+    "pinyin": "rú guǒ wǒ zǎo zhī dào， wǒ jiù huì gào sù nǐ。",
+    "grammar": "仮定法の基本",
+    "notes": "If I had known ... の定型。"
+  },
+  {
+    "jp": "もっと早く出ていれば飛行機に間に合ったのに。",
+    "en": "If we had left earlier, we would have caught the plane.",
+    "cn": "如果我们早点出发，就能赶上飞机。",
+    "pinyin": "rú guǒ wǒ men zǎo diǎn chū fā， jiù néng gǎn shàng fēi jī。",
+    "grammar": "仮定法の基本",
+    "notes": "過去の機会損失を表す。"
+  },
+  {
+    "jp": "彼がもう少し親切なら助けてくれるのに。",
+    "en": "If he were a little kinder, he would help us.",
+    "cn": "如果他再善良一点，他就会帮助我们。",
+    "pinyin": "rú guǒ tā zài shàn liáng yì diǎn， tā jiù huì bāng zhù wǒ men。",
+    "grammar": "仮定法の基本",
+    "notes": "現在の性質への仮定。"
+  }
+]

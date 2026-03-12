@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "私は朝にオフィスにいます。",
+    "en": "I am at the office in the morning.",
+    "cn": "我早上在办公室。",
+    "pinyin": "wǒ zǎo shàng zài bàn gōng shì。",
+    "grammar": "前置詞",
+    "notes": "at は点、in は時間帯。"
+  },
+  {
+    "jp": "私の本は机の上にあります。",
+    "en": "My book is on the desk.",
+    "cn": "我的书在桌子上。",
+    "pinyin": "wǒ de shū zài zhuō zi shàng。",
+    "grammar": "前置詞",
+    "notes": "on は接触の上。"
+  },
+  {
+    "jp": "彼女は部屋の中にいます。",
+    "en": "She is in the room.",
+    "cn": "她在房间里。",
+    "pinyin": "tā zài fáng jiān lǐ。",
+    "grammar": "前置詞",
+    "notes": "in は内部。"
+  },
+  {
+    "jp": "彼らは駅の前で待っています。",
+    "en": "They are waiting in front of the station.",
+    "cn": "他们在车站前面等。",
+    "pinyin": "tā men zài chē zhàn qián miàn děng。",
+    "grammar": "前置詞",
+    "notes": "in front of は前方。"
+  },
+  {
+    "jp": "私たちは公園を通って歩きました。",
+    "en": "We walked through the park.",
+    "cn": "我们穿过了公园。",
+    "pinyin": "wǒ men chuān guò le gōng yuán。",
+    "grammar": "前置詞",
+    "notes": "through は通り抜け。"
+  },
+  {
+    "jp": "彼は橋を渡って行きました。",
+    "en": "He went across the bridge.",
+    "cn": "他走过了那座桥。",
+    "pinyin": "tā zǒu guò le nà zuò qiáo。",
+    "grammar": "前置詞",
+    "notes": "across は横切る感覚。"
+  },
+  {
+    "jp": "彼女は東京から大阪へ行きました。",
+    "en": "She went from Tokyo to Osaka.",
+    "cn": "她从东京去了大阪。",
+    "pinyin": "tā cóng dōng jīng qù le dà bǎn。",
+    "grammar": "前置詞",
+    "notes": "from A to B の基本。"
+  },
+  {
+    "jp": "私はその件について彼と話しました。",
+    "en": "I talked with him about the issue.",
+    "cn": "我跟他谈了那件事。",
+    "pinyin": "wǒ gēn tā tán le nà jiàn shì。",
+    "grammar": "前置詞",
+    "notes": "with と about の使い分け。"
+  },
+  {
+    "jp": "その箱は椅子の下にあります。",
+    "en": "The box is under the chair.",
+    "cn": "那个箱子在椅子下面。",
+    "pinyin": "nà ge xiāng zi zài yǐ zi xià miàn。",
+    "grammar": "前置詞",
+    "notes": "under は下。"
+  },
+  {
+    "jp": "そのランプはテーブルの上方にあります。",
+    "en": "The lamp is above the table.",
+    "cn": "那盏灯在桌子上方。",
+    "pinyin": "nà zhǎn dēng zài zhuō zi shàng fāng。",
+    "grammar": "前置詞",
+    "notes": "above は離れて上にあるイメージ。"
+  },
+  {
+    "jp": "彼らは2時から5時まで働きました。",
+    "en": "They worked from two to five.",
+    "cn": "他们从两点工作到五点。",
+    "pinyin": "tā men cóng liǎng diǎn gōng zuò dào wǔ diǎn。",
+    "grammar": "前置詞",
+    "notes": "時間の from A to B。"
+  },
+  {
+    "jp": "私は夕食のあとで走ります。",
+    "en": "I run after dinner.",
+    "cn": "我晚饭后跑步。",
+    "pinyin": "wǒ wǎn fàn hòu pǎo bù。",
+    "grammar": "前置詞",
+    "notes": "after で時間の後を表す。"
+  },
+  {
+    "jp": "彼女は会議の前に到着しました。",
+    "en": "She arrived before the meeting.",
+    "cn": "她在开会前到了。",
+    "pinyin": "tā zài kāi huì qián dào le。",
+    "grammar": "前置詞",
+    "notes": "before で前を表す。"
+  },
+  {
+    "jp": "その店は銀行の隣にあります。",
+    "en": "The store is next to the bank.",
+    "cn": "那家店在银行旁边。",
+    "pinyin": "nà jiā diàn zài yín háng páng biān。",
+    "grammar": "前置詞",
+    "notes": "next to は隣。"
+  },
+  {
+    "jp": "私たちは二つの建物の間に立っていました。",
+    "en": "We stood between the two buildings.",
+    "cn": "我们站在两栋楼之间。",
+    "pinyin": "wǒ men zhàn zài liǎng dòng lóu zhī jiān。",
+    "grammar": "前置詞",
+    "notes": "between は二つの間。"
+  },
+  {
+    "jp": "彼は友だちの間で人気があります。",
+    "en": "He is popular among his friends.",
+    "cn": "他在朋友中很受欢迎。",
+    "pinyin": "tā zài péng yǒu zhōng hěn shòu huān yíng。",
+    "grammar": "前置詞",
+    "notes": "among は三者以上の間。"
+  },
+  {
+    "jp": "私は仕事のためにここにいます。",
+    "en": "I am here for work.",
+    "cn": "我来这里是为了工作。",
+    "pinyin": "wǒ lái zhè lǐ shì wèi le gōng zuò。",
+    "grammar": "前置詞",
+    "notes": "for は目的・理由を表す。"
+  },
+  {
+    "jp": "彼女はペンでメモを書きました。",
+    "en": "She wrote the note with a pen.",
+    "cn": "她用笔写了那张便条。",
+    "pinyin": "tā yòng bǐ xiě le nà zhāng biàn tiáo。",
+    "grammar": "前置詞",
+    "notes": "with は道具。"
+  },
+  {
+    "jp": "彼らは慎重にその計画に反対しました。",
+    "en": "They argued against the plan.",
+    "cn": "他们慎重地反对那个计划。",
+    "pinyin": "tā men shèn zhòng dì fǎn duì nà ge jì huà。",
+    "grammar": "前置詞",
+    "notes": "against は反対。"
+  },
+  {
+    "jp": "その子どもは母親に向かって走りました。",
+    "en": "The child ran toward his mother.",
+    "cn": "那个孩子朝妈妈跑了过去。",
+    "pinyin": "nà ge hái zi cháo mā mā pǎo le guò qù。",
+    "grammar": "前置詞",
+    "notes": "toward は方向。"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "家に着いたら電話します。",
+    "en": "I will call you when I get home.",
+    "cn": "我到家以后会给你打电话。",
+    "pinyin": "wǒ dào jiā yǐ hòu huì gěi nǐ dǎ diàn huà。",
+    "grammar": "時を表す従属節",
+    "notes": "when 節の中は未来でも現在形を使う。"
+  },
+  {
+    "jp": "出発する前にそのドアを閉めてください。",
+    "en": "Please close the door before you leave.",
+    "cn": "你出发前请把门关上。",
+    "pinyin": "nǐ chū fā qián qǐng bǎ mén guān shàng。",
+    "grammar": "時を表す従属節",
+    "notes": "before 節で前後関係を作る。"
+  },
+  {
+    "jp": "昼食のあとでその資料を読みます。",
+    "en": "I will read the document after lunch.",
+    "cn": "我午饭后会看那份资料。",
+    "pinyin": "wǒ wǔ fàn hòu huì kàn nà fèn zī liào。",
+    "grammar": "時を表す従属節",
+    "notes": "after で順序を示す。"
+  },
+  {
+    "jp": "彼が来たとき、私たちは夕食を食べていました。",
+    "en": "We were eating dinner when he came.",
+    "cn": "他来的时候，我们正在吃晚饭。",
+    "pinyin": "tā lái de shí hòu， wǒ men zhèng zài chī wǎn fàn。",
+    "grammar": "時を表す従属節",
+    "notes": "when は過去の出来事とも組み合わせる。"
+  },
+  {
+    "jp": "寝る前に歯を磨きます。",
+    "en": "I brush my teeth before I go to bed.",
+    "cn": "我睡觉前会刷牙。",
+    "pinyin": "wǒ shuì jiào qián huì shuā yá。",
+    "grammar": "時を表す従属節",
+    "notes": "日課を when / before でつなぐ。"
+  },
+  {
+    "jp": "会議が終わったらメールを送ります。",
+    "en": "I will send the email after the meeting ends.",
+    "cn": "会议结束后我会发邮件。",
+    "pinyin": "huì yì jié shù hòu wǒ huì fā yóu jiàn。",
+    "grammar": "時を表す従属節",
+    "notes": "after 節でも未来は現在形。"
+  },
+  {
+    "jp": "彼女が到着したら出発しましょう。",
+    "en": "Let's leave when she arrives.",
+    "cn": "她到了我们就出发吧。",
+    "pinyin": "tā dào le wǒ men jiù chū fā ba。",
+    "grammar": "時を表す従属節",
+    "notes": "従属節では arrives。"
+  },
+  {
+    "jp": "彼が話し始める前に静かになりました。",
+    "en": "We became quiet before he started speaking.",
+    "cn": "他开始讲话前，我们安静了下来。",
+    "pinyin": "tā kāi shǐ jiǎng huà qián， wǒ men ān jìng le xià lái。",
+    "grammar": "時を表す従属節",
+    "notes": "before + 過去形。"
+  },
+  {
+    "jp": "その映画を見たあとで夕食を食べました。",
+    "en": "We had dinner after we watched the movie.",
+    "cn": "我们看完电影后吃了晚饭。",
+    "pinyin": "wǒ men kàn wán diàn yǐng hòu chī le wǎn fàn。",
+    "grammar": "時を表す従属節",
+    "notes": "after で時系列を明確にする。"
+  },
+  {
+    "jp": "雨がやんだら散歩に行きます。",
+    "en": "I will take a walk when the rain stops.",
+    "cn": "雨停了我就去散步。",
+    "pinyin": "yǔ tíng le wǒ jiù qù sàn bù。",
+    "grammar": "時を表す従属節",
+    "notes": "自然現象でも現在形。"
+  },
+  {
+    "jp": "駅に着く前に切符を買ってください。",
+    "en": "Please buy a ticket before you get to the station.",
+    "cn": "到车站前请先买票。",
+    "pinyin": "dào chē zhàn qián qǐng xiān mǎi piào。",
+    "grammar": "時を表す従属節",
+    "notes": "before 節で先行動作を示す。"
+  },
+  {
+    "jp": "仕事が終わったあとで彼に会いました。",
+    "en": "I met him after work ended.",
+    "cn": "下班后我见了他。",
+    "pinyin": "xià bān hòu wǒ jiàn le tā。",
+    "grammar": "時を表す従属節",
+    "notes": "after + 完了した出来事。"
+  },
+  {
+    "jp": "彼女が電話したとき、私は運転していました。",
+    "en": "I was driving when she called.",
+    "cn": "她打电话来的时候，我正在开车。",
+    "pinyin": "tā dǎ diàn huà lái de shí hòu， wǒ zhèng zài kāi chē。",
+    "grammar": "時を表す従属節",
+    "notes": "when 節と過去進行形。"
+  },
+  {
+    "jp": "朝食を食べる前に走りました。",
+    "en": "I ran before I ate breakfast.",
+    "cn": "我吃早饭前跑了步。",
+    "pinyin": "wǒ chī zǎo fàn qián pǎo le bù。",
+    "grammar": "時を表す従属節",
+    "notes": "before と過去形。"
+  },
+  {
+    "jp": "彼らが到着したあとで会議を始めました。",
+    "en": "We started the meeting after they arrived.",
+    "cn": "他们到达后，我们开始了会议。",
+    "pinyin": "tā men dào dá hòu， wǒ men kāi shǐ le huì yì。",
+    "grammar": "時を表す従属節",
+    "notes": "after + 過去形。"
+  },
+  {
+    "jp": "あなたに会う前にその話を聞いていました。",
+    "en": "I had heard the story before I met you.",
+    "cn": "在见到你之前，我就听说过那个故事。",
+    "pinyin": "zài jiàn dào nǐ zhī qián， wǒ jiù tīng shuō guò nà ge gù shì。",
+    "grammar": "時を表す従属節",
+    "notes": "before と過去完了。"
+  },
+  {
+    "jp": "授業が始まるときには席に着いていてください。",
+    "en": "Please be seated when the class starts.",
+    "cn": "上课开始时请坐好。",
+    "pinyin": "shàng kè kāi shǐ shí qǐng zuò hǎo。",
+    "grammar": "時を表す従属節",
+    "notes": "未来の時間でも starts。"
+  },
+  {
+    "jp": "家を出る前に窓を閉めてください。",
+    "en": "Please close the windows before you leave home.",
+    "cn": "你离开家前请把窗户关上。",
+    "pinyin": "nǐ lí kāi jiā qián qǐng bǎ chuāng hù guān shàng。",
+    "grammar": "時を表す従属節",
+    "notes": "命令文にも節をつけられる。"
+  },
+  {
+    "jp": "駅に着いたあとで私にメッセージしてください。",
+    "en": "Message me after you arrive at the station.",
+    "cn": "你到车站后给我发消息。",
+    "pinyin": "nǐ dào chē zhàn hòu gěi wǒ fā xiāo xī。",
+    "grammar": "時を表す従属節",
+    "notes": "after 節でも arrive は現在形。"
+  },
+  {
+    "jp": "彼女が笑うと部屋が明るくなります。",
+    "en": "The room feels brighter when she smiles.",
+    "cn": "她一笑，房间就显得更明亮。",
+    "pinyin": "tā yī xiào， fáng jiān jiù xiǎn de gèng míng liàng。",
+    "grammar": "時を表す従属節",
+    "notes": "when 節で一般的な事実も言える。"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "あなたは今日忙しいですよね。",
+    "en": "You're busy today, aren't you?",
+    "cn": "你今天很忙，对吧？",
+    "pinyin": "nǐ jīn tiān hěn máng， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "本体が肯定なら否定タグ。"
+  },
+  {
+    "jp": "彼は運転できますよね。",
+    "en": "He can drive, can't he?",
+    "cn": "他会开车，对吧？",
+    "pinyin": "tā huì kāi chē， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "助動詞をそのままタグに使う。"
+  },
+  {
+    "jp": "彼女はその答えを知っていますよね。",
+    "en": "She knows the answer, doesn't she?",
+    "cn": "她知道答案，对吧？",
+    "pinyin": "tā zhī dào dá àn， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "一般動詞のタグは do 系。"
+  },
+  {
+    "jp": "私たちはもう遅いですよね。",
+    "en": "We're late, aren't we?",
+    "cn": "我们已经迟到了，是吧？",
+    "pinyin": "wǒ men yǐ jīng chí dào le， shì ba？",
+    "grammar": "付加疑問",
+    "notes": "be動詞のタグ。"
+  },
+  {
+    "jp": "あなたはコーヒーが好きではないですよね。",
+    "en": "You don't like coffee, do you?",
+    "cn": "你不喜欢咖啡，对吧？",
+    "pinyin": "nǐ bù xǐ huān kā fēi， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "本体が否定なら肯定タグ。"
+  },
+  {
+    "jp": "彼らは昨日来ませんでしたよね。",
+    "en": "They didn't come yesterday, did they?",
+    "cn": "他们昨天没来，对吧？",
+    "pinyin": "tā men zuó tiān méi lái， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "過去否定のタグ。"
+  },
+  {
+    "jp": "その店は9時に開きますよね。",
+    "en": "The store opens at nine, doesn't it?",
+    "cn": "那家店九点开门，对吧？",
+    "pinyin": "nà jiā diàn jiǔ diǎn kāi mén， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "三人称単数現在のタグ。"
+  },
+  {
+    "jp": "彼女はまだ出発していませんよね。",
+    "en": "She hasn't left yet, has she?",
+    "cn": "她还没出发，对吧？",
+    "pinyin": "tā hái méi chū fā， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "現在完了のタグ。"
+  },
+  {
+    "jp": "あなたはここに住んでいるのですよね。",
+    "en": "You live here, don't you?",
+    "cn": "你住在这里，对吧？",
+    "pinyin": "nǐ zhù zài zhè lǐ， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "一般動詞肯定のタグ。"
+  },
+  {
+    "jp": "彼は昨日忙しかったですよね。",
+    "en": "He was busy yesterday, wasn't he?",
+    "cn": "他昨天很忙，对吧？",
+    "pinyin": "tā zuó tiān hěn máng， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "過去 be 動詞のタグ。"
+  },
+  {
+    "jp": "私たちは今待つべきですよね。",
+    "en": "We should wait now, shouldn't we?",
+    "cn": "我们现在应该等一等，对吧？",
+    "pinyin": "wǒ men xiàn zài yīng gāi děng yī děng， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "助動詞 should のタグ。"
+  },
+  {
+    "jp": "彼女はそのルールを破ってはいませんよね。",
+    "en": "She hasn't broken the rule, has she?",
+    "cn": "她没有违反那条规则，对吧？",
+    "pinyin": "tā méi yǒu wéi fǎn nà tiáo guī zé， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "否定完了のタグ。"
+  },
+  {
+    "jp": "あなたは手伝ってくれますよね。",
+    "en": "You'll help me, won't you?",
+    "cn": "你会帮我，对吧？",
+    "pinyin": "nǐ huì bāng wǒ， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "will のタグ。"
+  },
+  {
+    "jp": "彼らは明日来る予定ですよね。",
+    "en": "They're going to come tomorrow, aren't they?",
+    "cn": "他们明天会来，对吧？",
+    "pinyin": "tā men míng tiān huì lái， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "be going to のタグ。"
+  },
+  {
+    "jp": "私が間違っていませんよね。",
+    "en": "I'm not wrong, am I?",
+    "cn": "我没错吧？",
+    "pinyin": "wǒ méi cuò ba？",
+    "grammar": "付加疑問",
+    "notes": "I am のタグは am I?。"
+  },
+  {
+    "jp": "私は遅れているのですよね。",
+    "en": "I'm late, aren't I?",
+    "cn": "我迟到了，是吧？",
+    "pinyin": "wǒ chí dào le， shì ba？",
+    "grammar": "付加疑問",
+    "notes": "I am の肯定タグは aren't I?。"
+  },
+  {
+    "jp": "ここは暑すぎませんよね。",
+    "en": "It isn't too hot here, is it?",
+    "cn": "这里不算太热，对吧？",
+    "pinyin": "zhè lǐ bù suàn tài rè， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "否定 be 動詞のタグ。"
+  },
+  {
+    "jp": "その計画はうまくいくでしょう。",
+    "en": "The plan will work, won't it?",
+    "cn": "那个计划会成功的，对吧？",
+    "pinyin": "nà ge jì huà huì chéng gōng de， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "未来のタグ。"
+  },
+  {
+    "jp": "彼は今働いていますよね。",
+    "en": "He's working now, isn't he?",
+    "cn": "他现在在工作，对吧？",
+    "pinyin": "tā xiàn zài zài gōng zuò， duì ba？",
+    "grammar": "付加疑問",
+    "notes": "進行形のタグ。"
+  },
+  {
+    "jp": "一緒に行きましょう。",
+    "en": "Let's go together, shall we?",
+    "cn": "我们一起去吧。",
+    "pinyin": "wǒ men yì qǐ qù ba。",
+    "grammar": "付加疑問",
+    "notes": "Let's のタグは shall we?。"
+  }
+]

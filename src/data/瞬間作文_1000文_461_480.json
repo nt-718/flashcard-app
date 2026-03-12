@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "あなたは少し休むべきです。",
+    "en": "You should get some rest.",
+    "cn": "你应该休息一下。",
+    "pinyin": "nǐ yīng gāi xiū xī yī xià。",
+    "grammar": "should / ought to",
+    "notes": "should は助言を表す。"
+  },
+  {
+    "jp": "私たちは早く出るべきです。",
+    "en": "We should leave early.",
+    "cn": "我们应该早点出发。",
+    "pinyin": "wǒ men yīng gāi zǎo diǎn chū fā。",
+    "grammar": "should / ought to",
+    "notes": "勧め・提案の should。"
+  },
+  {
+    "jp": "彼はもっと野菜を食べるべきです。",
+    "en": "He should eat more vegetables.",
+    "cn": "他应该多吃蔬菜。",
+    "pinyin": "tā yīng gāi duō chī shū cài。",
+    "grammar": "should / ought to",
+    "notes": "should + 動詞原形。"
+  },
+  {
+    "jp": "彼女はそのメールに返信すべきです。",
+    "en": "She should reply to the email.",
+    "cn": "她应该回复那封邮件。",
+    "pinyin": "tā yīng gāi huí fù nà fēng yóu jiàn。",
+    "grammar": "should / ought to",
+    "notes": "助言を自然に言う形。"
+  },
+  {
+    "jp": "あなたは医者に診てもらうべきです。",
+    "en": "You ought to see a doctor.",
+    "cn": "你应该去看医生。",
+    "pinyin": "nǐ yīng gāi qù kàn yī shēng。",
+    "grammar": "should / ought to",
+    "notes": "ought to も助言を表す。"
+  },
+  {
+    "jp": "私たちは時間を無駄にすべきではありません。",
+    "en": "We shouldn't waste time.",
+    "cn": "我们不应该浪费时间。",
+    "pinyin": "wǒ men bù yīng gāi làng fèi shí jiān。",
+    "grammar": "should / ought to",
+    "notes": "should not で控えめな否定助言。"
+  },
+  {
+    "jp": "彼はもっとゆっくり話すべきです。",
+    "en": "He should speak more slowly.",
+    "cn": "他应该说慢一点。",
+    "pinyin": "tā yīng gāi shuō màn yì diǎn。",
+    "grammar": "should / ought to",
+    "notes": "発話への助言。"
+  },
+  {
+    "jp": "彼女は今日は家にいるべきです。",
+    "en": "She ought to stay home today.",
+    "cn": "她今天应该待在家里。",
+    "pinyin": "tā jīn tiān yīng gāi dài zài jiā lǐ。",
+    "grammar": "should / ought to",
+    "notes": "ought to + 動詞原形。"
+  },
+  {
+    "jp": "あなたはその箱に触るべきではありません。",
+    "en": "You shouldn't touch that box.",
+    "cn": "你不应该碰那个箱子。",
+    "pinyin": "nǐ bù yīng gāi pèng nà ge xiāng zi。",
+    "grammar": "should / ought to",
+    "notes": "禁止に近い弱めの助言。"
+  },
+  {
+    "jp": "私はもっと早く寝るべきです。",
+    "en": "I should go to bed earlier.",
+    "cn": "我应该早点睡。",
+    "pinyin": "wǒ yīng gāi zǎo diǎn shuì。",
+    "grammar": "should / ought to",
+    "notes": "自己助言にも使える。"
+  },
+  {
+    "jp": "私たちは出発前に確認すべきです。",
+    "en": "We should check before we leave.",
+    "cn": "我们应该在出发前确认一下。",
+    "pinyin": "wǒ men yīng gāi zài chū fā qián què rèn yī xià。",
+    "grammar": "should / ought to",
+    "notes": "確認の助言。"
+  },
+  {
+    "jp": "彼はその会議に参加すべきです。",
+    "en": "He ought to attend the meeting.",
+    "cn": "他应该参加那场会议。",
+    "pinyin": "tā yīng gāi cān jiā nà chǎng huì yì。",
+    "grammar": "should / ought to",
+    "notes": "参加を勧める。"
+  },
+  {
+    "jp": "彼女は約束を守るべきです。",
+    "en": "She should keep her promise.",
+    "cn": "她应该遵守承诺。",
+    "pinyin": "tā yīng gāi zūn shǒu chéng nuò。",
+    "grammar": "should / ought to",
+    "notes": "道徳的な助言。"
+  },
+  {
+    "jp": "あなたはその規則を知っておくべきです。",
+    "en": "You should know the rules.",
+    "cn": "你应该知道那些规则。",
+    "pinyin": "nǐ yīng gāi zhī dào nà xiē guī zé。",
+    "grammar": "should / ought to",
+    "notes": "知識面の助言。"
+  },
+  {
+    "jp": "私たちは今決めるべきではありません。",
+    "en": "We shouldn't decide now.",
+    "cn": "我们现在不应该做决定。",
+    "pinyin": "wǒ men xiàn zài bù yīng gāi zuò jué dìng。",
+    "grammar": "should / ought to",
+    "notes": "拙速を避ける助言。"
+  },
+  {
+    "jp": "彼らはもっと注意すべきです。",
+    "en": "They should be more careful.",
+    "cn": "他们应该再小心一点。",
+    "pinyin": "tā men yīng gāi zài xiǎo xīn yì diǎn。",
+    "grammar": "should / ought to",
+    "notes": "be 動詞も should の後ろは原形。"
+  },
+  {
+    "jp": "あなたはもっと水を飲むべきです。",
+    "en": "You ought to drink more water.",
+    "cn": "你应该多喝水。",
+    "pinyin": "nǐ yīng gāi duō hē shuǐ。",
+    "grammar": "should / ought to",
+    "notes": "健康に関する助言。"
+  },
+  {
+    "jp": "私はすぐに彼に謝るべきです。",
+    "en": "I should apologize to him right away.",
+    "cn": "我应该马上向他道歉。",
+    "pinyin": "wǒ yīng gāi mǎ shàng xiàng tā dào qiàn。",
+    "grammar": "should / ought to",
+    "notes": "should + 動詞原形。"
+  },
+  {
+    "jp": "私たちはこの問題について話し合うべきです。",
+    "en": "We ought to talk about this problem.",
+    "cn": "我们应该谈谈这个问题。",
+    "pinyin": "wǒ men yīng gāi tán tán zhè ge wèn tí。",
+    "grammar": "should / ought to",
+    "notes": "ought to の自然な使用。"
+  },
+  {
+    "jp": "彼女はその仕事を受けるべきではありません。",
+    "en": "She shouldn't take that job.",
+    "cn": "她不应该接受那份工作。",
+    "pinyin": "tā bù yīng gāi jiē shòu nà fèn gōng zuò。",
+    "grammar": "should / ought to",
+    "notes": "shouldn't で否定助言。"
+  }
+]

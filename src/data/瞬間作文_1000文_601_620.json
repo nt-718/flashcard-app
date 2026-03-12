@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "私は朝にいつもメールを確認します。",
+    "en": "I always check my email in the morning.",
+    "cn": "我早上总是查看邮件。",
+    "pinyin": "wǒ zǎo shàng zǒng shì chá kàn yóu jiàn。",
+    "grammar": "頻度副詞",
+    "notes": "頻度副詞は一般動詞の前。"
+  },
+  {
+    "jp": "彼女はたいてい家で昼食を食べます。",
+    "en": "She usually eats lunch at home.",
+    "cn": "她通常在家吃午饭。",
+    "pinyin": "tā tōng cháng zài jiā chī wǔ fàn。",
+    "grammar": "頻度副詞",
+    "notes": "usually は一般動詞の前。"
+  },
+  {
+    "jp": "私たちはよく週末に映画を見ます。",
+    "en": "We often watch movies on weekends.",
+    "cn": "我们周末常常看电影。",
+    "pinyin": "wǒ men zhōu mò cháng cháng kàn diàn yǐng。",
+    "grammar": "頻度副詞",
+    "notes": "often は一般動詞の前。"
+  },
+  {
+    "jp": "彼はときどき電車で通勤します。",
+    "en": "He sometimes goes to work by train.",
+    "cn": "他有时坐火车上班。",
+    "pinyin": "tā yǒu shí zuò huǒ chē shàng bān。",
+    "grammar": "頻度副詞",
+    "notes": "sometimes も一般動詞の前が基本。"
+  },
+  {
+    "jp": "彼らはめったに遅れません。",
+    "en": "They rarely arrive late.",
+    "cn": "他们很少迟到。",
+    "pinyin": "tā men hěn shǎo chí dào。",
+    "grammar": "頻度副詞",
+    "notes": "rarely は頻度が低いことを表す。"
+  },
+  {
+    "jp": "私は夜にコーヒーを決して飲みません。",
+    "en": "I never drink coffee at night.",
+    "cn": "我晚上从不喝咖啡。",
+    "pinyin": "wǒ wǎn shàng cóng bù hē kā fēi。",
+    "grammar": "頻度副詞",
+    "notes": "never は強い否定を含む。"
+  },
+  {
+    "jp": "彼女はいつも時間通りです。",
+    "en": "She is always on time.",
+    "cn": "她总是很准时。",
+    "pinyin": "tā zǒng shì hěn zhǔn shí。",
+    "grammar": "頻度副詞",
+    "notes": "be動詞のときは頻度副詞を後ろに置く。"
+  },
+  {
+    "jp": "私たちはたいてい忙しいです。",
+    "en": "We are usually busy.",
+    "cn": "我们通常都很忙。",
+    "pinyin": "wǒ men tōng cháng dōu hěn máng。",
+    "grammar": "頻度副詞",
+    "notes": "be動詞 + 頻度副詞。"
+  },
+  {
+    "jp": "彼はよく疲れています。",
+    "en": "He is often tired.",
+    "cn": "他经常很累。",
+    "pinyin": "tā jīng cháng hěn lèi。",
+    "grammar": "頻度副詞",
+    "notes": "be の後ろに often。"
+  },
+  {
+    "jp": "その店は日曜にはたいてい空いています。",
+    "en": "The store is usually open on Sundays.",
+    "cn": "那家店星期天通常开门。",
+    "pinyin": "nà jiā diàn xīng qī tiān tōng cháng kāi mén。",
+    "grammar": "頻度副詞",
+    "notes": "状態にも頻度副詞を使える。"
+  },
+  {
+    "jp": "私はときどき昼食を抜きます。",
+    "en": "I sometimes skip lunch.",
+    "cn": "我有时不吃午饭。",
+    "pinyin": "wǒ yǒu shí bù chī wǔ fàn。",
+    "grammar": "頻度副詞",
+    "notes": "sometimes + 一般動詞。"
+  },
+  {
+    "jp": "彼女はめったにテレビを見ません。",
+    "en": "She rarely watches TV.",
+    "cn": "她很少看电视。",
+    "pinyin": "tā hěn shǎo kàn diàn shì。",
+    "grammar": "頻度副詞",
+    "notes": "rarely で頻度の低さを表す。"
+  },
+  {
+    "jp": "私たちはよく外食します。",
+    "en": "We often eat out.",
+    "cn": "我们经常在外面吃饭。",
+    "pinyin": "wǒ men jīng cháng zài wài miàn chī fàn。",
+    "grammar": "頻度副詞",
+    "notes": "句動詞の前に頻度副詞。"
+  },
+  {
+    "jp": "彼はいつもドアを閉めます。",
+    "en": "He always closes the door.",
+    "cn": "他总是关门。",
+    "pinyin": "tā zǒng shì guān mén。",
+    "grammar": "頻度副詞",
+    "notes": "三人称単数でも副詞の位置は同じ。"
+  },
+  {
+    "jp": "彼らはたまに公園に行きます。",
+    "en": "They sometimes go to the park.",
+    "cn": "他们有时候去公园。",
+    "pinyin": "tā men yǒu shí hòu qù gōng yuán。",
+    "grammar": "頻度副詞",
+    "notes": "sometimes の位置に慣れる。"
+  },
+  {
+    "jp": "私はほとんど歩きません。",
+    "en": "I rarely walk there.",
+    "cn": "我很少走路去那里。",
+    "pinyin": "wǒ hěn shǎo zǒu lù qù nà lǐ。",
+    "grammar": "頻度副詞",
+    "notes": "rarely で『ほとんど〜ない』。"
+  },
+  {
+    "jp": "彼女は決して嘘をつきません。",
+    "en": "She never tells lies.",
+    "cn": "她从来不撒谎。",
+    "pinyin": "tā cóng lái bù sā huǎng。",
+    "grammar": "頻度副詞",
+    "notes": "never は do not を使わない。"
+  },
+  {
+    "jp": "私たちはいつも準備ができています。",
+    "en": "We are always ready.",
+    "cn": "我们总是准备好了。",
+    "pinyin": "wǒ men zǒng shì zhǔn bèi hǎo le。",
+    "grammar": "頻度副詞",
+    "notes": "be動詞の後ろに always。"
+  },
+  {
+    "jp": "彼はたいてい早く起きます。",
+    "en": "He usually gets up early.",
+    "cn": "他通常起得很早。",
+    "pinyin": "tā tōng cháng qǐ dé hěn zǎo。",
+    "grammar": "頻度副詞",
+    "notes": "get up の前に usually。"
+  },
+  {
+    "jp": "その電車はしばしば遅れます。",
+    "en": "The train is often late.",
+    "cn": "那班火车常常晚点。",
+    "pinyin": "nà bān huǒ chē cháng cháng wǎn diǎn。",
+    "grammar": "頻度副詞",
+    "notes": "be late と often の組み合わせ。"
+  }
+]

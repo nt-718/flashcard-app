@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "彼がどこに住んでいるか知っていますか。",
+    "en": "Do you know where he lives?",
+    "cn": "你知道他住在哪里吗？",
+    "pinyin": "nǐ zhī dào tā zhù zài nǎ lǐ ma？",
+    "grammar": "間接疑問",
+    "notes": "間接疑問は平叙文語順に戻す。"
+  },
+  {
+    "jp": "会議が何時に始まるか教えてください。",
+    "en": "Please tell me what time the meeting starts.",
+    "cn": "请告诉我会议几点开始。",
+    "pinyin": "qǐng gào sù wǒ huì yì jǐ diǎn kāi shǐ。",
+    "grammar": "間接疑問",
+    "notes": "what time の後ろは平叙文語順。"
+  },
+  {
+    "jp": "彼女がなぜ怒っているのか分かりません。",
+    "en": "I do not know why she is angry.",
+    "cn": "我不知道她为什么生气。",
+    "pinyin": "wǒ bù zhī dào tā wèi shén me shēng qì。",
+    "grammar": "間接疑問",
+    "notes": "why の後ろも疑問文語順にしない。"
+  },
+  {
+    "jp": "次の電車がいつ来るか知っていますか。",
+    "en": "Do you know when the next train comes?",
+    "cn": "你知道下一班火车什么时候来吗？",
+    "pinyin": "nǐ zhī dào xià yī bān huǒ chē shén me shí hòu lái ma？",
+    "grammar": "間接疑問",
+    "notes": "when 節でも comes。"
+  },
+  {
+    "jp": "彼らがどのホテルに泊まっているのか知りたいです。",
+    "en": "I want to know which hotel they are staying at.",
+    "cn": "我想知道他们住的是哪家酒店。",
+    "pinyin": "wǒ xiǎng zhī dào tā men zhù de shì nǎ jiā jiǔ diàn。",
+    "grammar": "間接疑問",
+    "notes": "which + 名詞でも平叙文語順。"
+  },
+  {
+    "jp": "この単語をどう発音するか分かりますか。",
+    "en": "Do you know how to pronounce this word?",
+    "cn": "你知道这个单词怎么发音吗？",
+    "pinyin": "nǐ zhī dào zhè ge dān cí zěn me fā yīn ma？",
+    "grammar": "間接疑問",
+    "notes": "how to 不定詞も自然。"
+  },
+  {
+    "jp": "彼が何を言いたかったのか分かりません。",
+    "en": "I do not know what he meant.",
+    "cn": "我不知道他想说什么。",
+    "pinyin": "wǒ bù zhī dào tā xiǎng shuō shén me。",
+    "grammar": "間接疑問",
+    "notes": "what 節を名詞節として使う。"
+  },
+  {
+    "jp": "どの道が一番速いか教えてください。",
+    "en": "Please tell me which route is the fastest.",
+    "cn": "请告诉我哪条路线最快。",
+    "pinyin": "qǐng gào sù wǒ nǎ tiáo lù xiàn zuì kuài。",
+    "grammar": "間接疑問",
+    "notes": "which route is ... の形。"
+  },
+  {
+    "jp": "彼女が誰と来たのか覚えていますか。",
+    "en": "Do you remember who she came with?",
+    "cn": "你记得她是和谁一起来的吗？",
+    "pinyin": "nǐ jì de tā shì hé shuí yì qǐ lái de ma？",
+    "grammar": "間接疑問",
+    "notes": "前置詞を後ろに残せる。"
+  },
+  {
+    "jp": "彼がその仕事を辞めた理由を知っていますか。",
+    "en": "Do you know why he quit the job?",
+    "cn": "你知道他为什么辞掉那份工作吗？",
+    "pinyin": "nǐ zhī dào tā wèi shén me cí diào nà fèn gōng zuò ma？",
+    "grammar": "間接疑問",
+    "notes": "why で理由をたずねる。"
+  },
+  {
+    "jp": "彼らが今どこにいるのか気になります。",
+    "en": "I wonder where they are now.",
+    "cn": "我想知道他们现在在哪里。",
+    "pinyin": "wǒ xiǎng zhī dào tā men xiàn zài zài nǎ lǐ。",
+    "grammar": "間接疑問",
+    "notes": "I wonder + 間接疑問。"
+  },
+  {
+    "jp": "彼女がその答えをどう知ったのか聞きました。",
+    "en": "I asked how she knew the answer.",
+    "cn": "我问过她是怎么知道答案的。",
+    "pinyin": "wǒ wèn guò tā shì zěn me zhī dào dá àn de。",
+    "grammar": "間接疑問",
+    "notes": "asked + 間接疑問。"
+  },
+  {
+    "jp": "その店がまだ開いているか確認してください。",
+    "en": "Please check whether the store is still open.",
+    "cn": "请确认那家店是不是还开着。",
+    "pinyin": "qǐng què rèn nà jiā diàn shì bú shì hái kāi zhe。",
+    "grammar": "間接疑問",
+    "notes": "whether を使うとより書き言葉的。"
+  },
+  {
+    "jp": "彼がいつ出発したのか誰も知りません。",
+    "en": "No one knows when he left.",
+    "cn": "没有人知道他什么时候离开的。",
+    "pinyin": "méi yǒu rén zhī dào tā shén me shí hòu lí kāi de。",
+    "grammar": "間接疑問",
+    "notes": "know + when 節。"
+  },
+  {
+    "jp": "彼女が本当に忙しいのか気になります。",
+    "en": "I wonder whether she is really busy.",
+    "cn": "我想知道她是不是真的很忙。",
+    "pinyin": "wǒ xiǎng zhī dào tā shì bú shì zhēn de hěn máng。",
+    "grammar": "間接疑問",
+    "notes": "whether で二者択一・不確定。"
+  },
+  {
+    "jp": "どのバスが空港に行くか分かりますか。",
+    "en": "Do you know which bus goes to the airport?",
+    "cn": "你知道哪路公交车去机场吗？",
+    "pinyin": "nǐ zhī dào nǎ lù gōng jiāo chē qù jī chǎng ma？",
+    "grammar": "間接疑問",
+    "notes": "which bus goes ... の語順。"
+  },
+  {
+    "jp": "彼らが何人来るのか教えてください。",
+    "en": "Please tell me how many people are coming.",
+    "cn": "请告诉我会来多少人。",
+    "pinyin": "qǐng gào sù wǒ huì lái duō shǎo rén。",
+    "grammar": "間接疑問",
+    "notes": "how many の後ろは平叙文語順。"
+  },
+  {
+    "jp": "彼がどのくらい待ったのか聞きました。",
+    "en": "I asked how long he had waited.",
+    "cn": "我问过他等了多久。",
+    "pinyin": "wǒ wèn guò tā děng le duō jiǔ。",
+    "grammar": "間接疑問",
+    "notes": "how long + 平叙文語順。"
+  },
+  {
+    "jp": "彼女が明日来るかどうか分かりません。",
+    "en": "I do not know whether she will come tomorrow.",
+    "cn": "我不知道她明天会不会来。",
+    "pinyin": "wǒ bù zhī dào tā míng tiān huì bú huì lái。",
+    "grammar": "間接疑問",
+    "notes": "whether で『〜かどうか』。"
+  },
+  {
+    "jp": "私たちがどこで会うか決めましょう。",
+    "en": "Let's decide where we will meet.",
+    "cn": "我们来决定在哪里见面吧。",
+    "pinyin": "wǒ men lái jué dìng zài nǎ lǐ jiàn miàn ba。",
+    "grammar": "間接疑問",
+    "notes": "主節内の名詞節として使う。"
+  }
+]

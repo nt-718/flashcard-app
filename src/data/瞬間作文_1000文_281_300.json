@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "私はあとであなたに電話します。",
+    "en": "I will call you later.",
+    "cn": "我稍后会给你打电话。",
+    "pinyin": "wǒ shāo hòu huì gěi nǐ dǎ diàn huà。",
+    "grammar": "未来表現 will",
+    "notes": "will はその場の判断や未来の予測。"
+  },
+  {
+    "jp": "私は明日そのレポートを終えます。",
+    "en": "I will finish the report tomorrow.",
+    "cn": "我明天会完成那份报告。",
+    "pinyin": "wǒ míng tiān huì wán chéng nà fèn bào gào。",
+    "grammar": "未来表現 will",
+    "notes": "未来の出来事を will で述べる。"
+  },
+  {
+    "jp": "私は駅であなたに会います。",
+    "en": "I will meet you at the station.",
+    "cn": "我会在车站见你。",
+    "pinyin": "wǒ huì zài chē zhàn jiàn nǐ。",
+    "grammar": "未来表現 will",
+    "notes": "will + 動詞原形。"
+  },
+  {
+    "jp": "私はすぐそこに着きます。",
+    "en": "I will be there soon.",
+    "cn": "我很快就会到那里。",
+    "pinyin": "wǒ hěn kuài jiù huì dào nà lǐ。",
+    "grammar": "未来表現 will",
+    "notes": "be 動詞も will の後ろは原形。"
+  },
+  {
+    "jp": "私たちはあとであなたに電話します。",
+    "en": "We will call you later.",
+    "cn": "我们稍后会给你打电话。",
+    "pinyin": "wǒ men shāo hòu huì gěi nǐ dǎ diàn huà。",
+    "grammar": "未来表現 will",
+    "notes": "will はその場の判断や未来の予測。"
+  },
+  {
+    "jp": "私たちは明日そのレポートを終えます。",
+    "en": "We will finish the report tomorrow.",
+    "cn": "我们明天会完成那份报告。",
+    "pinyin": "wǒ men míng tiān huì wán chéng nà fèn bào gào。",
+    "grammar": "未来表現 will",
+    "notes": "未来の出来事を will で述べる。"
+  },
+  {
+    "jp": "私たちは駅であなたに会います。",
+    "en": "We will meet you at the station.",
+    "cn": "我们会在车站见你。",
+    "pinyin": "wǒ men huì zài chē zhàn jiàn nǐ。",
+    "grammar": "未来表現 will",
+    "notes": "will + 動詞原形。"
+  },
+  {
+    "jp": "私たちはすぐそこに着きます。",
+    "en": "We will be there soon.",
+    "cn": "我们很快就会到那里。",
+    "pinyin": "wǒ men hěn kuài jiù huì dào nà lǐ。",
+    "grammar": "未来表現 will",
+    "notes": "be 動詞も will の後ろは原形。"
+  },
+  {
+    "jp": "彼はあとであなたに電話します。",
+    "en": "He will call you later.",
+    "cn": "他稍后会给你打电话。",
+    "pinyin": "tā shāo hòu huì gěi nǐ dǎ diàn huà。",
+    "grammar": "未来表現 will",
+    "notes": "will はその場の判断や未来の予測。"
+  },
+  {
+    "jp": "彼は明日そのレポートを終えます。",
+    "en": "He will finish the report tomorrow.",
+    "cn": "他明天会完成那份报告。",
+    "pinyin": "tā míng tiān huì wán chéng nà fèn bào gào。",
+    "grammar": "未来表現 will",
+    "notes": "未来の出来事を will で述べる。"
+  },
+  {
+    "jp": "彼は駅であなたに会います。",
+    "en": "He will meet you at the station.",
+    "cn": "他会在车站见你。",
+    "pinyin": "tā huì zài chē zhàn jiàn nǐ。",
+    "grammar": "未来表現 will",
+    "notes": "will + 動詞原形。"
+  },
+  {
+    "jp": "彼はすぐそこに着きます。",
+    "en": "He will be there soon.",
+    "cn": "他很快就会到那里。",
+    "pinyin": "tā hěn kuài jiù huì dào nà lǐ。",
+    "grammar": "未来表現 will",
+    "notes": "be 動詞も will の後ろは原形。"
+  },
+  {
+    "jp": "彼女はあとであなたに電話します。",
+    "en": "She will call you later.",
+    "cn": "她稍后会给你打电话。",
+    "pinyin": "tā shāo hòu huì gěi nǐ dǎ diàn huà。",
+    "grammar": "未来表現 will",
+    "notes": "will はその場の判断や未来の予測。"
+  },
+  {
+    "jp": "彼女は明日そのレポートを終えます。",
+    "en": "She will finish the report tomorrow.",
+    "cn": "她明天会完成那份报告。",
+    "pinyin": "tā míng tiān huì wán chéng nà fèn bào gào。",
+    "grammar": "未来表現 will",
+    "notes": "未来の出来事を will で述べる。"
+  },
+  {
+    "jp": "彼女は駅であなたに会います。",
+    "en": "She will meet you at the station.",
+    "cn": "她会在车站见你。",
+    "pinyin": "tā huì zài chē zhàn jiàn nǐ。",
+    "grammar": "未来表現 will",
+    "notes": "will + 動詞原形。"
+  },
+  {
+    "jp": "彼女はすぐそこに着きます。",
+    "en": "She will be there soon.",
+    "cn": "她很快就会到那里。",
+    "pinyin": "tā hěn kuài jiù huì dào nà lǐ。",
+    "grammar": "未来表現 will",
+    "notes": "be 動詞も will の後ろは原形。"
+  },
+  {
+    "jp": "彼らはあとであなたに電話します。",
+    "en": "They will call you later.",
+    "cn": "他们稍后会给你打电话。",
+    "pinyin": "tā men shāo hòu huì gěi nǐ dǎ diàn huà。",
+    "grammar": "未来表現 will",
+    "notes": "will はその場の判断や未来の予測。"
+  },
+  {
+    "jp": "彼らは明日そのレポートを終えます。",
+    "en": "They will finish the report tomorrow.",
+    "cn": "他们明天会完成那份报告。",
+    "pinyin": "tā men míng tiān huì wán chéng nà fèn bào gào。",
+    "grammar": "未来表現 will",
+    "notes": "未来の出来事を will で述べる。"
+  },
+  {
+    "jp": "彼らは駅であなたに会います。",
+    "en": "They will meet you at the station.",
+    "cn": "他们会在车站见你。",
+    "pinyin": "tā men huì zài chē zhàn jiàn nǐ。",
+    "grammar": "未来表現 will",
+    "notes": "will + 動詞原形。"
+  },
+  {
+    "jp": "彼らはすぐそこに着きます。",
+    "en": "They will be there soon.",
+    "cn": "他们很快就会到那里。",
+    "pinyin": "tā men hěn kuài jiù huì dào nà lǐ。",
+    "grammar": "未来表現 will",
+    "notes": "be 動詞も will の後ろは原形。"
+  }
+]

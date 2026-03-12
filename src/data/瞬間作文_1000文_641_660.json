@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "これはこの店で一番安いバッグです。",
+    "en": "This is the cheapest bag in this store.",
+    "cn": "这是这家店最便宜的包。",
+    "pinyin": "zhè shì zhè jiā diàn zuì pián yi de bāo。",
+    "grammar": "最上級",
+    "notes": "最上級は the + 形容詞est。"
+  },
+  {
+    "jp": "彼は私のクラスで一番背が高いです。",
+    "en": "He is the tallest in my class.",
+    "cn": "他是我班里最高的人。",
+    "pinyin": "tā shì wǒ bān lǐ zuì gāo de rén。",
+    "grammar": "最上級",
+    "notes": "範囲を in / of で示す。"
+  },
+  {
+    "jp": "今日は今週で一番暑い日です。",
+    "en": "Today is the hottest day of the week.",
+    "cn": "今天是这周最热的一天。",
+    "pinyin": "jīn tiān shì zhè zhōu zuì rè de yī tiān。",
+    "grammar": "最上級",
+    "notes": "範囲は of the week とすると自然。"
+  },
+  {
+    "jp": "これは私が今まで読んだ中で一番面白い本です。",
+    "en": "This is the most interesting book I have ever read.",
+    "cn": "这是我读过的最有意思的一本书。",
+    "pinyin": "zhè shì wǒ dú guò de zuì yǒu yì si de yī běn shū。",
+    "grammar": "最上級",
+    "notes": "長い形容詞は the most。"
+  },
+  {
+    "jp": "彼女は私たちのチームで一番忙しいです。",
+    "en": "She is the busiest on our team.",
+    "cn": "她是我们团队里最忙的人。",
+    "pinyin": "tā shì wǒ men tuán duì lǐ zuì máng de rén。",
+    "grammar": "最上級",
+    "notes": "busy → busiest。"
+  },
+  {
+    "jp": "この駅がこの町で一番大きいです。",
+    "en": "This station is the biggest in this town.",
+    "cn": "这个车站是这个镇上最大的。",
+    "pinyin": "zhè ge chē zhàn shì zhè ge zhèn shàng zuì dà de。",
+    "grammar": "最上級",
+    "notes": "big → biggest。"
+  },
+  {
+    "jp": "彼は家族の中で一番早く起きます。",
+    "en": "He gets up the earliest in his family.",
+    "cn": "他在家里起得最早。",
+    "pinyin": "tā zài jiā lǐ qǐ dé zuì zǎo。",
+    "grammar": "最上級",
+    "notes": "副詞の最上級も the earliest。"
+  },
+  {
+    "jp": "その青い車が三台の中で一番速いです。",
+    "en": "The blue car is the fastest of the three.",
+    "cn": "那辆蓝色汽车是三辆车里最快的。",
+    "pinyin": "nà liàng lán sè qì chē shì sān liàng chē lǐ zuì kuài de。",
+    "grammar": "最上級",
+    "notes": "of the three で範囲を示す。"
+  },
+  {
+    "jp": "これはこのホテルで一番静かな部屋です。",
+    "en": "This is the quietest room in this hotel.",
+    "cn": "这是这家酒店最安静的房间。",
+    "pinyin": "zhè shì zhè jiā jiǔ diàn zuì ān jìng de fáng jiān。",
+    "grammar": "最上級",
+    "notes": "短い形容詞は -est。"
+  },
+  {
+    "jp": "彼女は会社で一番経験豊富です。",
+    "en": "She is the most experienced in the company.",
+    "cn": "她是公司里经验最丰富的人。",
+    "pinyin": "tā shì gōng sī lǐ jīng yàn zuì fēng fù de rén。",
+    "grammar": "最上級",
+    "notes": "経験豊富は the most experienced。"
+  },
+  {
+    "jp": "この問題が試験で一番難しかったです。",
+    "en": "This problem was the most difficult on the test.",
+    "cn": "这道题是考试里最难的。",
+    "pinyin": "zhè dào tí shì kǎo shì lǐ zuì nán de。",
+    "grammar": "最上級",
+    "notes": "difficult は the most difficult。"
+  },
+  {
+    "jp": "私の弟が家族で一番若いです。",
+    "en": "My brother is the youngest in my family.",
+    "cn": "我弟弟是家里最小的。",
+    "pinyin": "wǒ dì di shì jiā lǐ zuì xiǎo de。",
+    "grammar": "最上級",
+    "notes": "young → youngest。"
+  },
+  {
+    "jp": "この机が部屋で一番重いです。",
+    "en": "This desk is the heaviest in the room.",
+    "cn": "这张桌子是房间里最重的。",
+    "pinyin": "zhè zhāng zhuō zi shì fáng jiān lǐ zuì zhòng de。",
+    "grammar": "最上級",
+    "notes": "heavy → heaviest。"
+  },
+  {
+    "jp": "彼らのチームが大会で一番強かったです。",
+    "en": "Their team was the strongest in the tournament.",
+    "cn": "他们的队是比赛中最强的。",
+    "pinyin": "tā men de duì shì bǐ sài zhōng zuì qiáng de。",
+    "grammar": "最上級",
+    "notes": "strong → strongest。"
+  },
+  {
+    "jp": "この道がここでは一番安全です。",
+    "en": "This road is the safest around here.",
+    "cn": "这条路是这附近最安全的。",
+    "pinyin": "zhè tiáo lù shì zhè fù jìn zuì ān quán de。",
+    "grammar": "最上級",
+    "notes": "safe → safest。"
+  },
+  {
+    "jp": "その映画が今年一番人気です。",
+    "en": "That movie is the most popular this year.",
+    "cn": "那部电影是今年最受欢迎的。",
+    "pinyin": "nà bù diàn yǐng shì jīn nián zuì shòu huān yíng de。",
+    "grammar": "最上級",
+    "notes": "popular は the most popular。"
+  },
+  {
+    "jp": "これは私にとって一番重要な決定です。",
+    "en": "This is the most important decision for me.",
+    "cn": "这对我来说是最重要的决定。",
+    "pinyin": "zhè duì wǒ lái shuō shì zuì zhòng yào de jué dìng。",
+    "grammar": "最上級",
+    "notes": "important は the most important。"
+  },
+  {
+    "jp": "彼は部署で一番よく働きます。",
+    "en": "He works the hardest in the department.",
+    "cn": "他是部门里工作最努力的。",
+    "pinyin": "tā shì bù mén lǐ gōng zuò zuì nǔ lì de。",
+    "grammar": "最上級",
+    "notes": "副詞 hard の最上級。"
+  },
+  {
+    "jp": "これは駅の近くで一番便利な店です。",
+    "en": "This is the most convenient store near the station.",
+    "cn": "这是车站附近最方便的店。",
+    "pinyin": "zhè shì chē zhàn fù jìn zuì fāng biàn de diàn。",
+    "grammar": "最上級",
+    "notes": "the most convenient + 名詞 の形。"
+  },
+  {
+    "jp": "彼女が私の知る中で一番親切な人です。",
+    "en": "She is the kindest person I know.",
+    "cn": "她是我认识的人里最善良的。",
+    "pinyin": "tā shì wǒ rèn shí de rén lǐ zuì shàn liáng de。",
+    "grammar": "最上級",
+    "notes": "kind → kindest。"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "ドアのそばに立っている女性は私の上司です。",
+    "en": "The woman who is standing by the door is my boss.",
+    "cn": "站在门边的那个女人是我的上司。",
+    "pinyin": "zhàn zài mén biān de nà ge nǚ rén shì wǒ de shàng sī。",
+    "grammar": "関係代名詞",
+    "notes": "人を説明するなら who。"
+  },
+  {
+    "jp": "私が昨日買った本は面白いです。",
+    "en": "The book that I bought yesterday is interesting.",
+    "cn": "我昨天买的那本书很有意思。",
+    "pinyin": "wǒ zuó tiān mǎi de nà běn shū hěn yǒu yì si。",
+    "grammar": "関係代名詞",
+    "notes": "物を目的語で説明するなら that / which。"
+  },
+  {
+    "jp": "駅の近くにあるカフェは人気があります。",
+    "en": "The cafe which is near the station is popular.",
+    "cn": "车站附近的那家咖啡馆很受欢迎。",
+    "pinyin": "chē zhàn fù jìn de nà jiā kā fēi guǎn hěn shòu huān yíng。",
+    "grammar": "関係代名詞",
+    "notes": "which で物を説明する。"
+  },
+  {
+    "jp": "英語を教えている先生は私の叔母です。",
+    "en": "The teacher who teaches English is my aunt.",
+    "cn": "教英语的那位老师是我姑妈。",
+    "pinyin": "jiào yīng yǔ de nà wèi lǎo shī shì wǒ gū mā。",
+    "grammar": "関係代名詞",
+    "notes": "who + 動詞で人を修飾。"
+  },
+  {
+    "jp": "私たちが必要としている情報はこれです。",
+    "en": "This is the information that we need.",
+    "cn": "这就是我们需要的信息。",
+    "pinyin": "zhè jiù shì wǒ men xū yào de xìn xī。",
+    "grammar": "関係代名詞",
+    "notes": "先行詞が物で目的語なら that が自然。"
+  },
+  {
+    "jp": "昨日電話した人はもう来ました。",
+    "en": "The person who called yesterday has already arrived.",
+    "cn": "昨天打电话来的那个人已经到了。",
+    "pinyin": "zuó tiān dǎ diàn huà lái de nà ge rén yǐ jīng dào le。",
+    "grammar": "関係代名詞",
+    "notes": "主格の who。"
+  },
+  {
+    "jp": "彼が住んでいる家は大きいです。",
+    "en": "The house that he lives in is large.",
+    "cn": "他住的那所房子很大。",
+    "pinyin": "tā zhù de nà suǒ fáng zi hěn dà。",
+    "grammar": "関係代名詞",
+    "notes": "前置詞を後ろに残せる。"
+  },
+  {
+    "jp": "私が見ていた映画は終わりました。",
+    "en": "The movie that I was watching ended.",
+    "cn": "我当时正在看的那部电影已经结束了。",
+    "pinyin": "wǒ dāng shí zhèng zài kàn de nà bù diàn yǐng yǐ jīng jié shù le。",
+    "grammar": "関係代名詞",
+    "notes": "目的格の that。"
+  },
+  {
+    "jp": "窓が壊れている部屋は使えません。",
+    "en": "The room that has a broken window cannot be used.",
+    "cn": "那个窗户坏了的房间不能用。",
+    "pinyin": "nà ge chuāng hù huài le de fáng jiān bù néng yòng。",
+    "grammar": "関係代名詞",
+    "notes": "関係代名詞で名詞を後ろから説明。"
+  },
+  {
+    "jp": "私たちが昨日会った男性は医者です。",
+    "en": "The man whom we met yesterday is a doctor.",
+    "cn": "我们昨天见到的那位男士是医生。",
+    "pinyin": "wǒ men zuó tiān jiàn dào de nà wèi nán shì shì yī shēng。",
+    "grammar": "関係代名詞",
+    "notes": "whom は目的格だが会話では who / that も多い。"
+  },
+  {
+    "jp": "彼女が作ったケーキはおいしかったです。",
+    "en": "The cake that she made was delicious.",
+    "cn": "她做的蛋糕很好吃。",
+    "pinyin": "tā zuò de dàn gāo hěn hǎo chī。",
+    "grammar": "関係代名詞",
+    "notes": "made の目的語を後ろから説明。"
+  },
+  {
+    "jp": "私が働いている会社は駅の近くです。",
+    "en": "The company where I work is near the station.",
+    "cn": "我工作的那家公司在车站附近。",
+    "pinyin": "wǒ gōng zuò de nà jiā gōng sī zài chē zhàn fù jìn。",
+    "grammar": "関係代名詞",
+    "notes": "場所は where も使える。"
+  },
+  {
+    "jp": "私が必要なペンはその引き出しにあります。",
+    "en": "The pen that I need is in that drawer.",
+    "cn": "我需要的那支笔在那个抽屉里。",
+    "pinyin": "wǒ xū yào de nà zhī bǐ zài nà ge chōu tì lǐ。",
+    "grammar": "関係代名詞",
+    "notes": "that I need で名詞を限定する。"
+  },
+  {
+    "jp": "窓際に座っている男の子は私の息子です。",
+    "en": "The boy who is sitting by the window is my son.",
+    "cn": "坐在窗边的那个男孩是我儿子。",
+    "pinyin": "zuò zài chuāng biān de nà ge nán hái shì wǒ ér zi。",
+    "grammar": "関係代名詞",
+    "notes": "人 + who is ...。"
+  },
+  {
+    "jp": "彼らが予約したホテルは海の近くです。",
+    "en": "The hotel that they booked is near the sea.",
+    "cn": "他们预订的那家酒店在海边。",
+    "pinyin": "tā men yù dìng de nà jiā jiǔ diàn zài hǎi biān。",
+    "grammar": "関係代名詞",
+    "notes": "booked の目的語を修飾。"
+  },
+  {
+    "jp": "私たちが話していた問題はこれです。",
+    "en": "This is the problem that we were talking about.",
+    "cn": "这就是我们刚才在谈的问题。",
+    "pinyin": "zhè jiù shì wǒ men gāng cái zài tán de wèn tí。",
+    "grammar": "関係代名詞",
+    "notes": "about を後ろに残した自然な形。"
+  },
+  {
+    "jp": "彼女がいつも使っているバッグは黒いです。",
+    "en": "The bag that she always uses is black.",
+    "cn": "她总是用的那个包是黑色的。",
+    "pinyin": "tā zǒng shì yòng de nà ge bāo shì hēi sè de。",
+    "grammar": "関係代名詞",
+    "notes": "uses の目的語を修飾。"
+  },
+  {
+    "jp": "彼が働いている店は9時に開きます。",
+    "en": "The store where he works opens at nine.",
+    "cn": "他工作的那家店九点开门。",
+    "pinyin": "tā gōng zuò de nà jiā diàn jiǔ diǎn kāi mén。",
+    "grammar": "関係代名詞",
+    "notes": "場所の関係副詞 where。"
+  },
+  {
+    "jp": "私が尊敬している人は父です。",
+    "en": "The person whom I respect is my father.",
+    "cn": "我尊敬的人是我父亲。",
+    "pinyin": "wǒ zūn jìng de rén shì wǒ fù qīn。",
+    "grammar": "関係代名詞",
+    "notes": "目的格の関係代名詞。"
+  },
+  {
+    "jp": "彼らが住んでいる町は静かです。",
+    "en": "The town where they live is quiet.",
+    "cn": "他们住的那个镇很安静。",
+    "pinyin": "tā men zhù de nà ge zhèn hěn ān jìng。",
+    "grammar": "関係代名詞",
+    "notes": "where で場所を修飾する。"
+  }
+]

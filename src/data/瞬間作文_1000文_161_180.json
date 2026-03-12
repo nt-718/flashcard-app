@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "駅の近くにカフェがあります。",
+    "en": "There is a cafe near the station.",
+    "cn": "车站附近有一家咖啡馆。",
+    "pinyin": "chē zhàn fù jìn yǒu yī jiā kā fēi guǎn。",
+    "grammar": "there is / there are",
+    "notes": "存在を言うときは There is / are。"
+  },
+  {
+    "jp": "部屋に椅子が二脚あります。",
+    "en": "There are two chairs in the room.",
+    "cn": "房间里有两把椅子。",
+    "pinyin": "fáng jiān lǐ yǒu liǎng bǎ yǐ zi。",
+    "grammar": "there is / there are",
+    "notes": "複数名詞なら There are。"
+  },
+  {
+    "jp": "机の上に本が一冊あります。",
+    "en": "There is a book on the desk.",
+    "cn": "书桌上有一本书。",
+    "pinyin": "shū zhuō shàng yǒu yī běn shū。",
+    "grammar": "there is / there are",
+    "notes": "単数名詞なら There is。"
+  },
+  {
+    "jp": "公園にたくさんの木があります。",
+    "en": "There are many trees in the park.",
+    "cn": "公园里有很多树。",
+    "pinyin": "gōng yuán lǐ yǒu hěn duō shù。",
+    "grammar": "there is / there are",
+    "notes": "複数名詞なら are を使う。"
+  },
+  {
+    "jp": "この町には大きな病院があります。",
+    "en": "There is a large hospital in this town.",
+    "cn": "这个镇上有一家大医院。",
+    "pinyin": "zhè ge zhèn shàng yǒu yī jiā dà yī yuàn。",
+    "grammar": "there is / there are",
+    "notes": "新情報の存在を述べる。"
+  },
+  {
+    "jp": "冷蔵庫に卵が三つあります。",
+    "en": "There are three eggs in the fridge.",
+    "cn": "冰箱里有三个鸡蛋。",
+    "pinyin": "bīng xiāng lǐ yǒu sān gè jī dàn。",
+    "grammar": "there is / there are",
+    "notes": "数が複数なら are。"
+  },
+  {
+    "jp": "壁に写真が一枚あります。",
+    "en": "There is a photo on the wall.",
+    "cn": "墙上有一张照片。",
+    "pinyin": "qiáng shàng yǒu yī zhāng zhào piān。",
+    "grammar": "there is / there are",
+    "notes": "場所 + 単数名詞。"
+  },
+  {
+    "jp": "通りに人がたくさんいます。",
+    "en": "There are many people on the street.",
+    "cn": "街上有很多人。",
+    "pinyin": "jiē shàng yǒu hěn duō rén。",
+    "grammar": "there is / there are",
+    "notes": "people は複数扱い。"
+  },
+  {
+    "jp": "今日は問題が一つあります。",
+    "en": "There is one problem today.",
+    "cn": "今天有一个问题。",
+    "pinyin": "jīn tiān yǒu yí gè wèn tí。",
+    "grammar": "there is / there are",
+    "notes": "抽象名詞にも使える。"
+  },
+  {
+    "jp": "今日はいくつか問題があります。",
+    "en": "There are several problems today.",
+    "cn": "今天有几个问题。",
+    "pinyin": "jīn tiān yǒu jǐ gè wèn tí。",
+    "grammar": "there is / there are",
+    "notes": "several の後ろは複数名詞。"
+  },
+  {
+    "jp": "この書類には間違いがありません。",
+    "en": "There is no mistake in this document.",
+    "cn": "这份文件里没有错误。",
+    "pinyin": "zhè fèn wén jiàn lǐ méi yǒu cuò wù。",
+    "grammar": "there is / there are",
+    "notes": "no を使って存在の否定を作る。"
+  },
+  {
+    "jp": "この部屋には窓がありません。",
+    "en": "There is no window in this room.",
+    "cn": "这个房间里没有窗户。",
+    "pinyin": "zhè ge fáng jiān lǐ méi yǒu chuāng hù。",
+    "grammar": "there is / there are",
+    "notes": "単数名詞の否定。"
+  },
+  {
+    "jp": "この建物にはエレベーターが二台あります。",
+    "en": "There are two elevators in this building.",
+    "cn": "这栋楼里有两部电梯。",
+    "pinyin": "zhè dòng lóu lǐ yǒu liǎng bù diàn tī。",
+    "grammar": "there is / there are",
+    "notes": "複数名詞の存在。"
+  },
+  {
+    "jp": "テーブルの下に猫がいます。",
+    "en": "There is a cat under the table.",
+    "cn": "桌子下面有一只猫。",
+    "pinyin": "zhuō zi xià miàn yǒu yī zhī māo。",
+    "grammar": "there is / there are",
+    "notes": "動物の存在にも使える。"
+  },
+  {
+    "jp": "海の近くにホテルが数軒あります。",
+    "en": "There are a few hotels near the sea.",
+    "cn": "海边有几家酒店。",
+    "pinyin": "hǎi biān yǒu jǐ jiā jiǔ diàn。",
+    "grammar": "there is / there are",
+    "notes": "a few + 複数名詞。"
+  },
+  {
+    "jp": "駅の前にバス停があります。",
+    "en": "There is a bus stop in front of the station.",
+    "cn": "车站前面有一个公交车站。",
+    "pinyin": "chē zhàn qián miàn yǒu yí gè gōng jiāo chē zhàn。",
+    "grammar": "there is / there are",
+    "notes": "前置詞句と合わせて場所を示す。"
+  },
+  {
+    "jp": "この近くには銀行が二つあります。",
+    "en": "There are two banks around here.",
+    "cn": "这附近有两家银行。",
+    "pinyin": "zhè fù jìn yǒu liǎng jiā yín háng。",
+    "grammar": "there is / there are",
+    "notes": "around here で近くを言う。"
+  },
+  {
+    "jp": "庭に大きな木があります。",
+    "en": "There is a big tree in the garden.",
+    "cn": "花园里有一棵大树。",
+    "pinyin": "huā yuán lǐ yǒu yī kē dà shù。",
+    "grammar": "there is / there are",
+    "notes": "There is + 単数名詞。"
+  },
+  {
+    "jp": "私のバッグにはペンが二本あります。",
+    "en": "There are two pens in my bag.",
+    "cn": "我的包里有两支笔。",
+    "pinyin": "wǒ de bāo lǐ yǒu liǎng zhī bǐ。",
+    "grammar": "there is / there are",
+    "notes": "in + 名詞で中を表す。"
+  },
+  {
+    "jp": "角に信号があります。",
+    "en": "There is a traffic light at the corner.",
+    "cn": "拐角处有一个红绿灯。",
+    "pinyin": "guǎi jiǎo chù yǒu yí gè hóng lǜ dēng。",
+    "grammar": "there is / there are",
+    "notes": "at the corner で地点を示す。"
+  }
+]
