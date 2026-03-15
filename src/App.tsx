@@ -31,7 +31,17 @@ interface SessionRecord {
   count: number;
 }
 
+interface SavedSession {
+  materialId: string;
+  language: Language;
+  currentIndex: number;
+  results: Result[];
+  elapsedMs: number;
+  totalCount: number;
+}
+
 const HISTORY_KEY = 'flashcard-history';
+const SESSION_KEY = 'flashcard-session';
 
 function loadHistory(): SessionRecord[] {
   try {
@@ -42,6 +52,21 @@ function loadHistory(): SessionRecord[] {
 
 function saveHistory(records: SessionRecord[]) {
   localStorage.setItem(HISTORY_KEY, JSON.stringify(records));
+}
+
+function loadSession(): SavedSession | null {
+  try {
+    const raw = localStorage.getItem(SESSION_KEY);
+    return raw ? JSON.parse(raw) : null;
+  } catch { return null; }
+}
+
+function saveSession(session: SavedSession) {
+  localStorage.setItem(SESSION_KEY, JSON.stringify(session));
+}
+
+function clearSession() {
+  localStorage.removeItem(SESSION_KEY);
 }
 
 function App() {
@@ -74,16 +99,44 @@ function App() {
     return () => clearInterval(interval);
   }, [startTime, isFinished]);
 
-  const handleStart = (lang: Language) => {
+  // Save session progress whenever index or results change
+  useEffect(() => {
+    if (!selectedMaterial || !language || isFinished || sentences.length === 0) return;
+    saveSession({
+      materialId: selectedMaterial.id,
+      language,
+      currentIndex,
+      results,
+      elapsedMs: elapsedTime,
+      totalCount: sentences.length,
+    });
+  }, [currentIndex, results]);
+
+  const startFresh = (lang: Language) => {
     setLanguage(lang);
     setStartTime(Date.now());
     setCurrentIndex(0);
     setShowAnswer(false);
     setIsFinished(false);
     setResults([]);
+    clearSession();
   };
 
-  const logSession = async (time: number, res: Result[]) => {
+  const handleStart = (lang: Language) => {
+    startFresh(lang);
+  };
+
+  const handleResume = (saved: SavedSession) => {
+    setLanguage(saved.language);
+    setCurrentIndex(saved.currentIndex);
+    setResults(saved.results);
+    setElapsedTime(saved.elapsedMs);
+    setStartTime(Date.now() - saved.elapsedMs);
+    setShowAnswer(false);
+    setIsFinished(false);
+  };
+
+  const logSession = (time: number, res: Result[]) => {
     if (!selectedMaterial || !language) return;
     const correctCount = res.filter(r => r === 'correct').length;
     const incorrectCount = res.filter(r => r === 'incorrect').length;
@@ -100,21 +153,10 @@ function App() {
       count: sentences.length,
     };
 
-    // Save to localStorage
     const history = loadHistory();
     history.push(record);
     saveHistory(history);
-
-    // Send to server
-    try {
-      await fetch('http://localhost:3001/api/log', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(record),
-      });
-    } catch (e) {
-      console.error('Failed to log session:', e);
-    }
+    clearSession();
   };
 
   const handleAnswer = useCallback((result: Result) => {
@@ -242,20 +284,31 @@ function App() {
 
   // ─── Material Selection ────────────────────────────────────
   if (!selectedMaterial) {
+    const saved = loadSession();
     return (
       <div style={{ maxWidth: '600px', margin: '60px auto' }}>
         <h1 style={{ textAlign: 'center' }}>教材を選択</h1>
         <p style={{ color: '#6b6b6b', textAlign: 'center', marginBottom: '40px' }}>学習するセットを選んでください</p>
         <div>
-          {materialsManifest.map(m => (
-            <div key={m.id} className="material-item" onClick={() => setSelectedMaterial(m)}>
-              <div>
-                <div style={{ fontWeight: '600', fontSize: '18px' }}>{m.name}</div>
-                <div style={{ fontSize: '14px', color: '#6b6b6b' }}>{m.count} 文</div>
+          {materialsManifest.map(m => {
+            const hasSaved = saved?.materialId === m.id;
+            return (
+              <div key={m.id} className="material-item" onClick={() => setSelectedMaterial(m)}>
+                <div>
+                  <div style={{ fontWeight: '600', fontSize: '18px' }}>
+                    {m.name}
+                    {hasSaved && (
+                      <span className="resume-badge">
+                        {saved!.currentIndex}/{saved!.totalCount}問 再開可
+                      </span>
+                    )}
+                  </div>
+                  <div style={{ fontSize: '14px', color: '#6b6b6b' }}>{m.count} 文</div>
+                </div>
+                <div style={{ color: '#2383e2' }}>Select →</div>
               </div>
-              <div style={{ color: '#2383e2' }}>Select →</div>
-            </div>
-          ))}
+            );
+          })}
         </div>
         <div style={{ textAlign: 'center', marginTop: '30px' }}>
           <button onClick={() => setShowHistory(true)} style={{ padding: '12px 24px', fontSize: '16px' }}>
@@ -268,21 +321,54 @@ function App() {
 
   // ─── Language Selection ──────────────────────────────────────
   if (!language) {
+    const saved = loadSession();
+    const hasSaved = saved && saved.materialId === selectedMaterial.id && saved.currentIndex > 0;
+
     return (
       <div style={{ textAlign: 'center', marginTop: '100px' }}>
         <button onClick={() => setSelectedMaterial(null)} style={{ border: 'none', background: 'none', color: '#6b6b6b', marginBottom: '20px' }}>
           ← 教材選択に戻る
         </button>
         <h1>{selectedMaterial.name}</h1>
-        <p style={{ color: '#6b6b6b', marginBottom: '40px' }}>学習する言語を選択してください</p>
-        <div style={{ display: 'flex', gap: '20px', justifyContent: 'center' }}>
-          <button className="primary" style={{ padding: '20px 40px', fontSize: '18px' }} onClick={() => handleStart('en')}>
-            English
-          </button>
-          <button className="primary" style={{ padding: '20px 40px', fontSize: '18px' }} onClick={() => handleStart('cn')}>
-            中国語
-          </button>
-        </div>
+
+        {hasSaved ? (
+          <>
+            <p style={{ color: '#6b6b6b', marginBottom: '32px' }}>
+              前回の途中データがあります（{saved.language === 'en' ? 'English' : '中国語'} — {saved.currentIndex}/{saved.totalCount}問完了）
+            </p>
+            <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
+              <button
+                className="primary"
+                style={{ padding: '16px 32px', fontSize: '16px' }}
+                onClick={() => handleResume(saved)}
+              >
+                ▶ 続きから再開
+              </button>
+              <button
+                style={{ padding: '16px 32px', fontSize: '16px' }}
+                onClick={() => {
+                  clearSession();
+                  // Force re-render to show language buttons
+                  setSelectedMaterial({ ...selectedMaterial });
+                }}
+              >
+                最初からやり直す
+              </button>
+            </div>
+          </>
+        ) : (
+          <>
+            <p style={{ color: '#6b6b6b', marginBottom: '40px' }}>学習する言語を選択してください</p>
+            <div style={{ display: 'flex', gap: '20px', justifyContent: 'center' }}>
+              <button className="primary" style={{ padding: '20px 40px', fontSize: '18px' }} onClick={() => handleStart('en')}>
+                English
+              </button>
+              <button className="primary" style={{ padding: '20px 40px', fontSize: '18px' }} onClick={() => handleStart('cn')}>
+                中国語
+              </button>
+            </div>
+          </>
+        )}
       </div>
     );
   }
