@@ -1,0 +1,230 @@
+[
+  {
+    "jp": "つまりこういうこと？",
+    "en": "So you mean...? / So basically...?",
+    "grammar": "Confirming",
+    "notes": "\"So...\" で始めて自分の理解を述べる形が自然"
+  },
+  {
+    "jp": "こう理解していい？",
+    "en": "Am I understanding this right?",
+    "grammar": "Confirming",
+    "notes": "\"Is my understanding correct?\" はフォーマル"
+  },
+  {
+    "jp": "合ってる？",
+    "en": "Is that right? / Am I right?",
+    "grammar": "Confirming",
+    "notes": "\"Right?\" だけでも確認として機能する"
+  },
+  {
+    "jp": "本当にそれでいいの？",
+    "en": "Are you sure about that? / Is that really okay?",
+    "grammar": "Confirming",
+    "notes": "\"Are you sure?\" は確認の万能表現"
+  },
+  {
+    "jp": "それで決まり？",
+    "en": "So that's settled? / Are we good?",
+    "grammar": "Confirming",
+    "notes": "\"Are we good?\" はカジュアルに最終確認する時"
+  },
+  {
+    "jp": "今日でいいんだよね？",
+    "en": "Today, right? / It's today, right?",
+    "grammar": "Confirming",
+    "notes": "文末に \"right?\" を付けるだけで確認になる"
+  },
+  {
+    "jp": "明日だよね？",
+    "en": "Tomorrow, right?",
+    "grammar": "Confirming",
+    "notes": "同上。\"right?\" は日本語の「〜だよね？」に相当"
+  },
+  {
+    "jp": "7時集合で合ってる？",
+    "en": "We're meeting at 7, right?",
+    "grammar": "Confirming",
+    "notes": "\"right?\" の付加疑問が自然"
+  },
+  {
+    "jp": "それ私のこと？",
+    "en": "Are you talking about me? / Is that about me?",
+    "grammar": "Confirming",
+    "notes": "\"Wait, me?\" だけでもカジュアルに通じる"
+  },
+  {
+    "jp": "さっきのって冗談？",
+    "en": "Were you joking earlier? / Was that a joke?",
+    "grammar": "Confirming",
+    "notes": "\"You were kidding, right?\" でも"
+  },
+  {
+    "jp": "本気で言ってる？",
+    "en": "Are you serious? / Do you mean that?",
+    "grammar": "Confirming",
+    "notes": "\"Are you for real?\" はカジュアル"
+  },
+  {
+    "jp": "ゆっくり言って。",
+    "en": "Can you say that slowly? / Slow down.",
+    "grammar": "Confirming",
+    "notes": "\"Could you speak more slowly?\" は丁寧"
+  },
+  {
+    "jp": "最後聞こえなかった。",
+    "en": "I didn't catch the last part.",
+    "grammar": "Confirming",
+    "notes": "\"catch\" =「聞き取る」。\"I didn't catch that.\" は聞き返しの定番"
+  },
+  {
+    "jp": "これで十分？",
+    "en": "Is this enough?",
+    "grammar": "Confirming",
+    "notes": "シンプルで直接的"
+  },
+  {
+    "jp": "まだ必要？",
+    "en": "Do you still need it? / Is it still needed?",
+    "grammar": "Confirming",
+    "notes": "\"it\" を具体的な名詞に置き換えると自然"
+  },
+  {
+    "jp": "今行けばいいの？",
+    "en": "Should I go now?",
+    "grammar": "Confirming",
+    "notes": "\"Should I...?\" は指示を確認する基本形"
+  },
+  {
+    "jp": "ここで待てばいい？",
+    "en": "Should I wait here? / Want me to wait here?",
+    "grammar": "Confirming",
+    "notes": "\"Want me to...?\" はカジュアルな確認"
+  },
+  {
+    "jp": "それAじゃなくてB？",
+    "en": "It's B, not A? / Wait, not A but B?",
+    "grammar": "Confirming",
+    "notes": "\"not A but B\" の語順で覚える"
+  },
+  {
+    "jp": "その意味で言ってる？",
+    "en": "Is that what you mean? / Do you mean it that way?",
+    "grammar": "Confirming",
+    "notes": "\"Is that what you're saying?\" も自然"
+  },
+  {
+    "jp": "勘違いしてない？",
+    "en": "Am I getting this wrong? / Am I misunderstanding?",
+    "grammar": "Confirming",
+    "notes": "\"Are you sure you're not mixing things up?\" で相手に向けても"
+  },
+  {
+    "jp": "同じ話してるよね？",
+    "en": "We're on the same page, right?",
+    "grammar": "Confirming",
+    "notes": "\"on the same page\" =「認識が一致している」。定番イディオム"
+  },
+  {
+    "jp": "今日中って今日の夜まで？",
+    "en": "By today, you mean by tonight?",
+    "grammar": "Confirming",
+    "notes": "\"by\" =「〜までに」。期限を表す前置詞"
+  },
+  {
+    "jp": "もう送った？",
+    "en": "Did you send it already? / Has it been sent?",
+    "grammar": "Confirming",
+    "notes": "\"yet\" を使うなら \"Have you sent it yet?\""
+  },
+  {
+    "jp": "まだ間に合う？",
+    "en": "Is there still time? / Can we still make it?",
+    "grammar": "Confirming",
+    "notes": "\"make it\" が「間に合う」の定番"
+  },
+  {
+    "jp": "これ私がやるやつ？",
+    "en": "Is this mine to do? / Am I supposed to do this?",
+    "grammar": "Confirming",
+    "notes": "\"supposed to\" =「〜することになっている」"
+  },
+  {
+    "jp": "そのままでいい？",
+    "en": "Should I leave it as is? / Is it fine like this?",
+    "grammar": "Confirming",
+    "notes": "\"as is\" =「そのまま」"
+  },
+  {
+    "jp": "変更なしでいい？",
+    "en": "No changes needed? / We're keeping it as is?",
+    "grammar": "Confirming",
+    "notes": "\"No changes?\" だけでも通じる"
+  },
+  {
+    "jp": "今のって褒めてた？",
+    "en": "Was that a compliment?",
+    "grammar": "Confirming",
+    "notes": "ストレートに聞く表現"
+  },
+  {
+    "jp": "それって大丈夫なやつ？",
+    "en": "Is that okay? / Is that safe?",
+    "grammar": "Confirming",
+    "notes": "文脈で \"okay\"（許容）か \"safe\"（安全）を使い分ける"
+  },
+  {
+    "jp": "行かなくてもいいの？",
+    "en": "I don't have to go? / Is it okay if I don't go?",
+    "grammar": "Confirming",
+    "notes": "\"have to\" の否定で「〜しなくてもいい」"
+  },
+  {
+    "jp": "先に食べていい？",
+    "en": "Can I eat first? / Mind if I start eating?",
+    "grammar": "Confirming",
+    "notes": "\"Mind if I...?\" は許可を求める丁寧な表現"
+  },
+  {
+    "jp": "これ使っていい？",
+    "en": "Can I use this? / Mind if I use this?",
+    "grammar": "Confirming",
+    "notes": "同上"
+  },
+  {
+    "jp": "何て言った？",
+    "en": "What did you say? / Sorry, what?",
+    "grammar": "Confirming",
+    "notes": "\"Sorry?\" だけでも聞き返しとして機能する（イギリス英語寄り）"
+  },
+  {
+    "jp": "もう終わりでいい？",
+    "en": "Are we done? / Can we wrap up?",
+    "grammar": "Confirming",
+    "notes": "\"wrap up\" =「終わりにする」。ビジネスでもよく使う"
+  },
+  {
+    "jp": "その話まだ続いてる？",
+    "en": "Is that still going on? / Are we still on that?",
+    "grammar": "Confirming",
+    "notes": "\"going on\" =「続いている」"
+  },
+  {
+    "jp": "私、呼ばれてた？",
+    "en": "Did someone call me? / Were you calling me?",
+    "grammar": "Confirming",
+    "notes": "\"Did you say my name?\" でも"
+  },
+  {
+    "jp": "それ今必要？",
+    "en": "Do we need that right now? / Is that urgent?",
+    "grammar": "Confirming",
+    "notes": "\"urgent\" =「緊急の」"
+  },
+  {
+    "jp": "ここで合ってるよね？",
+    "en": "This is the right place, right?",
+    "grammar": "Confirming",
+    "notes": "\"right?\" を文末に付ける確認パターン"
+  }
+]

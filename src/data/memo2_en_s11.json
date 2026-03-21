@@ -1,0 +1,230 @@
+[
+  {
+    "jp": "私はこっちが好き。",
+    "en": "I like this one better. / I prefer this one.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"prefer\" はやや丁寧。\"like X better\" がカジュアル"
+  },
+  {
+    "jp": "そっちのほうがいいと思う。",
+    "en": "I think that one's better.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"I'd go with that one.\" も自然"
+  },
+  {
+    "jp": "私はあまり好きじゃない。",
+    "en": "I'm not really a fan. / It's not really my thing.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"not my thing\" =「自分向きじゃない」。角が立たない言い方"
+  },
+  {
+    "jp": "私はそれでいいと思う。",
+    "en": "I think that's fine. / Works for me.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"Works for me.\" は「私はそれでOK」のカジュアル表現"
+  },
+  {
+    "jp": "私は反対かな。",
+    "en": "I'm not so sure about that. / I'd say no.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"I'm not so sure\" は柔らかい反対表現"
+  },
+  {
+    "jp": "私は賛成。",
+    "en": "I'm for it. / I'm on board.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"on board\" =「賛同している」"
+  },
+  {
+    "jp": "個人的には微妙。",
+    "en": "Personally, I'm not convinced. / Eh, I'm on the fence.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"on the fence\" =「どっちつかず」"
+  },
+  {
+    "jp": "それはありだと思う。",
+    "en": "I think that could work.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"could work\" =「うまくいくかも」"
+  },
+  {
+    "jp": "それはなしだと思う。",
+    "en": "I don't think that's a good idea.",
+    "grammar": "Expressing Opinions",
+    "notes": "直接 \"no\" と言わず婉曲に否定"
+  },
+  {
+    "jp": "私ならそうしない。",
+    "en": "I wouldn't do that.",
+    "grammar": "Expressing Opinions",
+    "notes": "仮定法で柔らかく意見を述べる"
+  },
+  {
+    "jp": "私ならこっちを選ぶ。",
+    "en": "I'd go with this one.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"go with\" =「〜を選ぶ」"
+  },
+  {
+    "jp": "その考えはわかる。",
+    "en": "I see where you're coming from.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"where you're coming from\" =「あなたの立場・考え」。非常に便利"
+  },
+  {
+    "jp": "でも私は違うと思う。",
+    "en": "But I see it differently.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"see it differently\" は反論を柔らかくする"
+  },
+  {
+    "jp": "私は気に入ってる。",
+    "en": "I like it. / I'm into it.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"I'm into it\" はよりカジュアル"
+  },
+  {
+    "jp": "私はちょっと不安。",
+    "en": "I'm a little worried. / I have some concerns.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"concerns\" はビジネスでもよく使う"
+  },
+  {
+    "jp": "それは自然な考えだと思う。",
+    "en": "I think that's a natural way to think about it.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"natural\" は日本語と同じ感覚で使える"
+  },
+  {
+    "jp": "私には少し早い気がする。",
+    "en": "I feel like it might be too soon.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"feel like\" =「〜な気がする」"
+  },
+  {
+    "jp": "今は待ったほうがいいと思う。",
+    "en": "I think we should wait.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"should\" で提案する"
+  },
+  {
+    "jp": "今やったほうがいいと思う。",
+    "en": "I think we should do it now.",
+    "grammar": "Expressing Opinions",
+    "notes": "同上"
+  },
+  {
+    "jp": "それは言いすぎだと思う。",
+    "en": "I think that's a bit much. / That's going too far.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"a bit much\" =「やりすぎ」の柔らかい表現"
+  },
+  {
+    "jp": "そこまで悪くないと思う。",
+    "en": "I don't think it's that bad.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"that\" =「そこまで」の強調"
+  },
+  {
+    "jp": "私は結構好き。",
+    "en": "I actually really like it.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"actually\" で意外性を出す"
+  },
+  {
+    "jp": "正直、それは微妙。",
+    "en": "Honestly, I'm not sure about that.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"not sure\" で曖昧さを残す"
+  },
+  {
+    "jp": "私はそのノリについていけない。",
+    "en": "I can't really get into that vibe. / That's not my thing.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"vibe\" =「ノリ／雰囲気」"
+  },
+  {
+    "jp": "それはちょっと重い。",
+    "en": "That's a bit heavy. / That's a lot.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"That's a lot.\" =「重い／大変」のカジュアル表現"
+  },
+  {
+    "jp": "私にはそれが合ってる。",
+    "en": "That works for me. / That suits me.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"suit\" =「合う」"
+  },
+  {
+    "jp": "私にはあまり合わない。",
+    "en": "It's not really for me.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"not for me\" は押しつけがましくない断り方"
+  },
+  {
+    "jp": "その考え方は好き。",
+    "en": "I like that way of thinking.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"way of thinking\" =「考え方」"
+  },
+  {
+    "jp": "私はシンプルなほうが好き。",
+    "en": "I prefer to keep it simple.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"keep it simple\" =「シンプルにする」"
+  },
+  {
+    "jp": "私は静かな場所のほうが好き。",
+    "en": "I prefer quiet places.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"prefer\" + 名詞が自然"
+  },
+  {
+    "jp": "人が多い場所は苦手。",
+    "en": "I'm not great with crowds.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"crowds\" =「人混み」。\"not great with\" =「苦手」"
+  },
+  {
+    "jp": "それは今の私には必要ない。",
+    "en": "I don't need that right now.",
+    "grammar": "Expressing Opinions",
+    "notes": "シンプルで直接的"
+  },
+  {
+    "jp": "それは今の私には大事。",
+    "en": "That's important to me right now.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"to me\" で個人的な重要性を強調"
+  },
+  {
+    "jp": "気持ちはわかるけど、私は違う。",
+    "en": "I get where you're coming from, but I disagree.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"I get where you're coming from\" + \"but\" は丁寧な反論の定番"
+  },
+  {
+    "jp": "その見方は面白いと思う。",
+    "en": "That's an interesting perspective.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"perspective\" =「見方／視点」"
+  },
+  {
+    "jp": "今は無理しないほうがいいと思う。",
+    "en": "I think you should take it easy for now.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"take it easy\" =「無理しない」"
+  },
+  {
+    "jp": "私はこだわりたい。",
+    "en": "I want to be particular about this. / This matters to me.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"particular\" =「こだわりがある」"
+  },
+  {
+    "jp": "そこは妥協してもいいと思う。",
+    "en": "I think it's okay to compromise on that.",
+    "grammar": "Expressing Opinions",
+    "notes": "\"compromise\" =「妥協する」"
+  }
+]

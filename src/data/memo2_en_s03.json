@@ -1,0 +1,236 @@
+[
+  {
+    "jp": "へえ。",
+    "en": "Huh. / Oh.",
+    "grammar": "Reactions",
+    "notes": "軽い驚きや関心。\"Huh.\" は抑揚で意味が変わる"
+  },
+  {
+    "jp": "そうなんだ。",
+    "en": "Oh, I see. / Is that so.",
+    "grammar": "Reactions",
+    "notes": "\"I see.\" が最も汎用的。\"Really?\" より控えめ"
+  },
+  {
+    "jp": "まじで？",
+    "en": "Seriously? / For real? / No way.",
+    "grammar": "Reactions",
+    "notes": "\"For real?\" はカジュアル。\"Seriously?\" はやや強い驚き"
+  },
+  {
+    "jp": "うそでしょ。",
+    "en": "No way. / You're kidding.",
+    "grammar": "Reactions",
+    "notes": "\"You're joking.\" でも同じ意味"
+  },
+  {
+    "jp": "すごいね。",
+    "en": "That's amazing. / That's awesome.",
+    "grammar": "Reactions",
+    "notes": "\"awesome\" はアメリカ英語で非常に多用される"
+  },
+  {
+    "jp": "いいね。",
+    "en": "Nice. / That's cool.",
+    "grammar": "Reactions",
+    "notes": "\"Nice.\" は万能。一言で反応する時に最適"
+  },
+  {
+    "jp": "それはよかった。",
+    "en": "That's good to hear. / I'm glad.",
+    "grammar": "Reactions",
+    "notes": "\"Glad to hear that.\" もよく使う"
+  },
+  {
+    "jp": "それは大変だったね。",
+    "en": "That sounds rough. / That must have been tough.",
+    "grammar": "Reactions",
+    "notes": "\"must have been\" で相手の経験への共感を示す"
+  },
+  {
+    "jp": "わかる。",
+    "en": "I get that. / I know, right?",
+    "grammar": "Reactions",
+    "notes": "\"I feel you.\" はさらにカジュアル"
+  },
+  {
+    "jp": "わかる気がする。",
+    "en": "I can see that. / I kind of get it.",
+    "grammar": "Reactions",
+    "notes": "\"kind of\" で「なんとなく」のニュアンスを出す"
+  },
+  {
+    "jp": "たしかに。",
+    "en": "True. / Good point. / Fair enough.",
+    "grammar": "Reactions",
+    "notes": "\"True.\" が最もカジュアルで頻出"
+  },
+  {
+    "jp": "なるほどね。",
+    "en": "I see. / That makes sense.",
+    "grammar": "Reactions",
+    "notes": "\"Makes sense.\" だけでもよく使う"
+  },
+  {
+    "jp": "それは意外。",
+    "en": "That's surprising. / I didn't expect that.",
+    "grammar": "Reactions",
+    "notes": "\"I wouldn't have guessed.\" でさらに強調"
+  },
+  {
+    "jp": "面白いね。",
+    "en": "That's interesting. / That's funny.",
+    "grammar": "Reactions",
+    "notes": "interesting =「興味深い」、funny =「おかしい」。日本語の「面白い」は両方カバーするので注意"
+  },
+  {
+    "jp": "ちょっと笑った。",
+    "en": "That's funny. / That made me laugh.",
+    "grammar": "Reactions",
+    "notes": "テキストでは \"lol\" (laugh out loud)"
+  },
+  {
+    "jp": "それは困るね。",
+    "en": "That's a problem. / That's tricky.",
+    "grammar": "Reactions",
+    "notes": "\"That's tricky.\" はやや軽いニュアンス"
+  },
+  {
+    "jp": "それはきついね。",
+    "en": "That's rough. / That's harsh.",
+    "grammar": "Reactions",
+    "notes": "\"rough\" は状況がつらい時、\"harsh\" は厳しい時"
+  },
+  {
+    "jp": "よかったじゃん。",
+    "en": "Good for you. / That's great.",
+    "grammar": "Reactions",
+    "notes": "\"Good for you.\" は言い方次第で皮肉にもなるので注意"
+  },
+  {
+    "jp": "うらやましい。",
+    "en": "I'm jealous. / Lucky you.",
+    "grammar": "Reactions",
+    "notes": "\"I'm so jealous!\" はカジュアルに使える。英語では嫉妬をオープンに言う"
+  },
+  {
+    "jp": "それ知らなかった。",
+    "en": "I didn't know that. / I had no idea.",
+    "grammar": "Reactions",
+    "notes": "\"I had no idea.\" のほうが驚きが強い"
+  },
+  {
+    "jp": "びっくりした。",
+    "en": "That scared me. / I was shocked. / That caught me off guard.",
+    "grammar": "Reactions",
+    "notes": "物理的に驚いた→ \"scared\"、内容に驚いた→ \"shocked\""
+  },
+  {
+    "jp": "なんか納得。",
+    "en": "That makes sense. / Yeah, that checks out.",
+    "grammar": "Reactions",
+    "notes": "\"That checks out.\" はカジュアルな「つじつまが合う」"
+  },
+  {
+    "jp": "たしかにそうかも。",
+    "en": "Yeah, maybe. / You might be right.",
+    "grammar": "Reactions",
+    "notes": "\"You might be right.\" は相手に同意しかけている時"
+  },
+  {
+    "jp": "それは気になる。",
+    "en": "I'm curious about that. / That's intriguing.",
+    "grammar": "Reactions",
+    "notes": "\"intriguing\" は \"interesting\" よりやや知的な響き"
+  },
+  {
+    "jp": "それはちょっと嫌だね。",
+    "en": "That sucks. / That's annoying.",
+    "grammar": "Reactions",
+    "notes": "\"That sucks.\" は非常にカジュアルだがよく使う"
+  },
+  {
+    "jp": "それは安心した。",
+    "en": "That's a relief. / Oh good.",
+    "grammar": "Reactions",
+    "notes": "\"What a relief.\" で「ほっとした」を強調"
+  },
+  {
+    "jp": "それは残念。",
+    "en": "That's too bad. / That's a shame.",
+    "grammar": "Reactions",
+    "notes": "\"shame\" は「恥」ではなく「残念」の意味"
+  },
+  {
+    "jp": "それはすごくわかる。",
+    "en": "I totally get that. / I can really relate.",
+    "grammar": "Reactions",
+    "notes": "\"relate\" =「共感する」。\"That's so relatable.\" もSNSで頻出"
+  },
+  {
+    "jp": "それで？",
+    "en": "And then? / So?",
+    "grammar": "Reactions",
+    "notes": "\"So?\" は言い方次第で冷たく聞こえるので注意"
+  },
+  {
+    "jp": "どうなったの？",
+    "en": "What happened? / How did it go?",
+    "grammar": "Reactions",
+    "notes": "\"How did it go?\" は結果を聞く時に便利"
+  },
+  {
+    "jp": "本当に？",
+    "en": "Really? / Are you serious?",
+    "grammar": "Reactions",
+    "notes": "\"Really?\" は抑揚で驚き・疑い・確認すべて表現可能"
+  },
+  {
+    "jp": "まさか。",
+    "en": "No way. / You can't be serious.",
+    "grammar": "Reactions",
+    "notes": "\"No way!\" は驚きの定番"
+  },
+  {
+    "jp": "それ最高じゃん。",
+    "en": "That's the best. / That's awesome.",
+    "grammar": "Reactions",
+    "notes": "\"That's sick.\" は若者スラングで「最高」"
+  },
+  {
+    "jp": "それはありがたいね。",
+    "en": "That's really helpful. / That's nice of them.",
+    "grammar": "Reactions",
+    "notes": "人に対して→ \"That's nice of you/them.\""
+  },
+  {
+    "jp": "それはちょっとショック。",
+    "en": "That's kind of shocking. / I wasn't expecting that.",
+    "grammar": "Reactions",
+    "notes": "\"kind of\" で衝撃を和らげる"
+  },
+  {
+    "jp": "そんなことある？",
+    "en": "Does that even happen? / How is that possible?",
+    "grammar": "Reactions",
+    "notes": "信じがたい時の反応"
+  },
+  {
+    "jp": "それは笑える。",
+    "en": "That's hilarious. / That's so funny.",
+    "grammar": "Reactions",
+    "notes": "\"hilarious\" は \"funny\" より強い"
+  },
+  {
+    "jp": "それ、いい話だね。",
+    "en": "That's a nice story. / That's sweet.",
+    "grammar": "Reactions",
+    "notes": "\"sweet\" は「いい話」「心温まる」のニュアンス"
+  },
+  {
+    "jp": "そこ大事だね。",
+    "en": "That's the key point. / That's important.",
+    "grammar": "Reactions",
+    "notes": "\"That's the thing.\" =「そこがポイント」"
+  }
+]

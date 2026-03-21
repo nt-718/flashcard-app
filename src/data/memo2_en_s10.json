@@ -1,0 +1,122 @@
+[
+  {
+    "jp": "頭が痛い。",
+    "en": "I have a headache.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"headache\" は一語。\"My head hurts.\" でもOK"
+  },
+  {
+    "jp": "お腹痛い。",
+    "en": "My stomach hurts. / I have a stomachache.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"tummy\" は子供っぽいので大人同士では避ける"
+  },
+  {
+    "jp": "風邪ひいたかも。",
+    "en": "I think I'm coming down with something. / I might have a cold.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"coming down with\" =「（病気に）かかりかけている」"
+  },
+  {
+    "jp": "熱がある。",
+    "en": "I have a fever.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"a fever\" と冠詞 \"a\" が必要"
+  },
+  {
+    "jp": "のどが痛い。",
+    "en": "I have a sore throat.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"sore\" =「痛い（炎症系）」。\"sore throat\" でセット"
+  },
+  {
+    "jp": "鼻水が止まらない。",
+    "en": "My nose won't stop running. / I have a runny nose.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"runny nose\" =「鼻水」"
+  },
+  {
+    "jp": "体がだるい。",
+    "en": "I feel sluggish. / My body feels heavy.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"sluggish\" =「だるい」にぴったり"
+  },
+  {
+    "jp": "めまいがする。",
+    "en": "I feel dizzy.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"dizzy\" =「めまいがする」"
+  },
+  {
+    "jp": "気持ち悪い。",
+    "en": "I feel nauseous. / I feel sick.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"nauseous\" =「吐き気がする」。\"sick\" はより広い意味"
+  },
+  {
+    "jp": "食欲がない。",
+    "en": "I don't have an appetite. / I'm not hungry.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"appetite\" =「食欲」"
+  },
+  {
+    "jp": "最近体が重い。",
+    "en": "My body has been feeling heavy lately.",
+    "grammar": "Health & Physical Condition",
+    "notes": "比喩的な「重い」は英語でもそのまま \"heavy\""
+  },
+  {
+    "jp": "肩がこってる。",
+    "en": "My shoulders are stiff. / I have tense shoulders.",
+    "grammar": "Health & Physical Condition",
+    "notes": "英語に「肩こり」の一語はない。\"stiff\" か \"tense\" で表す"
+  },
+  {
+    "jp": "目が疲れてる。",
+    "en": "My eyes are tired. / I have eye strain.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"eye strain\" は長時間の画面作業で使う"
+  },
+  {
+    "jp": "花粉がやばい。",
+    "en": "My allergies are killing me.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"killing me\" =「ひどい（比喩）」。花粉症 = \"hay fever\" または \"allergies\""
+  },
+  {
+    "jp": "薬飲んだ。",
+    "en": "I took some medicine.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"took\" =「飲んだ」。薬は \"take\" で「飲む」"
+  },
+  {
+    "jp": "病院行ったほうがいいかな。",
+    "en": "Maybe I should see a doctor.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"see a doctor\"。\"go to the hospital\" は救急レベルのニュアンスになるので注意"
+  },
+  {
+    "jp": "もう治ったよ。",
+    "en": "I'm better now. / I'm all good now.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"all good\" =「完全に大丈夫」"
+  },
+  {
+    "jp": "だいぶよくなった。",
+    "en": "I'm feeling a lot better.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"a lot\" で「だいぶ」を強調"
+  },
+  {
+    "jp": "まだ完全じゃない。",
+    "en": "I'm not fully recovered yet. / Not 100% yet.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"Not 100% yet.\" はカジュアル"
+  },
+  {
+    "jp": "無理しないようにしてる。",
+    "en": "I'm trying to take it easy.",
+    "grammar": "Health & Physical Condition",
+    "notes": "\"take it easy\" =「無理しない」。定番表現"
+  }
+]

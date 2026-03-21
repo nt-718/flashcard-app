@@ -1,0 +1,236 @@
+[
+  {
+    "jp": "これ何？",
+    "en": "What's this? / What is this?",
+    "grammar": "Asking Questions",
+    "notes": "シンプルだが最頻出の質問"
+  },
+  {
+    "jp": "どういうこと？",
+    "en": "What do you mean? / What's that supposed to mean?",
+    "grammar": "Asking Questions",
+    "notes": "後者はやや攻撃的に聞こえうるので注意"
+  },
+  {
+    "jp": "なんで？",
+    "en": "Why? / How come?",
+    "grammar": "Asking Questions",
+    "notes": "\"How come?\" は \"Why?\" よりカジュアルで柔らかい"
+  },
+  {
+    "jp": "どうしてそうなったの？",
+    "en": "How did that happen?",
+    "grammar": "Asking Questions",
+    "notes": "シンプルで自然"
+  },
+  {
+    "jp": "いつ？",
+    "en": "When? / When was that?",
+    "grammar": "Asking Questions",
+    "notes": "\"When was that?\" のほうが会話的"
+  },
+  {
+    "jp": "どこで？",
+    "en": "Where? / Where was that?",
+    "grammar": "Asking Questions",
+    "notes": "同上"
+  },
+  {
+    "jp": "誰と？",
+    "en": "With who? / Who with?",
+    "grammar": "Asking Questions",
+    "notes": "文法的には \"With whom?\" だが口語では \"With who?\" が普通"
+  },
+  {
+    "jp": "誰が言ったの？",
+    "en": "Who said that? / Who told you that?",
+    "grammar": "Asking Questions",
+    "notes": "\"Who told you?\" は情報源を聞くニュアンス"
+  },
+  {
+    "jp": "何してたの？",
+    "en": "What were you doing? / What were you up to?",
+    "grammar": "Asking Questions",
+    "notes": "\"up to\" を付けるとカジュアルになる"
+  },
+  {
+    "jp": "今何してるの？",
+    "en": "What are you doing right now? / What are you up to?",
+    "grammar": "Asking Questions",
+    "notes": "\"right now\" で「今まさに」を強調"
+  },
+  {
+    "jp": "どう思う？",
+    "en": "What do you think?",
+    "grammar": "Asking Questions",
+    "notes": "意見を求める最も基本的な表現"
+  },
+  {
+    "jp": "どっちがいいと思う？",
+    "en": "Which one do you think is better?",
+    "grammar": "Asking Questions",
+    "notes": "\"Which do you prefer?\" は好み、\"Which is better?\" は客観的判断"
+  },
+  {
+    "jp": "何があったの？",
+    "en": "What happened?",
+    "grammar": "Asking Questions",
+    "notes": "万能。状況を聞く第一声に"
+  },
+  {
+    "jp": "それでどうしたの？",
+    "en": "So what did you do? / Then what?",
+    "grammar": "Asking Questions",
+    "notes": "\"Then what?\" は続きを促す"
+  },
+  {
+    "jp": "どこまで終わった？",
+    "en": "How far did you get? / How much have you done?",
+    "grammar": "Asking Questions",
+    "notes": "\"How far along are you?\" も使える"
+  },
+  {
+    "jp": "何がそんなに面白いの？",
+    "en": "What's so funny?",
+    "grammar": "Asking Questions",
+    "notes": "ストレートな表現。笑っている人への定番"
+  },
+  {
+    "jp": "何でそんなに疲れてるの？",
+    "en": "Why are you so tired?",
+    "grammar": "Asking Questions",
+    "notes": "\"You look exhausted.\" =「すごく疲れて見える」"
+  },
+  {
+    "jp": "今日は何食べたの？",
+    "en": "What did you eat today? / What did you have?",
+    "grammar": "Asking Questions",
+    "notes": "\"have\" は食事に使う。\"What did you have for lunch?\""
+  },
+  {
+    "jp": "もう決めたの？",
+    "en": "Have you decided? / Did you make up your mind?",
+    "grammar": "Asking Questions",
+    "notes": "\"make up your mind\" =「決心する」"
+  },
+  {
+    "jp": "それって本当？",
+    "en": "Is that true? / Is that for real?",
+    "grammar": "Asking Questions",
+    "notes": "\"for real\" はカジュアル"
+  },
+  {
+    "jp": "何時に行く？",
+    "en": "What time are we going? / What time should we go?",
+    "grammar": "Asking Questions",
+    "notes": "\"we\" を使うと一緒に行く前提になる"
+  },
+  {
+    "jp": "どれくらいかかる？",
+    "en": "How long does it take? / How long will it take?",
+    "grammar": "Asking Questions",
+    "notes": "時間→ \"How long?\" 費用→ \"How much?\""
+  },
+  {
+    "jp": "どっちが好き？",
+    "en": "Which do you like better? / Which do you prefer?",
+    "grammar": "Asking Questions",
+    "notes": "\"prefer\" はやや丁寧"
+  },
+  {
+    "jp": "何が一番好き？",
+    "en": "What's your favorite? / What do you like the most?",
+    "grammar": "Asking Questions",
+    "notes": "\"What's your favorite X?\" の形で覚えると便利"
+  },
+  {
+    "jp": "何を迷ってるの？",
+    "en": "What are you torn about? / What can't you decide?",
+    "grammar": "Asking Questions",
+    "notes": "\"torn\" =「引き裂かれて迷っている」"
+  },
+  {
+    "jp": "何か欲しいものある？",
+    "en": "Is there anything you want? / Do you want anything?",
+    "grammar": "Asking Questions",
+    "notes": "\"anything\" は疑問文・否定文で使う。\"something\" ではない"
+  },
+  {
+    "jp": "週末どうするの？",
+    "en": "What are you doing this weekend? / Got any plans for the weekend?",
+    "grammar": "Asking Questions",
+    "notes": "\"Got any plans?\" は頻出の聞き方"
+  },
+  {
+    "jp": "明日暇？",
+    "en": "Are you free tomorrow?",
+    "grammar": "Asking Questions",
+    "notes": "誘いの前振りとして自然"
+  },
+  {
+    "jp": "一緒に行く？",
+    "en": "Want to come? / Want to join?",
+    "grammar": "Asking Questions",
+    "notes": "\"You in?\" はさらにカジュアル"
+  },
+  {
+    "jp": "何でそんなに急いでるの？",
+    "en": "Why are you in such a rush? / What's the hurry?",
+    "grammar": "Asking Questions",
+    "notes": "\"What's the rush?\" でも同じ"
+  },
+  {
+    "jp": "どこでそれ買ったの？",
+    "en": "Where did you get that?",
+    "grammar": "Asking Questions",
+    "notes": "\"get\" が自然。\"buy\" より広い意味（もらった場合も含む）"
+  },
+  {
+    "jp": "どんな感じだった？",
+    "en": "How was it? / What was it like?",
+    "grammar": "Asking Questions",
+    "notes": "\"What was it like?\" は体験を詳しく聞く時"
+  },
+  {
+    "jp": "誰に聞いたの？",
+    "en": "Who did you hear that from? / Who told you?",
+    "grammar": "Asking Questions",
+    "notes": "前置詞 \"from\" は文末に置くのが口語的"
+  },
+  {
+    "jp": "今からでも間に合う？",
+    "en": "Is it too late? / Can we still make it?",
+    "grammar": "Asking Questions",
+    "notes": "\"make it\" =「間に合う」。非常に便利"
+  },
+  {
+    "jp": "何か気になることある？",
+    "en": "Is there anything on your mind? / Anything bothering you?",
+    "grammar": "Asking Questions",
+    "notes": "\"on your mind\" =「心にかかっている」"
+  },
+  {
+    "jp": "それ好きなの？",
+    "en": "Do you like that? / You're into that?",
+    "grammar": "Asking Questions",
+    "notes": "\"be into X\" =「Xにハマっている」"
+  },
+  {
+    "jp": "どうやってやるの？",
+    "en": "How do you do it? / How does it work?",
+    "grammar": "Asking Questions",
+    "notes": "方法→ \"How do you do it?\" 仕組み→ \"How does it work?\""
+  },
+  {
+    "jp": "何を先にやる？",
+    "en": "What should we do first?",
+    "grammar": "Asking Questions",
+    "notes": "\"What's the priority?\" はビジネス寄り"
+  },
+  {
+    "jp": "もう帰るの？",
+    "en": "Are you leaving already? / You're heading out?",
+    "grammar": "Asking Questions",
+    "notes": "\"heading out\" は「出発する」のカジュアルな表現"
+  }
+]

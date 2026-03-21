@@ -1,302 +1,230 @@
 [
   {
-    "id": "memo_en_1_20",
-    "name": "English 1-20 (あいさつ・切り出し)",
-    "path": "./memo_en_1_20.json",
+    "id": "memo2_en_s01",
+    "name": "Greetings & Conversation Starters (English)",
+    "path": "./memo2_en_s01.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_zh_s01",
+    "name": "打招呼・开场 (Chinese)",
+    "path": "./memo2_zh_s01.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_en_s02",
+    "name": "Fillers & Connectors (English)",
+    "path": "./memo2_en_s02.json",
     "count": 20
   },
   {
-    "id": "memo_en_21_40",
-    "name": "English 21-40 (あいさつ・切り出し, 反応する)",
-    "path": "./memo_en_21_40.json",
+    "id": "memo2_zh_s02",
+    "name": "语气词・连接词（フィラー・つなぎ言葉） (Chinese)",
+    "path": "./memo2_zh_s02.json",
     "count": 20
   },
   {
-    "id": "memo_en_41_60",
-    "name": "English 41-60 (反応する)",
-    "path": "./memo_en_41_60.json",
+    "id": "memo2_en_s03",
+    "name": "Reactions (English)",
+    "path": "./memo2_en_s03.json",
+    "count": 39
+  },
+  {
+    "id": "memo2_zh_s03",
+    "name": "回应（反応する） (Chinese)",
+    "path": "./memo2_zh_s03.json",
+    "count": 39
+  },
+  {
+    "id": "memo2_en_s04",
+    "name": "Asking Questions (English)",
+    "path": "./memo2_en_s04.json",
+    "count": 39
+  },
+  {
+    "id": "memo2_zh_s04",
+    "name": "提问（質問する） (Chinese)",
+    "path": "./memo2_zh_s04.json",
+    "count": 39
+  },
+  {
+    "id": "memo2_en_s05",
+    "name": "Confirming (English)",
+    "path": "./memo2_en_s05.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_zh_s05",
+    "name": "确认（確認する） (Chinese)",
+    "path": "./memo2_zh_s05.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_en_s06",
+    "name": "Explaining (English)",
+    "path": "./memo2_en_s06.json",
+    "count": 39
+  },
+  {
+    "id": "memo2_zh_s06",
+    "name": "解释（説明する） (Chinese)",
+    "path": "./memo2_zh_s06.json",
+    "count": 39
+  },
+  {
+    "id": "memo2_en_s07",
+    "name": "Rephrasing & Adding Context (English)",
+    "path": "./memo2_en_s07.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_zh_s07",
+    "name": "换种说法・补充（言い換える・補足する） (Chinese)",
+    "path": "./memo2_zh_s07.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_en_s08",
+    "name": "Talking About Daily Life (English)",
+    "path": "./memo2_en_s08.json",
+    "count": 24
+  },
+  {
+    "id": "memo2_zh_s08",
+    "name": "聊日常（日常の出来事を語る） (Chinese)",
+    "path": "./memo2_zh_s08.json",
+    "count": 24
+  },
+  {
+    "id": "memo2_en_s09",
+    "name": "Expressing Emotions (English)",
+    "path": "./memo2_en_s09.json",
+    "count": 25
+  },
+  {
+    "id": "memo2_zh_s09",
+    "name": "直接表达感情（感情を直接表す） (Chinese)",
+    "path": "./memo2_zh_s09.json",
+    "count": 25
+  },
+  {
+    "id": "memo2_en_s10",
+    "name": "Health & Physical Condition (English)",
+    "path": "./memo2_en_s10.json",
     "count": 20
   },
   {
-    "id": "memo_en_61_80",
-    "name": "English 61-80 (反応する, 質問する)",
-    "path": "./memo_en_61_80.json",
+    "id": "memo2_zh_s10",
+    "name": "身体状况（体調・健康） (Chinese)",
+    "path": "./memo2_zh_s10.json",
     "count": 20
   },
   {
-    "id": "memo_en_81_100",
-    "name": "English 81-100 (質問する)",
-    "path": "./memo_en_81_100.json",
+    "id": "memo2_en_s11",
+    "name": "Expressing Opinions (English)",
+    "path": "./memo2_en_s11.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_zh_s11",
+    "name": "发表意见（意見を述べる） (Chinese)",
+    "path": "./memo2_zh_s11.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_en_s12",
+    "name": "Agreeing & Disagreeing (English)",
+    "path": "./memo2_en_s12.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_zh_s12",
+    "name": "赞成・反对（賛成・反対する） (Chinese)",
+    "path": "./memo2_zh_s12.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_en_s13",
+    "name": "Comparing (English)",
+    "path": "./memo2_en_s13.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_zh_s13",
+    "name": "比较（比較する） (Chinese)",
+    "path": "./memo2_zh_s13.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_en_s14",
+    "name": "Hypothesizing & Guessing (English)",
+    "path": "./memo2_en_s14.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_zh_s14",
+    "name": "假设・推测（仮定・推測する） (Chinese)",
+    "path": "./memo2_zh_s14.json",
+    "count": 38
+  },
+  {
+    "id": "memo2_en_s15",
+    "name": "Complimenting & Encouraging (English)",
+    "path": "./memo2_en_s15.json",
+    "count": 23
+  },
+  {
+    "id": "memo2_zh_s15",
+    "name": "夸奖・鼓励（褒める・励ます） (Chinese)",
+    "path": "./memo2_zh_s15.json",
+    "count": 23
+  },
+  {
+    "id": "memo2_en_s16",
+    "name": "Requests & Suggestions (English)",
+    "path": "./memo2_en_s16.json",
+    "count": 37
+  },
+  {
+    "id": "memo2_zh_s16",
+    "name": "请求・建议（依頼・提案する） (Chinese)",
+    "path": "./memo2_zh_s16.json",
+    "count": 37
+  },
+  {
+    "id": "memo2_en_s17",
+    "name": "Declining & Holding Back (English)",
+    "path": "./memo2_en_s17.json",
     "count": 20
   },
   {
-    "id": "memo_en_101_120",
-    "name": "English 101-120 (質問する, 確認する)",
-    "path": "./memo_en_101_120.json",
+    "id": "memo2_zh_s17",
+    "name": "拒绝・客气（断る・遠慮する） (Chinese)",
+    "path": "./memo2_zh_s17.json",
     "count": 20
   },
   {
-    "id": "memo_en_121_140",
-    "name": "English 121-140 (確認する)",
-    "path": "./memo_en_121_140.json",
-    "count": 20
+    "id": "memo2_en_s18",
+    "name": "Managing Relationships (English)",
+    "path": "./memo2_en_s18.json",
+    "count": 38
   },
   {
-    "id": "memo_en_141_160",
-    "name": "English 141-160 (確認する, 説明する)",
-    "path": "./memo_en_141_160.json",
-    "count": 20
+    "id": "memo2_zh_s18",
+    "name": "维护关系（関係を整える） (Chinese)",
+    "path": "./memo2_zh_s18.json",
+    "count": 38
   },
   {
-    "id": "memo_en_161_180",
-    "name": "English 161-180 (説明する)",
-    "path": "./memo_en_161_180.json",
-    "count": 20
+    "id": "memo2_en_s19",
+    "name": "Moving, Switching & Ending Conversations (English)",
+    "path": "./memo2_en_s19.json",
+    "count": 38
   },
   {
-    "id": "memo_en_181_200",
-    "name": "English 181-200 (説明する, 言い換える・補足する)",
-    "path": "./memo_en_181_200.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_201_220",
-    "name": "English 201-220 (言い換える・補足する)",
-    "path": "./memo_en_201_220.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_221_240",
-    "name": "English 221-240 (言い換える・補足する, 意見を述べる)",
-    "path": "./memo_en_221_240.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_241_260",
-    "name": "English 241-260 (意見を述べる)",
-    "path": "./memo_en_241_260.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_261_280",
-    "name": "English 261-280 (意見を述べる, 賛成・反対する)",
-    "path": "./memo_en_261_280.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_281_300",
-    "name": "English 281-300 (賛成・反対する)",
-    "path": "./memo_en_281_300.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_301_320",
-    "name": "English 301-320 (賛成・反対する, 比較する)",
-    "path": "./memo_en_301_320.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_321_340",
-    "name": "English 321-340 (比較する)",
-    "path": "./memo_en_321_340.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_341_360",
-    "name": "English 341-360 (比較する, 仮定・推測する)",
-    "path": "./memo_en_341_360.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_361_380",
-    "name": "English 361-380 (仮定・推測する)",
-    "path": "./memo_en_361_380.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_381_400",
-    "name": "English 381-400 (仮定・推測する, 依頼・提案する)",
-    "path": "./memo_en_381_400.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_401_420",
-    "name": "English 401-420 (依頼・提案する)",
-    "path": "./memo_en_401_420.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_421_440",
-    "name": "English 421-440 (依頼・提案する, 会話を進める・切り替える・終える)",
-    "path": "./memo_en_421_440.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_441_460",
-    "name": "English 441-460 (会話を進める・切り替える・終える)",
-    "path": "./memo_en_441_460.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_461_480",
-    "name": "English 461-480 (会話を進める・切り替える・終える, 関係を整える)",
-    "path": "./memo_en_461_480.json",
-    "count": 20
-  },
-  {
-    "id": "memo_en_481_500",
-    "name": "English 481-500 (関係を整える)",
-    "path": "./memo_en_481_500.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_1_20",
-    "name": "Chinese 1-20 (あいさつ・切り出し)",
-    "path": "./memo_zh_1_20.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_21_40",
-    "name": "Chinese 21-40 (あいさつ・切り出し, 反応する)",
-    "path": "./memo_zh_21_40.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_41_60",
-    "name": "Chinese 41-60 (反応する)",
-    "path": "./memo_zh_41_60.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_61_80",
-    "name": "Chinese 61-80 (反応する, 質問する)",
-    "path": "./memo_zh_61_80.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_81_100",
-    "name": "Chinese 81-100 (質問する)",
-    "path": "./memo_zh_81_100.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_101_120",
-    "name": "Chinese 101-120 (質問する, 確認する)",
-    "path": "./memo_zh_101_120.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_121_140",
-    "name": "Chinese 121-140 (確認する)",
-    "path": "./memo_zh_121_140.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_141_160",
-    "name": "Chinese 141-160 (確認する, 説明する)",
-    "path": "./memo_zh_141_160.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_161_180",
-    "name": "Chinese 161-180 (説明する)",
-    "path": "./memo_zh_161_180.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_181_200",
-    "name": "Chinese 181-200 (説明する, 言い換える・補足する)",
-    "path": "./memo_zh_181_200.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_201_220",
-    "name": "Chinese 201-220 (言い換える・補足する)",
-    "path": "./memo_zh_201_220.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_221_240",
-    "name": "Chinese 221-240 (言い換える・補足する, 意見を述べる)",
-    "path": "./memo_zh_221_240.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_241_260",
-    "name": "Chinese 241-260 (意見を述べる)",
-    "path": "./memo_zh_241_260.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_261_280",
-    "name": "Chinese 261-280 (意見を述べる, 賛成・反対する)",
-    "path": "./memo_zh_261_280.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_281_300",
-    "name": "Chinese 281-300 (賛成・反対する)",
-    "path": "./memo_zh_281_300.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_301_320",
-    "name": "Chinese 301-320 (賛成・反対する, 比較する)",
-    "path": "./memo_zh_301_320.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_321_340",
-    "name": "Chinese 321-340 (比較する)",
-    "path": "./memo_zh_321_340.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_341_360",
-    "name": "Chinese 341-360 (比較する, 仮定・推測する)",
-    "path": "./memo_zh_341_360.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_361_380",
-    "name": "Chinese 361-380 (仮定・推測する)",
-    "path": "./memo_zh_361_380.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_381_400",
-    "name": "Chinese 381-400 (仮定・推測する, 依頼・提案する)",
-    "path": "./memo_zh_381_400.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_401_420",
-    "name": "Chinese 401-420 (依頼・提案する)",
-    "path": "./memo_zh_401_420.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_421_440",
-    "name": "Chinese 421-440 (依頼・提案する, 会話を進める・切り替える・終える)",
-    "path": "./memo_zh_421_440.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_441_460",
-    "name": "Chinese 441-460 (会話を進める・切り替える・終える)",
-    "path": "./memo_zh_441_460.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_461_480",
-    "name": "Chinese 461-480 (会話を進める・切り替える・終える, 関係を整える)",
-    "path": "./memo_zh_461_480.json",
-    "count": 20
-  },
-  {
-    "id": "memo_zh_481_500",
-    "name": "Chinese 481-500 (関係を整える)",
-    "path": "./memo_zh_481_500.json",
-    "count": 20
+    "id": "memo2_zh_s19",
+    "name": "推进・转换・结束对话（会話を進める・切り替える・終える） (Chinese)",
+    "path": "./memo2_zh_s19.json",
+    "count": 38
   }
 ]

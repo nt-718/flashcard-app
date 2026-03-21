@@ -1,0 +1,230 @@
+[
+  {
+    "jp": "ありがとう。",
+    "en": "Thanks. / Thank you.",
+    "grammar": "Managing Relationships",
+    "notes": "\"Thanks.\" がカジュアル、\"Thank you.\" がやや丁寧"
+  },
+  {
+    "jp": "本当にありがとう。",
+    "en": "Thank you so much. / I really appreciate it.",
+    "grammar": "Managing Relationships",
+    "notes": "\"appreciate\" は感謝の気持ちをしっかり伝える"
+  },
+  {
+    "jp": "助かった。",
+    "en": "That was a big help. / You saved me.",
+    "grammar": "Managing Relationships",
+    "notes": "\"You saved me.\" はカジュアルな「助かった」"
+  },
+  {
+    "jp": "ごめん。",
+    "en": "Sorry. / My bad.",
+    "grammar": "Managing Relationships",
+    "notes": "\"My bad.\" はカジュアルな謝罪。友達同士で使う"
+  },
+  {
+    "jp": "ほんとごめん。",
+    "en": "I'm really sorry. / I'm so sorry.",
+    "grammar": "Managing Relationships",
+    "notes": "\"so\" で強調"
+  },
+  {
+    "jp": "悪かった。",
+    "en": "That was my fault. / I messed up.",
+    "grammar": "Managing Relationships",
+    "notes": "\"mess up\" =「やらかす」"
+  },
+  {
+    "jp": "先に言えばよかった。",
+    "en": "I should have told you sooner.",
+    "grammar": "Managing Relationships",
+    "notes": "\"should have + 過去分詞\" =「〜すべきだった」"
+  },
+  {
+    "jp": "ちゃんと確認すればよかった。",
+    "en": "I should have double-checked.",
+    "grammar": "Managing Relationships",
+    "notes": "\"double-check\" =「念入りに確認する」"
+  },
+  {
+    "jp": "待たせてごめん。",
+    "en": "Sorry for the wait. / Sorry to keep you waiting.",
+    "grammar": "Managing Relationships",
+    "notes": "\"keep you waiting\" は進行中の待ち時間にも使える"
+  },
+  {
+    "jp": "遅れてごめん。",
+    "en": "Sorry I'm late.",
+    "grammar": "Managing Relationships",
+    "notes": "シンプルで自然"
+  },
+  {
+    "jp": "返信遅くなってごめん。",
+    "en": "Sorry for the late reply.",
+    "grammar": "Managing Relationships",
+    "notes": "テキスト・メールの定番"
+  },
+  {
+    "jp": "気を使わせてごめん。",
+    "en": "Sorry for making you worry.",
+    "grammar": "Managing Relationships",
+    "notes": "\"worry\" で「気を使わせた」を表す"
+  },
+  {
+    "jp": "ややこしくしてごめん。",
+    "en": "Sorry for the confusion. / Sorry for complicating things.",
+    "grammar": "Managing Relationships",
+    "notes": "\"confusion\" =「混乱」"
+  },
+  {
+    "jp": "言い方きつかったかも。",
+    "en": "I might have been too harsh. / That came out wrong.",
+    "grammar": "Managing Relationships",
+    "notes": "\"came out wrong\" =「言い方が悪かった」。非常に便利"
+  },
+  {
+    "jp": "気を悪くしたらごめん。",
+    "en": "Sorry if I offended you. / No offense.",
+    "grammar": "Managing Relationships",
+    "notes": "\"No offense\" は言う前の予防線"
+  },
+  {
+    "jp": "そういうつもりじゃなかった。",
+    "en": "I didn't mean it that way. / That's not what I meant.",
+    "grammar": "Managing Relationships",
+    "notes": "\"that's not what I meant\" は誤解を解く定番"
+  },
+  {
+    "jp": "勘違いさせたならごめん。",
+    "en": "Sorry if I gave you the wrong impression.",
+    "grammar": "Managing Relationships",
+    "notes": "\"wrong impression\" =「間違った印象」"
+  },
+  {
+    "jp": "気にしないで。",
+    "en": "Don't worry about it. / No worries.",
+    "grammar": "Managing Relationships",
+    "notes": "\"No worries.\" はオーストラリア英語由来だが今は世界共通"
+  },
+  {
+    "jp": "大丈夫だよ。",
+    "en": "It's okay. / It's all good.",
+    "grammar": "Managing Relationships",
+    "notes": "\"It's all good.\" はカジュアル"
+  },
+  {
+    "jp": "全然平気。",
+    "en": "I'm totally fine. / It's no big deal.",
+    "grammar": "Managing Relationships",
+    "notes": "\"no big deal\" =「大したことない」"
+  },
+  {
+    "jp": "無理しなくていいよ。",
+    "en": "You don't have to push yourself. / No pressure.",
+    "grammar": "Managing Relationships",
+    "notes": "\"No pressure.\" =「プレッシャーなしで」"
+  },
+  {
+    "jp": "できるときでいいよ。",
+    "en": "Whenever you can. / No rush.",
+    "grammar": "Managing Relationships",
+    "notes": "\"No rush.\" =「急がなくていい」"
+  },
+  {
+    "jp": "急がなくていいよ。",
+    "en": "Take your time.",
+    "grammar": "Managing Relationships",
+    "notes": "\"Take your time.\" は定番中の定番"
+  },
+  {
+    "jp": "ありがとう、うれしい。",
+    "en": "Thanks, that means a lot.",
+    "grammar": "Managing Relationships",
+    "notes": "\"that means a lot\" =「とてもうれしい」。非常に自然"
+  },
+  {
+    "jp": "そう言ってくれてうれしい。",
+    "en": "That's nice of you to say. / I appreciate you saying that.",
+    "grammar": "Managing Relationships",
+    "notes": "\"nice of you to\" =「〜してくれるなんて優しい」"
+  },
+  {
+    "jp": "わざわざありがとう。",
+    "en": "Thanks for going out of your way.",
+    "grammar": "Managing Relationships",
+    "notes": "\"go out of your way\" =「わざわざ〜する」"
+  },
+  {
+    "jp": "気にかけてくれてありがとう。",
+    "en": "Thanks for checking in. / Thanks for thinking of me.",
+    "grammar": "Managing Relationships",
+    "notes": "\"check in\" =「様子を見る」"
+  },
+  {
+    "jp": "助けてくれてありがとう。",
+    "en": "Thanks for your help. / Thanks for helping out.",
+    "grammar": "Managing Relationships",
+    "notes": "\"help out\" は \"help\" よりカジュアル"
+  },
+  {
+    "jp": "そこまでしなくていいのに。",
+    "en": "You didn't have to do that.",
+    "grammar": "Managing Relationships",
+    "notes": "感謝と恐縮を同時に伝える"
+  },
+  {
+    "jp": "本当に助かってる。",
+    "en": "You're a lifesaver. / I really appreciate everything.",
+    "grammar": "Managing Relationships",
+    "notes": "\"lifesaver\" =「命の恩人」（比喩的にカジュアルに使う）"
+  },
+  {
+    "jp": "責めてるわけじゃないよ。",
+    "en": "I'm not blaming you.",
+    "grammar": "Managing Relationships",
+    "notes": "\"blame\" =「責める」"
+  },
+  {
+    "jp": "怒ってるわけじゃないよ。",
+    "en": "I'm not mad at you.",
+    "grammar": "Managing Relationships",
+    "notes": "\"mad at\" =「〜に怒っている」"
+  },
+  {
+    "jp": "ただ少し気になっただけ。",
+    "en": "I was just wondering, that's all.",
+    "grammar": "Managing Relationships",
+    "notes": "\"just wondering\" は軽い関心を示す"
+  },
+  {
+    "jp": "念のため言っただけ。",
+    "en": "I'm just saying. / Just a heads-up.",
+    "grammar": "Managing Relationships",
+    "notes": "\"heads-up\" =「一応の知らせ」"
+  },
+  {
+    "jp": "できればでいいよ。",
+    "en": "Only if you can. / If you get a chance.",
+    "grammar": "Managing Relationships",
+    "notes": "\"if you get a chance\" =「もし機会があれば」"
+  },
+  {
+    "jp": "無理なら断ってね。",
+    "en": "Feel free to say no.",
+    "grammar": "Managing Relationships",
+    "notes": "\"feel free to\" =「遠慮なく〜して」"
+  },
+  {
+    "jp": "付き合わせてごめんね。",
+    "en": "Sorry for dragging you into this.",
+    "grammar": "Managing Relationships",
+    "notes": "\"drag into\" =「巻き込む」"
+  },
+  {
+    "jp": "いてくれてありがとう。",
+    "en": "Thanks for being there. / I'm glad you're here.",
+    "grammar": "Managing Relationships",
+    "notes": "\"being there\" =「そばにいてくれること」。感情的な場面で使う"
+  }
+]

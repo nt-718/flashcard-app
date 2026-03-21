@@ -1,0 +1,268 @@
+[
+  {
+    "jp": "こっちのほうが好き。",
+    "cn": "我更喜欢这个。",
+    "pinyin": "Wǒ gèng xǐhuan zhège.",
+    "grammar": "比较（比較する）",
+    "notes": "「更」(gèng) =「もっと」（比較の副詞）"
+  },
+  {
+    "jp": "あっちのほうが楽。",
+    "cn": "那个更轻松。",
+    "pinyin": "Nàge gèng qīngsōng.",
+    "grammar": "比较（比較する）",
+    "notes": "「轻松」(qīngsōng) =「楽な」"
+  },
+  {
+    "jp": "こっちのほうが安い。",
+    "cn": "这个更便宜。",
+    "pinyin": "Zhège gèng piányi.",
+    "grammar": "比较（比較する）",
+    "notes": "「便宜」(piányi) =「安い」"
+  },
+  {
+    "jp": "あっちのほうが高い。",
+    "cn": "那个更贵。",
+    "pinyin": "Nàge gèng guì.",
+    "grammar": "比较（比較する）",
+    "notes": "「贵」(guì) =「高い（値段）」"
+  },
+  {
+    "jp": "こっちのほうが早い。",
+    "cn": "这个更快。",
+    "pinyin": "Zhège gèng kuài.",
+    "grammar": "比较（比較する）",
+    "notes": "「快」(kuài) =「速い」"
+  },
+  {
+    "jp": "あっちのほうが静か。",
+    "cn": "那个更安静。",
+    "pinyin": "Nàge gèng ānjìng.",
+    "grammar": "比较（比較する）",
+    "notes": "「安静」=「静か」"
+  },
+  {
+    "jp": "似てるけど少し違う。",
+    "cn": "差不多但有点不一样。",
+    "pinyin": "Chàbuduō dàn yǒudiǎn bù yíyàng.",
+    "grammar": "比较（比較する）",
+    "notes": "「差不多」=「だいたい同じ」"
+  },
+  {
+    "jp": "見た目はこっちが好き。",
+    "cn": "外观的话我更喜欢这个。",
+    "pinyin": "Wàiguān de huà wǒ gèng xǐhuan zhège.",
+    "grammar": "比较（比較する）",
+    "notes": "「外观」(wàiguān) =「外観」"
+  },
+  {
+    "jp": "味はあっちのほうがいい。",
+    "cn": "味道的话那个更好。",
+    "pinyin": "Wèidào de huà nàge gèng hǎo.",
+    "grammar": "比较（比較する）",
+    "notes": "「味道」(wèidào) =「味」"
+  },
+  {
+    "jp": "値段のわりにこっちがいい。",
+    "cn": "考虑到价格这个更划算。",
+    "pinyin": "Kǎolǜ dào jiàgé zhège gèng huásuàn.",
+    "grammar": "比较（比較する）",
+    "notes": "「划算」(huásuàn) =「コスパがいい」"
+  },
+  {
+    "jp": "どっちも悪くない。",
+    "cn": "两个都不错。",
+    "pinyin": "Liǎng ge dōu búcuò.",
+    "grammar": "比较（比較する）",
+    "notes": "「两个都」=「両方とも」"
+  },
+  {
+    "jp": "どっちも似たようなもの。",
+    "cn": "两个差不多。",
+    "pinyin": "Liǎng ge chàbuduō.",
+    "grammar": "比较（比較する）",
+    "notes": "「差不多」が比較で大活躍"
+  },
+  {
+    "jp": "正直あまり変わらない。",
+    "cn": "说实话差别不大。",
+    "pinyin": "Shuō shíhuà chābié bú dà.",
+    "grammar": "比较（比較する）",
+    "notes": "「差别」(chābié) =「差」"
+  },
+  {
+    "jp": "こっちはシンプル。",
+    "cn": "这个比较简单。",
+    "pinyin": "Zhège bǐjiào jiǎndān.",
+    "grammar": "比较（比較する）",
+    "notes": "「比较」=「わりと」"
+  },
+  {
+    "jp": "あっちは少し派手。",
+    "cn": "那个有点花哨。",
+    "pinyin": "Nàge yǒudiǎn huāshao.",
+    "grammar": "比较（比較する）",
+    "notes": "「花哨」(huāshao) =「派手」"
+  },
+  {
+    "jp": "こっちのほうが私向き。",
+    "cn": "这个更适合我。",
+    "pinyin": "Zhège gèng shìhé wǒ.",
+    "grammar": "比较（比較する）",
+    "notes": "「适合」=「合う」"
+  },
+  {
+    "jp": "あっちは人によって好みが分かれそう。",
+    "cn": "那个因人而异。",
+    "pinyin": "Nàge yīn rén ér yì.",
+    "grammar": "比较（比較する）",
+    "notes": "「因人而异」(yīn rén ér yì) =「人によって異なる」。成語"
+  },
+  {
+    "jp": "こっちは初心者向け。",
+    "cn": "这个适合新手。",
+    "pinyin": "Zhège shìhé xīnshǒu.",
+    "grammar": "比较（比較する）",
+    "notes": "「新手」(xīnshǒu) =「初心者」"
+  },
+  {
+    "jp": "あっちは慣れてる人向け。",
+    "cn": "那个适合有经验的人。",
+    "pinyin": "Nàge shìhé yǒu jīngyàn de rén.",
+    "grammar": "比较（比較する）",
+    "notes": "「有经验」=「経験がある」"
+  },
+  {
+    "jp": "使いやすさはこっち。",
+    "cn": "好用的话是这个。",
+    "pinyin": "Hǎo yòng de huà shì zhège.",
+    "grammar": "比较（比較する）",
+    "notes": "「好用」(hǎo yòng) =「使いやすい」"
+  },
+  {
+    "jp": "でも見た目はあっち。",
+    "cn": "但好看的话是那个。",
+    "pinyin": "Dàn hǎokàn de huà shì nàge.",
+    "grammar": "比较（比較する）",
+    "notes": "「好看」(hǎokàn) =「見た目がいい」"
+  },
+  {
+    "jp": "価格差ほどの違いはない。",
+    "cn": "没有价格差那么大的区别。",
+    "pinyin": "Méiyǒu jiàgé chā nàme dà de qūbié.",
+    "grammar": "比较（比較する）",
+    "notes": "「区别」(qūbié) =「違い」"
+  },
+  {
+    "jp": "こっちは無難。",
+    "cn": "这个比较保险。",
+    "pinyin": "Zhège bǐjiào bǎoxiǎn.",
+    "grammar": "比较（比較する）",
+    "notes": "「保险」(bǎoxiǎn) =「無難／安全」"
+  },
+  {
+    "jp": "あっちは個性的。",
+    "cn": "那个比较有个性。",
+    "pinyin": "Nàge bǐjiào yǒu gèxìng.",
+    "grammar": "比较（比較する）",
+    "notes": "「有个性」=「個性がある」"
+  },
+  {
+    "jp": "今の気分ならこっち。",
+    "cn": "按现在的心情选这个。",
+    "pinyin": "Àn xiànzài de xīnqíng xuǎn zhège.",
+    "grammar": "比较（比較する）",
+    "notes": "「按」(àn) =「〜に基づいて」"
+  },
+  {
+    "jp": "長く使うならあっち。",
+    "cn": "长期用的话选那个。",
+    "pinyin": "Chángqī yòng de huà xuǎn nàge.",
+    "grammar": "比较（比較する）",
+    "notes": "「长期」(chángqī) =「長期」"
+  },
+  {
+    "jp": "気軽なのはこっち。",
+    "cn": "随便用的话是这个。",
+    "pinyin": "Suíbiàn yòng de huà shì zhège.",
+    "grammar": "比较（比較する）",
+    "notes": "「随便」=「気軽に」"
+  },
+  {
+    "jp": "ちゃんとして見えるのはあっち。",
+    "cn": "看起来正式的是那个。",
+    "pinyin": "Kàn qǐlái zhèngshì de shì nàge.",
+    "grammar": "比较（比較する）",
+    "notes": "「看起来」=「見た感じ」"
+  },
+  {
+    "jp": "片方は軽い。",
+    "cn": "一个比较轻。",
+    "pinyin": "Yí ge bǐjiào qīng.",
+    "grammar": "比较（比較する）",
+    "notes": "「轻」(qīng) =「軽い」"
+  },
+  {
+    "jp": "もう片方はしっかりしてる。",
+    "cn": "另一个比较结实。",
+    "pinyin": "Lìng yí ge bǐjiào jiēshi.",
+    "grammar": "比较（比較する）",
+    "notes": "「结实」(jiēshi) =「丈夫な」"
+  },
+  {
+    "jp": "こっちは直感的。",
+    "cn": "这个比较直观。",
+    "pinyin": "Zhège bǐjiào zhíguān.",
+    "grammar": "比较（比較する）",
+    "notes": "「直观」(zhíguān) =「直感的」"
+  },
+  {
+    "jp": "あっちは慣れが必要。",
+    "cn": "那个需要适应。",
+    "pinyin": "Nàge xūyào shìyìng.",
+    "grammar": "比较（比較する）",
+    "notes": "「适应」(shìyìng) =「慣れる」"
+  },
+  {
+    "jp": "家で使うならこっち。",
+    "cn": "在家用的话这个。",
+    "pinyin": "Zài jiā yòng de huà zhège.",
+    "grammar": "比较（比較する）",
+    "notes": "シンプルに述語を省略"
+  },
+  {
+    "jp": "外で使うならあっち。",
+    "cn": "在外面用的话那个。",
+    "pinyin": "Zài wàimiàn yòng de huà nàge.",
+    "grammar": "比较（比較する）",
+    "notes": "同上"
+  },
+  {
+    "jp": "こっちは落ち着いてる。",
+    "cn": "这个比较沉稳。",
+    "pinyin": "Zhège bǐjiào chénwěn.",
+    "grammar": "比较（比較する）",
+    "notes": "「沉稳」(chénwěn) =「落ち着いた」"
+  },
+  {
+    "jp": "あっちは元気な感じ。",
+    "cn": "那个比较活泼。",
+    "pinyin": "Nàge bǐjiào huópō.",
+    "grammar": "比较（比較する）",
+    "notes": "「活泼」(huópō) =「活発な」"
+  },
+  {
+    "jp": "同じように見えて結構違う。",
+    "cn": "看着差不多其实差很多。",
+    "pinyin": "Kàn zhe chàbuduō qíshí chà hěn duō.",
+    "grammar": "比较（比較する）",
+    "notes": "「看着〜其实〜」=「見た目は〜だが実は〜」"
+  },
+  {
+    "jp": "値段を考えるとこっちかな。",
+    "cn": "考虑价格的话选这个吧。",
+    "pinyin": "Kǎolǜ jiàgé de huà xuǎn zhège ba.",
+    "grammar": "比较（比較する）",
+    "notes": "「考虑」(kǎolǜ) =「考慮する」"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "jp": "そうだね。",
+    "en": "Yeah. / Right.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "最もシンプルな同意"
+  },
+  {
+    "jp": "たしかにそう。",
+    "en": "That's true. / True.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"True.\" 一語でカジュアルに同意"
+  },
+  {
+    "jp": "同感。",
+    "en": "Same here. / I feel the same way.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"Same.\" だけでもカジュアルに通じる"
+  },
+  {
+    "jp": "私もそう思う。",
+    "en": "I think so too.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"I agree.\" よりカジュアル"
+  },
+  {
+    "jp": "それでいいと思う。",
+    "en": "I think that works. / Sounds good.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"Sounds good.\" は万能の同意表現"
+  },
+  {
+    "jp": "それは違うと思う。",
+    "en": "I don't think that's right.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"I disagree.\" はやや硬い"
+  },
+  {
+    "jp": "ちょっと違うかな。",
+    "en": "Not quite. / Not exactly.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"Not quite.\" は柔らかい否定"
+  },
+  {
+    "jp": "そこは賛成できない。",
+    "en": "I can't agree with that. / I can't get behind that.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"get behind\" =「支持する」"
+  },
+  {
+    "jp": "その点は同意する。",
+    "en": "I agree on that point.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"on that point\" で部分的同意を明示"
+  },
+  {
+    "jp": "でも全部ではない。",
+    "en": "But not entirely. / But not everything.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"entirely\" =「完全に」"
+  },
+  {
+    "jp": "基本的には賛成。",
+    "en": "I mostly agree. / I agree in principle.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"in principle\" =「原則的には」"
+  },
+  {
+    "jp": "部分的にはわかる。",
+    "en": "I see your point to some extent.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"to some extent\" =「ある程度は」"
+  },
+  {
+    "jp": "それはちょっと無理。",
+    "en": "That's a bit much. / I can't do that.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"a bit much\" =「ちょっと無理がある」"
+  },
+  {
+    "jp": "それならあり。",
+    "en": "In that case, sure. / That works.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"In that case\" =「それなら」"
+  },
+  {
+    "jp": "それなら納得。",
+    "en": "That makes sense then.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"then\" を付けると「それなら」の条件付き感が出る"
+  },
+  {
+    "jp": "その言い方なら受け入れやすい。",
+    "en": "I can work with that. / If you put it that way.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"I can work with that.\" =「それなら受け入れられる」"
+  },
+  {
+    "jp": "そのままだときつい。",
+    "en": "As is, that's tough. / That's hard to accept as is.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"as is\" =「そのまま」"
+  },
+  {
+    "jp": "それはわかるけど、私は嫌かな。",
+    "en": "I get it, but it's not for me.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"not for me\" で個人の好みとして柔らかく断る"
+  },
+  {
+    "jp": "それなら反対しない。",
+    "en": "I won't object to that. / I'm fine with that.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"I won't object\" はやや堅い。\"I'm fine with that.\" が自然"
+  },
+  {
+    "jp": "そこまでではないと思う。",
+    "en": "I don't think it's that extreme.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"that\" で「そこまで」を表す"
+  },
+  {
+    "jp": "それはちょっと極端。",
+    "en": "That's a bit extreme.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"a bit\" で断定を和らげる"
+  },
+  {
+    "jp": "うん、それでいこう。",
+    "en": "Yeah, let's go with that.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"go with\" =「〜にする」"
+  },
+  {
+    "jp": "いや、やっぱり違う。",
+    "en": "No, actually, I changed my mind.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"change my mind\" =「考えを変える」"
+  },
+  {
+    "jp": "今回はあなたに合わせる。",
+    "en": "I'll go along with you this time.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"go along with\" =「合わせる」"
+  },
+  {
+    "jp": "今回は見送ったほうがいい。",
+    "en": "I think we should pass on this one.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"pass on\" =「見送る」"
+  },
+  {
+    "jp": "その案のほうがいい。",
+    "en": "I like that idea better.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"idea\" =「案」"
+  },
+  {
+    "jp": "その条件ならいいよ。",
+    "en": "Under those conditions, sure. / If that's the deal, I'm in.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"I'm in.\" =「乗った」"
+  },
+  {
+    "jp": "それはちょっと引っかかる。",
+    "en": "Something about that doesn't sit right.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"doesn't sit right\" =「しっくりこない」"
+  },
+  {
+    "jp": "異論はない。",
+    "en": "No objections. / I have no issue with that.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"No objections.\" はフォーマル寄り"
+  },
+  {
+    "jp": "それなら納得できる。",
+    "en": "I can accept that. / That's reasonable.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"reasonable\" =「筋が通っている」"
+  },
+  {
+    "jp": "全面賛成ではない。",
+    "en": "I don't fully agree.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"fully\" =「完全に」"
+  },
+  {
+    "jp": "反対というほどではない。",
+    "en": "I wouldn't say I'm against it.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"I wouldn't say\" =「〜とまでは言わない」"
+  },
+  {
+    "jp": "その気持ちは否定できない。",
+    "en": "I can't deny that feeling. / I get that.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"can't deny\" =「否定できない」"
+  },
+  {
+    "jp": "今は決めたくない。",
+    "en": "I'd rather not decide right now.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"I'd rather not\" =「できれば〜したくない」"
+  },
+  {
+    "jp": "今回はやめておこう。",
+    "en": "Let's skip this one. / Let's not this time.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"skip\" =「やめておく／飛ばす」"
+  },
+  {
+    "jp": "それはさすがにやりすぎ。",
+    "en": "That's definitely too much. / That's going overboard.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"overboard\" =「やりすぎ」"
+  },
+  {
+    "jp": "そこは譲れない。",
+    "en": "I can't budge on that. / That's non-negotiable.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"budge\" =「譲歩する」。\"non-negotiable\" はビジネスでも使う"
+  },
+  {
+    "jp": "そこは別にいいよ。",
+    "en": "I don't really care about that part. / That's fine either way.",
+    "grammar": "Agreeing & Disagreeing",
+    "notes": "\"either way\" =「どちらでも」"
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "jp": "今日はちょっと疲れてる。",
+    "en": "I'm a bit tired today.",
+    "grammar": "Explaining",
+    "notes": "\"a bit\" =「ちょっと」。\"kind of\" でも同じ"
+  },
+  {
+    "jp": "ちょっと遅れそう。",
+    "en": "I'm gonna be a little late. / Running late.",
+    "grammar": "Explaining",
+    "notes": "\"Running late.\" はテキストでよく使う短縮形"
+  },
+  {
+    "jp": "電車が遅れてた。",
+    "en": "The train was delayed.",
+    "grammar": "Explaining",
+    "notes": "\"delayed\" は交通機関の遅延の定番語"
+  },
+  {
+    "jp": "道に迷った。",
+    "en": "I got lost.",
+    "grammar": "Explaining",
+    "notes": "\"get lost\" =「迷う」。シンプルで頻出"
+  },
+  {
+    "jp": "朝からずっと忙しかった。",
+    "en": "I've been busy all day. / Busy since this morning.",
+    "grammar": "Explaining",
+    "notes": "現在完了進行形で「ずっと」を表す"
+  },
+  {
+    "jp": "まだ終わってない。",
+    "en": "I'm not done yet. / I haven't finished yet.",
+    "grammar": "Explaining",
+    "notes": "\"yet\" を文末に置くのが自然"
+  },
+  {
+    "jp": "今ちょうどやってるところ。",
+    "en": "I'm working on it right now. / I'm in the middle of it.",
+    "grammar": "Explaining",
+    "notes": "\"in the middle of\" =「〜の最中」"
+  },
+  {
+    "jp": "それはあとでやる。",
+    "en": "I'll do that later. / I'll get to it later.",
+    "grammar": "Explaining",
+    "notes": "\"get to it\" =「取りかかる」"
+  },
+  {
+    "jp": "今日は気分が乗らない。",
+    "en": "I'm not feeling it today. / I'm not in the mood.",
+    "grammar": "Explaining",
+    "notes": "\"not feeling it\" はカジュアルで自然"
+  },
+  {
+    "jp": "ちょっと考えたい。",
+    "en": "Let me think about it.",
+    "grammar": "Explaining",
+    "notes": "即答を避ける丁寧な表現"
+  },
+  {
+    "jp": "今は決められない。",
+    "en": "I can't decide right now.",
+    "grammar": "Explaining",
+    "notes": "\"I need more time.\" でも"
+  },
+  {
+    "jp": "それには理由がある。",
+    "en": "There's a reason for that.",
+    "grammar": "Explaining",
+    "notes": "そのまま直訳で自然"
+  },
+  {
+    "jp": "その時はそうするしかなかった。",
+    "en": "I had no choice at the time. / I had to.",
+    "grammar": "Explaining",
+    "notes": "\"had no choice\" =「選択肢がなかった」"
+  },
+  {
+    "jp": "別に怒ってるわけじゃない。",
+    "en": "I'm not mad or anything. / It's not like I'm angry.",
+    "grammar": "Explaining",
+    "notes": "\"or anything\" で「〜とかじゃない」のニュアンス"
+  },
+  {
+    "jp": "ただ少し疲れてるだけ。",
+    "en": "I'm just a little tired, that's all.",
+    "grammar": "Explaining",
+    "notes": "\"that's all\" =「それだけ」で文を締める"
+  },
+  {
+    "jp": "忘れてたわけじゃない。",
+    "en": "It's not like I forgot. / I didn't forget.",
+    "grammar": "Explaining",
+    "notes": "\"It's not like...\" は「〜というわけじゃない」の定番"
+  },
+  {
+    "jp": "ちょっとタイミングが悪かった。",
+    "en": "The timing was just bad. / It was just bad timing.",
+    "grammar": "Explaining",
+    "notes": "\"bad timing\" はそのまま使える"
+  },
+  {
+    "jp": "思ったより時間がかかった。",
+    "en": "It took longer than I expected.",
+    "grammar": "Explaining",
+    "notes": "\"than I expected/thought\" =「思ったより」"
+  },
+  {
+    "jp": "うまく言えないけど。",
+    "en": "I can't really explain it, but. / I don't know how to put it.",
+    "grammar": "Explaining",
+    "notes": "\"put it\" =「言葉にする」"
+  },
+  {
+    "jp": "なんとなくそう思った。",
+    "en": "I just had a feeling. / I just felt that way.",
+    "grammar": "Explaining",
+    "notes": "\"just\" で「なんとなく」を表す"
+  },
+  {
+    "jp": "本当は行きたかった。",
+    "en": "I actually wanted to go.",
+    "grammar": "Explaining",
+    "notes": "\"actually\" =「本当は」。非常に便利な副詞"
+  },
+  {
+    "jp": "でも今日は無理だった。",
+    "en": "But I couldn't make it today.",
+    "grammar": "Explaining",
+    "notes": "\"make it\" =「都合がつく／行ける」"
+  },
+  {
+    "jp": "それは私にとって大事。",
+    "en": "That's important to me. / That matters to me.",
+    "grammar": "Explaining",
+    "notes": "\"matter to me\" =「私にとって重要」"
+  },
+  {
+    "jp": "そこは気にしてる。",
+    "en": "I do care about that. / That's something I care about.",
+    "grammar": "Explaining",
+    "notes": "\"do\" を入れると強調になる"
+  },
+  {
+    "jp": "ただの勘違いだった。",
+    "en": "It was just a misunderstanding.",
+    "grammar": "Explaining",
+    "notes": "\"misunderstanding\" =「勘違い／誤解」"
+  },
+  {
+    "jp": "深い意味はないよ。",
+    "en": "I didn't mean anything by it. / It's nothing deep.",
+    "grammar": "Explaining",
+    "notes": "\"I didn't mean anything by it.\" は誤解を解く定番"
+  },
+  {
+    "jp": "先に連絡しようと思ってた。",
+    "en": "I was going to reach out first.",
+    "grammar": "Explaining",
+    "notes": "\"reach out\" =「連絡する」。ビジネスでも日常でも使う"
+  },
+  {
+    "jp": "たまたまそうなっただけ。",
+    "en": "It just happened that way. / It was just a coincidence.",
+    "grammar": "Explaining",
+    "notes": "\"coincidence\" =「偶然」"
+  },
+  {
+    "jp": "今日は家でゆっくりしたい。",
+    "en": "I just want to stay home and relax today.",
+    "grammar": "Explaining",
+    "notes": "\"stay home\" は \"stay at home\" のアメリカ英語版"
+  },
+  {
+    "jp": "今は一人になりたい。",
+    "en": "I need some alone time. / I want to be alone for a bit.",
+    "grammar": "Explaining",
+    "notes": "\"alone time\" は一般的な表現。ネガティブではない"
+  },
+  {
+    "jp": "ちょっと頭を整理したい。",
+    "en": "I need to clear my head. / I need to sort out my thoughts.",
+    "grammar": "Explaining",
+    "notes": "\"clear my head\" =「頭をすっきりさせる」"
+  },
+  {
+    "jp": "今ちょっと余裕がない。",
+    "en": "I don't have the bandwidth right now. / I'm stretched thin.",
+    "grammar": "Explaining",
+    "notes": "\"bandwidth\" は比喩的に「余裕」の意味でよく使う"
+  },
+  {
+    "jp": "お金を使いすぎた。",
+    "en": "I spent too much. / I went overboard.",
+    "grammar": "Explaining",
+    "notes": "\"go overboard\" =「やりすぎる」"
+  },
+  {
+    "jp": "最近寝不足なんだ。",
+    "en": "I haven't been sleeping well lately.",
+    "grammar": "Explaining",
+    "notes": "\"lately\" =「最近」。現在完了と相性が良い"
+  },
+  {
+    "jp": "そのせいで集中できない。",
+    "en": "That's why I can't focus. / It's making it hard to concentrate.",
+    "grammar": "Explaining",
+    "notes": "\"That's why...\" =「だから〜」"
+  },
+  {
+    "jp": "そんなに深刻じゃないよ。",
+    "en": "It's not that serious. / It's not a big deal.",
+    "grammar": "Explaining",
+    "notes": "\"not a big deal\" =「大したことない」。超頻出"
+  },
+  {
+    "jp": "ただ確認したかっただけ。",
+    "en": "I just wanted to make sure. / I was just checking.",
+    "grammar": "Explaining",
+    "notes": "\"just wanted to make sure\" は非常によく使う丁寧な表現"
+  },
+  {
+    "jp": "急いでるわけじゃない。",
+    "en": "I'm not in a rush. / No rush.",
+    "grammar": "Explaining",
+    "notes": "\"No rush.\" は相手にプレッシャーをかけない一言"
+  },
+  {
+    "jp": "今はそれが一番自然だと思う。",
+    "en": "I think that's the most natural thing right now.",
+    "grammar": "Explaining",
+    "notes": "\"natural\" はこの文脈で自然に使える"
+  }
+]

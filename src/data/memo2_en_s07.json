@@ -1,0 +1,230 @@
+[
+  {
+    "jp": "つまりね。",
+    "en": "What I mean is. / So basically.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"basically\" は言い換えの万能ワード"
+  },
+  {
+    "jp": "簡単に言うと。",
+    "en": "Simply put. / In simple terms.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"To put it simply\" でも"
+  },
+  {
+    "jp": "もっとわかりやすく言うと。",
+    "en": "To put it more clearly. / Let me rephrase.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"rephrase\" =「言い換える」"
+  },
+  {
+    "jp": "たとえばね。",
+    "en": "For example. / Like.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "カジュアルなら \"Like...\" だけで十分"
+  },
+  {
+    "jp": "要するに。",
+    "en": "Basically. / The point is. / In short.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"Long story short\" =「かいつまんで言うと」"
+  },
+  {
+    "jp": "そういう意味じゃなくて。",
+    "en": "That's not what I meant.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"meant\" は \"mean\" の過去形。「そのつもりじゃなかった」"
+  },
+  {
+    "jp": "いや、そうじゃなくて。",
+    "en": "No, that's not it. / No, what I'm saying is.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "相手の誤解を正す時"
+  },
+  {
+    "jp": "もう少しちゃんと言うと。",
+    "en": "To be more precise. / Let me put it better.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"precise\" =「正確な」"
+  },
+  {
+    "jp": "正確には。",
+    "en": "To be exact. / Technically.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"technically\" は「厳密に言えば」"
+  },
+  {
+    "jp": "というか。",
+    "en": "Or rather. / I mean.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"I mean\" は会話中の軌道修正に万能"
+  },
+  {
+    "jp": "どっちかというと。",
+    "en": "If anything. / I'd say it's more like.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"If anything, it's more X than Y.\" の形で使う"
+  },
+  {
+    "jp": "完全に同じではないけど。",
+    "en": "It's not exactly the same, but.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"not exactly\" =「完全には〜ではない」"
+  },
+  {
+    "jp": "近いのはこっち。",
+    "en": "This one is closer.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "シンプルで直訳可能"
+  },
+  {
+    "jp": "伝えたいのはそこじゃなくて。",
+    "en": "That's not the point I'm trying to make.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"the point I'm trying to make\" =「伝えたいポイント」"
+  },
+  {
+    "jp": "本当に言いたいのは。",
+    "en": "What I really want to say is. / What I'm getting at is.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"get at\" =「言いたいこと」"
+  },
+  {
+    "jp": "それに加えて。",
+    "en": "On top of that. / Also.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"On top of that\" は「それに加えて」の強調版"
+  },
+  {
+    "jp": "もう一つ言うと。",
+    "en": "One more thing. / Also.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"One more thing\" は切り出しとしても使える"
+  },
+  {
+    "jp": "細かいことを言うと。",
+    "en": "If you want to get technical. / To be specific.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"get technical\" =「細かいことを言う」"
+  },
+  {
+    "jp": "少し補足すると。",
+    "en": "Just to add. / For context.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"For context\" =「背景として」。ビジネスメールでも頻出"
+  },
+  {
+    "jp": "勘違いしないでほしいんだけど。",
+    "en": "Don't get me wrong.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "定番イディオム。非常によく使う"
+  },
+  {
+    "jp": "誤解しないでね。",
+    "en": "Don't misunderstand me. / Don't take it the wrong way.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"take it the wrong way\" =「悪く受け取る」"
+  },
+  {
+    "jp": "悪い意味じゃなくて。",
+    "en": "I don't mean it in a bad way.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"in a bad way\" で「悪い意味で」"
+  },
+  {
+    "jp": "いい意味で言ってる。",
+    "en": "I mean it in a good way. / I mean it as a compliment.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"as a compliment\" =「褒め言葉として」"
+  },
+  {
+    "jp": "それっぽいけど少し違う。",
+    "en": "It's close, but not quite.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"not quite\" =「完全には一致しない」"
+  },
+  {
+    "jp": "たぶんこの言い方のほうが近い。",
+    "en": "I think this is a better way to put it.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"a better way to put it\" =「もっと適切な言い方」"
+  },
+  {
+    "jp": "日常っぽく言うと。",
+    "en": "In everyday terms. / In plain English.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"in plain English\" =「わかりやすく言うと」"
+  },
+  {
+    "jp": "もっと自然に言うなら。",
+    "en": "A more natural way to say it would be.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "言語学習の文脈で特に使える"
+  },
+  {
+    "jp": "フォーマルすぎるかも。",
+    "en": "That might be too formal.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"might be\" で断定を避ける"
+  },
+  {
+    "jp": "カジュアルに言うなら。",
+    "en": "Casually speaking. / In casual terms.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "日常会話なら \"More casually...\" だけでも"
+  },
+  {
+    "jp": "言いたかったのはそれ。",
+    "en": "That's what I was trying to say. / Exactly.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"Exactly!\" で「まさにそれ」"
+  },
+  {
+    "jp": "そうそう、そんな感じ。",
+    "en": "Yeah yeah, something like that. / Yeah, exactly.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"something like that\" =「そんな感じ」"
+  },
+  {
+    "jp": "ちょっと大げさに言うと。",
+    "en": "To exaggerate a little. / To put it dramatically.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"exaggerate\" =「大げさに言う」"
+  },
+  {
+    "jp": "極端に言うと。",
+    "en": "To put it in extreme terms. / At the extreme.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"At the extreme end...\" とも"
+  },
+  {
+    "jp": "そこだけ切り取るとそう見える。",
+    "en": "Out of context, it looks that way.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"out of context\" =「文脈を無視すると」。重要表現"
+  },
+  {
+    "jp": "でも全体で見ると違う。",
+    "en": "But if you look at the bigger picture, it's different.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"the bigger picture\" =「全体像」"
+  },
+  {
+    "jp": "そう聞こえたならごめん。",
+    "en": "Sorry if it came across that way.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"come across\" =「（印象として）伝わる」"
+  },
+  {
+    "jp": "本当はもっと単純な話。",
+    "en": "It's actually much simpler than that.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"actually\" で「本当は」を表す"
+  },
+  {
+    "jp": "言い直すね。",
+    "en": "Let me rephrase that. / Let me start over.",
+    "grammar": "Rephrasing & Adding Context",
+    "notes": "\"start over\" は最初から言い直す時"
+  }
+]

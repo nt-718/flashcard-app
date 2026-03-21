@@ -1,0 +1,230 @@
+[
+  {
+    "jp": "で、どうする？",
+    "en": "So, what do we do? / So what's the plan?",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"So\" で切り出す"
+  },
+  {
+    "jp": "それでね。",
+    "en": "So anyway. / So then.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "話を続ける時の接続"
+  },
+  {
+    "jp": "で、続きなんだけど。",
+    "en": "So, as I was saying.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"as I was saying\" =「さっき言ってたように」"
+  },
+  {
+    "jp": "話を戻すと。",
+    "en": "Going back to what we were saying. / Anyway.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"Anyway\" は話を戻す万能ワード"
+  },
+  {
+    "jp": "ちょっと話変わるけど。",
+    "en": "On a different note. / Changing the subject.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"on a different note\" はやや丁寧"
+  },
+  {
+    "jp": "そういえば。",
+    "en": "Oh, that reminds me. / Speaking of which.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"speaking of which\" は関連する話題に移る時"
+  },
+  {
+    "jp": "ところで。",
+    "en": "By the way. / Anyway.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"BTW\" はテキストの定番略語"
+  },
+  {
+    "jp": "まあ、それは置いといて。",
+    "en": "Anyway. / Let's set that aside.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"set aside\" =「置いておく」"
+  },
+  {
+    "jp": "とりあえず次いこう。",
+    "en": "Let's move on.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"move on\" =「次に進む」"
+  },
+  {
+    "jp": "まずはこれから。",
+    "en": "Let's start with this. / First things first.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"First things first.\" は定番フレーズ"
+  },
+  {
+    "jp": "次はどうしようか。",
+    "en": "What's next? / What should we do next?",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"What's next?\" が簡潔"
+  },
+  {
+    "jp": "その話はあとでしよう。",
+    "en": "Let's talk about that later. / We can get to that later.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"get to\" =「取りかかる」"
+  },
+  {
+    "jp": "それはまた今度でいいや。",
+    "en": "That can wait. / Another time.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"That can wait.\" =「急がない」"
+  },
+  {
+    "jp": "ひとまずここまで。",
+    "en": "That's it for now. / Let's stop here for now.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"for now\" =「今のところ」"
+  },
+  {
+    "jp": "今日はこのへんで。",
+    "en": "Let's call it a day.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"call it a day\" =「今日はここまでにする」。定番"
+  },
+  {
+    "jp": "じゃあ、そろそろ行くね。",
+    "en": "I should get going. / I'd better head out.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"get going\" =「出発する」"
+  },
+  {
+    "jp": "じゃあまたね。",
+    "en": "See you. / Catch you later.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"Catch you later.\" はカジュアル"
+  },
+  {
+    "jp": "また連絡するね。",
+    "en": "I'll text you. / I'll be in touch.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"be in touch\" =「連絡を取り合う」"
+  },
+  {
+    "jp": "またあとで話そう。",
+    "en": "Let's catch up later. / Talk later.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"catch up\" =「近況を話し合う」"
+  },
+  {
+    "jp": "話せてよかった。",
+    "en": "It was nice talking to you. / Glad we got to talk.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"glad we got to\" =「〜できてよかった」"
+  },
+  {
+    "jp": "今日はありがとう。",
+    "en": "Thanks for today.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "シンプルで万能"
+  },
+  {
+    "jp": "気をつけて帰ってね。",
+    "en": "Get home safe. / Be careful going home.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"Get home safe.\" が自然"
+  },
+  {
+    "jp": "また明日。",
+    "en": "See you tomorrow.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"See ya.\" はさらにカジュアル"
+  },
+  {
+    "jp": "そろそろ寝るね。",
+    "en": "I'm going to bed. / I'm heading to bed.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"heading to bed\" はカジュアル"
+  },
+  {
+    "jp": "この話、いったん終わりにしよう。",
+    "en": "Let's put this on hold. / Let's table this.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"table\" は動詞で「保留にする」（アメリカ英語）"
+  },
+  {
+    "jp": "じゃあ結論だけ言うと。",
+    "en": "So bottom line. / To wrap up.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"bottom line\" =「結論」。ビジネスでも日常でも使う"
+  },
+  {
+    "jp": "順番にいこう。",
+    "en": "Let's go one at a time. / Let's take it step by step.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"one at a time\" =「一つずつ」"
+  },
+  {
+    "jp": "まず一個目。",
+    "en": "First one. / Number one.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "列挙する時のシンプルな言い方"
+  },
+  {
+    "jp": "次、二個目。",
+    "en": "Next. / Second.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"Next up.\" とも"
+  },
+  {
+    "jp": "最後にこれだけ。",
+    "en": "One last thing. / And lastly.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"One last thing.\" は締めの定番"
+  },
+  {
+    "jp": "そこはまた別の話。",
+    "en": "That's a different topic. / That's a whole other thing.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"a whole other thing\" =「まったく別の話」"
+  },
+  {
+    "jp": "今はその話じゃなくて。",
+    "en": "That's not what we're talking about right now.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "脱線を戻す時"
+  },
+  {
+    "jp": "いったん落ち着こう。",
+    "en": "Let's take a step back. / Let's cool down.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"take a step back\" =「一歩引いて落ち着く」"
+  },
+  {
+    "jp": "そこは飛ばしていい？",
+    "en": "Can we skip that?",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"skip\" =「飛ばす」"
+  },
+  {
+    "jp": "この話長くなりそう。",
+    "en": "This is going to be a long one.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"a long one\" =「長い話」"
+  },
+  {
+    "jp": "ここで切ろうか。",
+    "en": "Should we stop here? / Let's leave it here.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"leave it here\" =「ここで止める」"
+  },
+  {
+    "jp": "じゃ、またあとで。",
+    "en": "Talk to you later. / Later.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"Later.\" だけで十分カジュアル"
+  },
+  {
+    "jp": "このへんにしておこう。",
+    "en": "Let's leave it at that.",
+    "grammar": "Moving, Switching & Ending Conversations",
+    "notes": "\"leave it at that\" =「この辺にしておく」"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "jp": "ちょっと待って。",
+    "en": "Hold on. / Wait a sec. / Hang on.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Hang on.\" が最もカジュアル"
+  },
+  {
+    "jp": "これ見て。",
+    "en": "Check this out. / Look at this.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Check this out.\" は「見てみて」のワクワク感がある"
+  },
+  {
+    "jp": "手伝って。",
+    "en": "Can you help me? / Give me a hand.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Give me a hand\" =「手を貸して」"
+  },
+  {
+    "jp": "もう一回言って。",
+    "en": "Say that again. / Come again?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Come again?\" は聞き返しのカジュアル表現"
+  },
+  {
+    "jp": "ちょっと聞いて。",
+    "en": "Listen. / Hey, listen to this.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Listen to this.\" はこれから話す内容への期待を持たせる"
+  },
+  {
+    "jp": "先に行ってて。",
+    "en": "Go ahead. / Go on without me.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Go ahead.\" は万能。「お先にどうぞ」にも使える"
+  },
+  {
+    "jp": "ここ座って。",
+    "en": "Have a seat. / Sit here.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Have a seat.\" のほうが丁寧"
+  },
+  {
+    "jp": "ちょっと貸して。",
+    "en": "Can I borrow that? / Let me see that.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"borrow\" =「借りる」。\"lend\" =「貸す」と混同注意"
+  },
+  {
+    "jp": "一緒に行こう。",
+    "en": "Let's go together. / Come with me.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Wanna come?\" =「一緒に来る？」がさらにカジュアル"
+  },
+  {
+    "jp": "今日は早めに帰ろう。",
+    "en": "Let's head home early today.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"head home\" =「帰路につく」"
+  },
+  {
+    "jp": "休憩しよう。",
+    "en": "Let's take a break.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"take a break\" =「休憩する」"
+  },
+  {
+    "jp": "先にご飯食べよう。",
+    "en": "Let's eat first.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Let's grab food first.\" はカジュアル"
+  },
+  {
+    "jp": "あとで考えよう。",
+    "en": "Let's think about it later. / We'll figure it out later.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"figure it out\" =「なんとかする」"
+  },
+  {
+    "jp": "とりあえずやってみよう。",
+    "en": "Let's just try it. / Let's give it a shot.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"give it a shot\" =「やってみる」"
+  },
+  {
+    "jp": "別の方法でやってみよう。",
+    "en": "Let's try a different approach.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"approach\" =「方法／アプローチ」"
+  },
+  {
+    "jp": "今日はやめておこう。",
+    "en": "Let's not today. / Let's call it a day.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"call it a day\" =「今日はここまでにする」"
+  },
+  {
+    "jp": "明日にしない？",
+    "en": "How about tomorrow? / Can we do it tomorrow?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"How about...?\" は提案の定番"
+  },
+  {
+    "jp": "今から行かない？",
+    "en": "Want to go now? / Should we head out?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"head out\" =「出発する」"
+  },
+  {
+    "jp": "一緒に見ない？",
+    "en": "Want to watch it together?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Want to...?\" は \"Do you want to...?\" のカジュアル版"
+  },
+  {
+    "jp": "ちょっと付き合って。",
+    "en": "Come with me for a bit. / Tag along.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"tag along\" =「ついてくる」"
+  },
+  {
+    "jp": "先に注文していい？",
+    "en": "Mind if I order first?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Mind if I...?\" は許可を求める丁寧表現"
+  },
+  {
+    "jp": "窓開けてくれる？",
+    "en": "Can you open the window?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Could you...?\" でより丁寧"
+  },
+  {
+    "jp": "電気消してくれる？",
+    "en": "Can you turn off the light?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"turn off\" =「消す」、\"turn on\" =「つける」"
+  },
+  {
+    "jp": "ドア閉めてくれる？",
+    "en": "Can you close the door?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"shut\" は \"close\" よりカジュアル"
+  },
+  {
+    "jp": "少し静かにしてくれる？",
+    "en": "Can you keep it down?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"keep it down\" =「静かにする」。\"be quiet\" より自然"
+  },
+  {
+    "jp": "あとで返信して。",
+    "en": "Text me back later. / Get back to me later.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"get back to me\" =「返事をくれる」"
+  },
+  {
+    "jp": "着いたら教えて。",
+    "en": "Let me know when you get there.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"let me know\" =「教えて」。非常に頻出"
+  },
+  {
+    "jp": "無理しないで。",
+    "en": "Don't push yourself. / Take it easy.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"take it easy\" は挨拶としても使える"
+  },
+  {
+    "jp": "先に休んだほうがいいよ。",
+    "en": "You should get some rest first.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"get some rest\" =「休む」"
+  },
+  {
+    "jp": "とりあえず座れば？",
+    "en": "Why don't you sit down?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"Why don't you...?\" は柔らかい提案"
+  },
+  {
+    "jp": "ちょっと外に出ない？",
+    "en": "Want to step outside?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"step outside\" =「ちょっと外に出る」"
+  },
+  {
+    "jp": "まず落ち着こう。",
+    "en": "Let's calm down first. / Let's take a breath.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"take a breath\" =「一息つく」"
+  },
+  {
+    "jp": "今日はのんびりしよう。",
+    "en": "Let's take it easy today. / Let's have a chill day.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"chill\" =「のんびりした」"
+  },
+  {
+    "jp": "それ、送ってくれる？",
+    "en": "Can you send that to me?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"send\" はメール・テキスト・ファイルすべてに使える"
+  },
+  {
+    "jp": "写真撮ってくれる？",
+    "en": "Can you take a picture? / Could you take a photo?",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"take a picture/photo\" =「写真を撮る」"
+  },
+  {
+    "jp": "後で電話してもいい？",
+    "en": "Can I call you later?",
+    "grammar": "Requests & Suggestions",
+    "notes": "シンプルで直接的"
+  },
+  {
+    "jp": "今回はこれでいこう。",
+    "en": "Let's go with this for now.",
+    "grammar": "Requests & Suggestions",
+    "notes": "\"for now\" =「今回は／今のところ」"
+  }
+]

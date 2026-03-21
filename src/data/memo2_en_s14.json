@@ -1,0 +1,230 @@
+[
+  {
+    "jp": "たぶん大丈夫。",
+    "en": "Probably fine. / It should be fine.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"should\" =「〜のはず」。推測の定番"
+  },
+  {
+    "jp": "たぶん間に合う。",
+    "en": "We should make it. / We'll probably make it.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"make it\" =「間に合う」"
+  },
+  {
+    "jp": "おそらく来ると思う。",
+    "en": "They'll probably come. / I think they'll show up.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"show up\" =「現れる」"
+  },
+  {
+    "jp": "たぶん忘れてるだけ。",
+    "en": "They probably just forgot.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"just\" =「ただ〜だけ」"
+  },
+  {
+    "jp": "もしかして寝てる？",
+    "en": "Maybe they're sleeping? / Think they fell asleep?",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"fell asleep\" =「寝落ちした」"
+  },
+  {
+    "jp": "もしかしたら道に迷ってるのかも。",
+    "en": "Maybe they got lost.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"get lost\" =「迷う」"
+  },
+  {
+    "jp": "この感じだと雨が降りそう。",
+    "en": "Looks like it's going to rain.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"Looks like...\" =「〜しそう」の定番構文"
+  },
+  {
+    "jp": "そのままだと遅れそう。",
+    "en": "At this rate, we'll be late.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"at this rate\" =「このままだと」"
+  },
+  {
+    "jp": "早く出れば間に合うかも。",
+    "en": "If we leave early, we might make it.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"might\" =「かもしれない」"
+  },
+  {
+    "jp": "もし今行けば空いてるかも。",
+    "en": "If we go now, it might not be crowded.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"crowded\" =「混んでいる」"
+  },
+  {
+    "jp": "たぶんそんなに深く考えてないよ。",
+    "en": "They're probably not overthinking it.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"overthink\" =「考えすぎる」"
+  },
+  {
+    "jp": "ただ疲れてるだけかも。",
+    "en": "Maybe they're just tired.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"just\" で「ただ〜なだけ」"
+  },
+  {
+    "jp": "気のせいかもしれないけど。",
+    "en": "It might just be me, but. / Maybe I'm imagining things, but.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"It might just be me\" は前置きとして便利"
+  },
+  {
+    "jp": "もし本当ならちょっと困る。",
+    "en": "If that's true, that's a problem.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"that's a problem\" は直接的だが自然"
+  },
+  {
+    "jp": "そうなら話が変わる。",
+    "en": "If so, that changes things.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"that changes things\" =「話が変わる」。そのまま使える"
+  },
+  {
+    "jp": "このままいくと厳しいかも。",
+    "en": "If things keep going like this, it might be tough.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"keep going like this\" =「このまま続くと」"
+  },
+  {
+    "jp": "最悪、明日に回そう。",
+    "en": "Worst case, we push it to tomorrow.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"worst case\" =「最悪の場合」。\"push\" =「延期する」"
+  },
+  {
+    "jp": "うまくいけばすぐ終わる。",
+    "en": "If all goes well, it'll be done quickly.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"if all goes well\" =「うまくいけば」"
+  },
+  {
+    "jp": "私の予想では来ない。",
+    "en": "My guess is they won't come.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"my guess is\" =「私の予想では」"
+  },
+  {
+    "jp": "私の勘だけど、うまくいく。",
+    "en": "I have a gut feeling it'll work out.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"gut feeling\" =「直感」。非常によく使う表現"
+  },
+  {
+    "jp": "なんとなく嫌な予感がする。",
+    "en": "I have a bad feeling about this.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "スターウォーズの名セリフとしても有名"
+  },
+  {
+    "jp": "逆に大丈夫な気もする。",
+    "en": "On the other hand, it might actually be fine.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"on the other hand\" =「逆に」"
+  },
+  {
+    "jp": "まだ決めないほうがいいかも。",
+    "en": "Maybe we shouldn't decide yet.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"shouldn't\" =「〜しないほうがいい」"
+  },
+  {
+    "jp": "たぶん勘違いしてる。",
+    "en": "They're probably mistaken. / I think there's a misunderstanding.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"mistaken\" =「間違っている」"
+  },
+  {
+    "jp": "もしかして私のせい？",
+    "en": "Was that my fault? / Is that because of me?",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"my fault\" =「私のせい」"
+  },
+  {
+    "jp": "今ならまだやり直せるかも。",
+    "en": "We might still be able to fix it. / There's still time.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"there's still time\" は励ましとしても使える"
+  },
+  {
+    "jp": "それ、冗談だった可能性あるよ。",
+    "en": "They might have been joking.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"might have been\" =「〜だった可能性がある」（過去の推測）"
+  },
+  {
+    "jp": "たぶんそこまで気にしてないよ。",
+    "en": "They probably don't care that much.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"that much\" =「そこまで」"
+  },
+  {
+    "jp": "この流れだとそうなりそう。",
+    "en": "At this rate, that's where it's heading.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"heading\" =「向かっている」"
+  },
+  {
+    "jp": "偶然かもしれない。",
+    "en": "It could be a coincidence.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"coincidence\" =「偶然」"
+  },
+  {
+    "jp": "しばらくすれば落ち着くと思う。",
+    "en": "I think it'll settle down eventually.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"settle down\" =「落ち着く」"
+  },
+  {
+    "jp": "たまたまタイミングが悪かっただけかも。",
+    "en": "It was probably just bad timing.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"just bad timing\" で片付けられる"
+  },
+  {
+    "jp": "もし無理なら無理でいい。",
+    "en": "If it doesn't work out, that's fine.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"work out\" =「うまくいく」"
+  },
+  {
+    "jp": "そう考えると納得できる。",
+    "en": "When you think about it that way, it makes sense.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"that way\" =「そのように」"
+  },
+  {
+    "jp": "時間がたてば変わるかも。",
+    "en": "Things might change with time.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"with time\" =「時間が経てば」"
+  },
+  {
+    "jp": "今のところは問題なさそう。",
+    "en": "So far, so good.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "定番フレーズ。「今のところ順調」"
+  },
+  {
+    "jp": "そのうち慣れると思う。",
+    "en": "You'll get used to it eventually.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"get used to\" =「慣れる」"
+  },
+  {
+    "jp": "このまま様子を見るしかないかも。",
+    "en": "I guess we just have to wait and see.",
+    "grammar": "Hypothesizing & Guessing",
+    "notes": "\"wait and see\" =「様子を見る」"
+  }
+]

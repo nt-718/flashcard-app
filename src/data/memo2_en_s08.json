@@ -1,0 +1,146 @@
+[
+  {
+    "jp": "昨日映画見た。",
+    "en": "I watched a movie yesterday.",
+    "grammar": "Talking About Daily Life",
+    "notes": "映画館なら \"I saw a movie.\" 家なら \"I watched a movie.\""
+  },
+  {
+    "jp": "最近ジム通ってる。",
+    "en": "I've been going to the gym lately.",
+    "grammar": "Talking About Daily Life",
+    "notes": "現在完了進行形で「最近〜している」を表す"
+  },
+  {
+    "jp": "今日はずっと家にいた。",
+    "en": "I stayed home all day.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"all day\" =「一日中」"
+  },
+  {
+    "jp": "さっきご飯食べてきた。",
+    "en": "I just ate. / I just had lunch.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"just\" =「さっき」。具体的な食事名を入れると自然"
+  },
+  {
+    "jp": "朝から掃除してた。",
+    "en": "I've been cleaning since this morning.",
+    "grammar": "Talking About Daily Life",
+    "notes": "現在完了進行形 + \"since\" で「〜からずっと」"
+  },
+  {
+    "jp": "友達と会ってきた。",
+    "en": "I hung out with a friend. / I met up with a friend.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"hang out\" =「遊ぶ／過ごす」。過去形は \"hung out\""
+  },
+  {
+    "jp": "買い物行ってきた。",
+    "en": "I went shopping. / I ran some errands.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"errands\" =「用事」。日用品の買い物はこちらが近い"
+  },
+  {
+    "jp": "新しいお店に行ってみた。",
+    "en": "I tried this new place.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"place\" で店全般を指せる。\"this\" を付けると会話的"
+  },
+  {
+    "jp": "料理作ってみた。",
+    "en": "I tried cooking something. / I made something.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"tried + -ing\" =「試しに〜してみた」"
+  },
+  {
+    "jp": "最近ハマってるものがある。",
+    "en": "I've been really into something lately.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"be into X\" =「Xにハマっている」"
+  },
+  {
+    "jp": "本を読み始めた。",
+    "en": "I started reading a book.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"start + -ing\" が自然"
+  },
+  {
+    "jp": "ドラマ見始めた。",
+    "en": "I started watching a show.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"show\" は英語でドラマ全般を指す。\"drama\" は日本語英語"
+  },
+  {
+    "jp": "今日仕事めっちゃ忙しかった。",
+    "en": "Work was crazy today. / Work was insane today.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"crazy/insane\" は「めっちゃ忙しい」のカジュアルな表現"
+  },
+  {
+    "jp": "面接があった。",
+    "en": "I had an interview.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"job interview\" で就職面接を明示"
+  },
+  {
+    "jp": "試験が近い。",
+    "en": "I have an exam coming up.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"coming up\" =「近づいている」"
+  },
+  {
+    "jp": "引っ越し考えてる。",
+    "en": "I'm thinking about moving.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"move\" だけで「引っ越す」の意味になる"
+  },
+  {
+    "jp": "散歩してたら偶然会った。",
+    "en": "I ran into someone while I was out for a walk.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"run into\" =「偶然会う」。非常によく使う句動詞"
+  },
+  {
+    "jp": "髪切った。",
+    "en": "I got a haircut.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"I cut my hair.\" は自分で切った意味になる。美容院なら \"got a haircut\""
+  },
+  {
+    "jp": "新しい服買った。",
+    "en": "I got some new clothes.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"got\" は \"bought\" よりカジュアル"
+  },
+  {
+    "jp": "旅行の計画を立ててる。",
+    "en": "I'm planning a trip.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"plan\" は動詞としてそのまま使える"
+  },
+  {
+    "jp": "スマホの調子が悪い。",
+    "en": "My phone is acting up.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"act up\" =「調子が悪い」。機械や体調に使える"
+  },
+  {
+    "jp": "昨日あまり寝れなかった。",
+    "en": "I didn't sleep well last night.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"last night\" であって \"yesterday night\" とは言わない"
+  },
+  {
+    "jp": "最近忙しすぎる。",
+    "en": "I've been so busy lately.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"so\" で「すぎる」を強調"
+  },
+  {
+    "jp": "やっと休みが取れた。",
+    "en": "I finally got a day off.",
+    "grammar": "Talking About Daily Life",
+    "notes": "\"day off\" =「休みの日」"
+  }
+]

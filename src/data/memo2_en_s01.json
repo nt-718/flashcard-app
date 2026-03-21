@@ -1,0 +1,230 @@
+[
+  {
+    "jp": "お疲れ。",
+    "en": "Hey. / What's up.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "英語に「お疲れ」の直訳はない。職場でも \"Hey.\" で十分。\"Good work today.\" は改まった場面向き"
+  },
+  {
+    "jp": "こんにちは。",
+    "en": "Hi. / Hello.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "Hi のほうがカジュアル。Hello はやや丁寧・距離がある"
+  },
+  {
+    "jp": "おはよう。",
+    "en": "Morning. / Good morning.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "Morning. だけで十分カジュアル。Good morning. はフォーマル寄り"
+  },
+  {
+    "jp": "こんばんは。",
+    "en": "Hey. / Good evening.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "Good evening はホテルやレストランなどフォーマルな場面。友達には Hey. で時間帯を問わない"
+  },
+  {
+    "jp": "元気？",
+    "en": "How are you? / How's it going?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"How are you?\" は挨拶の定型。深い意味なく \"Good, you?\" と返すのが普通"
+  },
+  {
+    "jp": "最近どう？",
+    "en": "What have you been up to? / What's new?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "しばらく会ってない相手に使う。\"Not much.\" と返されることが多い"
+  },
+  {
+    "jp": "調子どう？",
+    "en": "How are you doing? / How's everything?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "How's it going? とほぼ同じ。体調にも仕事にも使える"
+  },
+  {
+    "jp": "今日どうだった？",
+    "en": "How was your day?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "一日の終わりに使う定番フレーズ"
+  },
+  {
+    "jp": "久しぶり。",
+    "en": "Long time no see. / It's been a while.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"It's been a while.\" のほうが自然な場面が多い。\"It's been ages!\" で「超久しぶり」"
+  },
+  {
+    "jp": "会えてうれしい。",
+    "en": "Good to see you. / Great to see you.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "初対面なら \"Nice to meet you.\" 再会なら \"Good to see you (again).\""
+  },
+  {
+    "jp": "今ちょっと話せる？",
+    "en": "Got a minute? / Do you have a sec?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"Got a minute?\" は非常によく使う。sec = second の略"
+  },
+  {
+    "jp": "ちょっといい？",
+    "en": "Hey, quick question. / You got a sec?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "日本語の「ちょっといい？」に一番近いのは \"You got a sec?\""
+  },
+  {
+    "jp": "聞いてもいい？",
+    "en": "Can I ask you something?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"Mind if I ask you something?\" でより丁寧に"
+  },
+  {
+    "jp": "相談してもいい？",
+    "en": "Can I get your advice on something?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "advice は不可算名詞。\"an advice\" とは言わない"
+  },
+  {
+    "jp": "そういえばさ。",
+    "en": "Oh, that reminds me. / Come to think of it.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "何かを思い出して切り出すニュアンス"
+  },
+  {
+    "jp": "ところでさ。",
+    "en": "By the way. / Anyway.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "BTW とテキストで略される。話題転換の定番"
+  },
+  {
+    "jp": "ねえ、聞いて。",
+    "en": "Hey, guess what. / Hey, listen.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"Guess what.\" は良いニュースや驚きの前振り"
+  },
+  {
+    "jp": "ちょっと思ったんだけど。",
+    "en": "I was just thinking. / So I had a thought.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "軽い提案や思いつきを切り出す時"
+  },
+  {
+    "jp": "さっきの話なんだけど。",
+    "en": "About what we were talking about earlier. / Going back to what you said.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"earlier\" がポイント。\"before\" より具体的"
+  },
+  {
+    "jp": "あのさ。",
+    "en": "So, um. / Hey, so.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "言いにくいことや改まった話の前振り。英語では \"So...\" だけでも機能する"
+  },
+  {
+    "jp": "ちょっと聞きたいことがあるんだけど。",
+    "en": "There's something I wanted to ask you.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "wanted（過去形）を使うと控えめで丁寧に聞こえる"
+  },
+  {
+    "jp": "今忙しい？",
+    "en": "Are you busy?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "シンプルだが直接的。\"Is this a bad time?\" のほうが気遣いが伝わる"
+  },
+  {
+    "jp": "今大丈夫？",
+    "en": "Is now a good time? / Is this okay?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "ビジネスでもカジュアルでも使える万能表現"
+  },
+  {
+    "jp": "今日何してたの？",
+    "en": "What did you do today?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "過去形。一日の終わりや夜の会話で"
+  },
+  {
+    "jp": "何してるの？",
+    "en": "What are you up to? / Whatcha doing?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"What are you up to?\" が最も自然。\"Whatcha\" は \"What are you\" の口語縮約"
+  },
+  {
+    "jp": "今どこ？",
+    "en": "Where are you?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "テキストでは \"wya\"（where you at）と略されることも"
+  },
+  {
+    "jp": "ちょうど連絡しようと思ってた。",
+    "en": "I was just about to text you.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"just about to\" =「まさに〜しようとしていた」"
+  },
+  {
+    "jp": "そうだ、聞こうと思ってた。",
+    "en": "Oh right, I've been meaning to ask you.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"I've been meaning to ...\" =「前から〜しようと思ってた」。非常に便利な表現"
+  },
+  {
+    "jp": "今日はどうする？",
+    "en": "What's the plan for today? / What do you want to do today?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"What's the plan?\" はグループでもよく使う"
+  },
+  {
+    "jp": "何かあった？",
+    "en": "Did something happen? / Everything okay?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "相手の様子がおかしい時。\"You okay?\" でもよい"
+  },
+  {
+    "jp": "その話、気になってた。",
+    "en": "I've been curious about that. / I was wondering about that.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"I've been curious\" は継続的な関心を示す"
+  },
+  {
+    "jp": "ちょっと話したいことがある。",
+    "en": "There's something I want to talk to you about.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"talk to you about\" のセットで覚える。真剣な話の前振りに聞こえやすい"
+  },
+  {
+    "jp": "先に一個だけいい？",
+    "en": "One thing first. / Real quick.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"Real quick\" はアメリカ英語で非常によく使う"
+  },
+  {
+    "jp": "まずこれだけ言わせて。",
+    "en": "Let me just say this. / Just hear me out.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"Hear me out.\" は「最後まで聞いて」のニュアンス"
+  },
+  {
+    "jp": "ねえねえ。",
+    "en": "Hey hey. / Psst.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "注意を引く。テキストでは \"omg\" や \"yo\" も近い"
+  },
+  {
+    "jp": "なんかさ。",
+    "en": "So like. / You know what.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "英語の \"So like...\" は日本語の「なんかさ」にかなり近い"
+  },
+  {
+    "jp": "今ちょうど暇？",
+    "en": "Are you free right now?",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "\"free\" は「暇」のニュアンスなし。日本語の「暇」ほどネガティブではない"
+  },
+  {
+    "jp": "話しかけて大丈夫だった？",
+    "en": "Sorry, was I interrupting? / Hope I'm not bothering you.",
+    "grammar": "Greetings & Conversation Starters",
+    "notes": "話しかけた後に確認する表現。\"I hope I'm not interrupting.\" も定番"
+  }
+]

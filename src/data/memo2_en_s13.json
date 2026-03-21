@@ -1,0 +1,230 @@
+[
+  {
+    "jp": "こっちのほうが好き。",
+    "en": "I like this one better.",
+    "grammar": "Comparing",
+    "notes": "\"better\" で比較。\"more\" は不要"
+  },
+  {
+    "jp": "あっちのほうが楽。",
+    "en": "That one's easier.",
+    "grammar": "Comparing",
+    "notes": "\"easy\" の比較級は \"easier\""
+  },
+  {
+    "jp": "こっちのほうが安い。",
+    "en": "This one's cheaper.",
+    "grammar": "Comparing",
+    "notes": "\"cheaper\" はネガティブではない"
+  },
+  {
+    "jp": "あっちのほうが高い。",
+    "en": "That one's more expensive.",
+    "grammar": "Comparing",
+    "notes": "\"expensive\" は more を使う（2音節以上）"
+  },
+  {
+    "jp": "こっちのほうが早い。",
+    "en": "This one's faster. / This one's quicker.",
+    "grammar": "Comparing",
+    "notes": "\"fast\" =速度、\"quick\" =手早さ"
+  },
+  {
+    "jp": "あっちのほうが静か。",
+    "en": "That one's quieter.",
+    "grammar": "Comparing",
+    "notes": "\"quiet\" の比較級は \"quieter\""
+  },
+  {
+    "jp": "似てるけど少し違う。",
+    "en": "They're similar but slightly different.",
+    "grammar": "Comparing",
+    "notes": "\"slightly\" =「少し」"
+  },
+  {
+    "jp": "見た目はこっちが好き。",
+    "en": "I like the look of this one better.",
+    "grammar": "Comparing",
+    "notes": "\"the look\" =「見た目」"
+  },
+  {
+    "jp": "味はあっちのほうがいい。",
+    "en": "That one tastes better.",
+    "grammar": "Comparing",
+    "notes": "\"taste\" は動詞としても使える"
+  },
+  {
+    "jp": "値段のわりにこっちがいい。",
+    "en": "This one's better for the price. / Better value.",
+    "grammar": "Comparing",
+    "notes": "\"better value\" =「コスパが良い」"
+  },
+  {
+    "jp": "どっちも悪くない。",
+    "en": "Neither is bad. / Both are fine.",
+    "grammar": "Comparing",
+    "notes": "\"neither\" =「どちらも〜ない」"
+  },
+  {
+    "jp": "どっちも似たようなもの。",
+    "en": "They're pretty much the same.",
+    "grammar": "Comparing",
+    "notes": "\"pretty much\" =「ほとんど」"
+  },
+  {
+    "jp": "正直あまり変わらない。",
+    "en": "Honestly, there's not much difference.",
+    "grammar": "Comparing",
+    "notes": "\"not much difference\" =「大差ない」"
+  },
+  {
+    "jp": "こっちはシンプル。",
+    "en": "This one's simpler. / This one's more straightforward.",
+    "grammar": "Comparing",
+    "notes": "\"straightforward\" =「わかりやすい」"
+  },
+  {
+    "jp": "あっちは少し派手。",
+    "en": "That one's a bit flashy.",
+    "grammar": "Comparing",
+    "notes": "\"flashy\" =「派手」"
+  },
+  {
+    "jp": "こっちのほうが私向き。",
+    "en": "This one's more my style.",
+    "grammar": "Comparing",
+    "notes": "\"my style\" =「自分向き」"
+  },
+  {
+    "jp": "あっちは人によって好みが分かれそう。",
+    "en": "That one's more of an acquired taste. / Opinions might be split on that one.",
+    "grammar": "Comparing",
+    "notes": "\"acquired taste\" =「好みが分かれるもの」"
+  },
+  {
+    "jp": "こっちは初心者向け。",
+    "en": "This one's more beginner-friendly.",
+    "grammar": "Comparing",
+    "notes": "\"beginner-friendly\" はそのまま使える"
+  },
+  {
+    "jp": "あっちは慣れてる人向け。",
+    "en": "That one's for more experienced people.",
+    "grammar": "Comparing",
+    "notes": "\"experienced\" =「経験のある」"
+  },
+  {
+    "jp": "使いやすさはこっち。",
+    "en": "This one's easier to use.",
+    "grammar": "Comparing",
+    "notes": "\"easier to use\" =「使いやすい」"
+  },
+  {
+    "jp": "でも見た目はあっち。",
+    "en": "But that one looks better.",
+    "grammar": "Comparing",
+    "notes": "\"look better\" =「見た目が良い」"
+  },
+  {
+    "jp": "価格差ほどの違いはない。",
+    "en": "The difference isn't worth the price gap.",
+    "grammar": "Comparing",
+    "notes": "\"worth\" =「〜に値する」"
+  },
+  {
+    "jp": "こっちは無難。",
+    "en": "This one's the safe choice.",
+    "grammar": "Comparing",
+    "notes": "\"safe choice\" =「無難な選択」"
+  },
+  {
+    "jp": "あっちは個性的。",
+    "en": "That one's more unique. / That one has more personality.",
+    "grammar": "Comparing",
+    "notes": "\"personality\" は物にも使える"
+  },
+  {
+    "jp": "今の気分ならこっち。",
+    "en": "I'm feeling this one right now.",
+    "grammar": "Comparing",
+    "notes": "\"feeling\" =「気分的に惹かれる」"
+  },
+  {
+    "jp": "長く使うならあっち。",
+    "en": "For the long run, I'd go with that one.",
+    "grammar": "Comparing",
+    "notes": "\"in the long run\" =「長い目で見ると」"
+  },
+  {
+    "jp": "気軽なのはこっち。",
+    "en": "This one's more casual. / This one's low-key.",
+    "grammar": "Comparing",
+    "notes": "\"low-key\" =「気軽な／控えめな」"
+  },
+  {
+    "jp": "ちゃんとして見えるのはあっち。",
+    "en": "That one looks more polished. / That one looks more put-together.",
+    "grammar": "Comparing",
+    "notes": "\"put-together\" =「きちんとした」"
+  },
+  {
+    "jp": "片方は軽い。",
+    "en": "One is lighter.",
+    "grammar": "Comparing",
+    "notes": "\"lighter\" は重さにも雰囲気にも使える"
+  },
+  {
+    "jp": "もう片方はしっかりしてる。",
+    "en": "The other one is sturdier. / The other one feels more solid.",
+    "grammar": "Comparing",
+    "notes": "\"sturdy/solid\" =「しっかりした」"
+  },
+  {
+    "jp": "こっちは直感的。",
+    "en": "This one's more intuitive.",
+    "grammar": "Comparing",
+    "notes": "\"intuitive\" =「直感的」。テック関連でよく使う"
+  },
+  {
+    "jp": "あっちは慣れが必要。",
+    "en": "That one has a learning curve.",
+    "grammar": "Comparing",
+    "notes": "\"learning curve\" =「慣れるまでの時間」"
+  },
+  {
+    "jp": "家で使うならこっち。",
+    "en": "For home use, this one.",
+    "grammar": "Comparing",
+    "notes": "シンプルに言い切るのが自然"
+  },
+  {
+    "jp": "外で使うならあっち。",
+    "en": "For outdoors, that one.",
+    "grammar": "Comparing",
+    "notes": "\"outdoors\" =「屋外で」"
+  },
+  {
+    "jp": "こっちは落ち着いてる。",
+    "en": "This one's more subdued. / This one's calmer.",
+    "grammar": "Comparing",
+    "notes": "\"subdued\" =「落ち着いた（色・デザイン）」"
+  },
+  {
+    "jp": "あっちは元気な感じ。",
+    "en": "That one's more vibrant. / That one's more lively.",
+    "grammar": "Comparing",
+    "notes": "\"vibrant\" =「明るくて活気がある」"
+  },
+  {
+    "jp": "同じように見えて結構違う。",
+    "en": "They look the same but they're actually quite different.",
+    "grammar": "Comparing",
+    "notes": "\"actually\" で意外性を出す"
+  },
+  {
+    "jp": "値段を考えるとこっちかな。",
+    "en": "Considering the price, I'd go with this one.",
+    "grammar": "Comparing",
+    "notes": "\"considering\" =「〜を考慮すると」"
+  }
+]

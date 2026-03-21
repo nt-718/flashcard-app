@@ -1,0 +1,122 @@
+[
+  {
+    "jp": "えーと。",
+    "en": "Um. / Uh.",
+    "grammar": "Fillers & Connectors",
+    "notes": "最も基本的なフィラー。考え中に無意識に出る"
+  },
+  {
+    "jp": "あのー。",
+    "en": "So, um. / Well.",
+    "grammar": "Fillers & Connectors",
+    "notes": "\"Well...\" は間を持たせつつ丁寧に聞こえる"
+  },
+  {
+    "jp": "まあ。",
+    "en": "Well. / I mean.",
+    "grammar": "Fillers & Connectors",
+    "notes": "「まあ」の万能さに一番近いのは \"I mean\""
+  },
+  {
+    "jp": "なんていうか。",
+    "en": "How do I put this. / How should I say this.",
+    "grammar": "Fillers & Connectors",
+    "notes": "言葉を探しているニュアンス"
+  },
+  {
+    "jp": "なんだろう。",
+    "en": "What's the word. / I don't know how to explain it.",
+    "grammar": "Fillers & Connectors",
+    "notes": "適切な言葉が出てこない時"
+  },
+  {
+    "jp": "ほら、あれ。",
+    "en": "You know, that thing. / What's it called.",
+    "grammar": "Fillers & Connectors",
+    "notes": "名前が出てこない時の定番"
+  },
+  {
+    "jp": "えっとね。",
+    "en": "So, um. / Let me think.",
+    "grammar": "Fillers & Connectors",
+    "notes": "\"Let me think\" は少し時間がほしい時"
+  },
+  {
+    "jp": "そうだなあ。",
+    "en": "Let me see. / Hmm.",
+    "grammar": "Fillers & Connectors",
+    "notes": "考えながら答える時の自然な間"
+  },
+  {
+    "jp": "うーん。",
+    "en": "Hmm. / Mmm.",
+    "grammar": "Fillers & Connectors",
+    "notes": "迷いや考え中を表す。万国共通"
+  },
+  {
+    "jp": "いやまあ。",
+    "en": "I mean, well. / Yeah, but like.",
+    "grammar": "Fillers & Connectors",
+    "notes": "前の発言を軽く修正・補足する時"
+  },
+  {
+    "jp": "でもまあ。",
+    "en": "But I mean. / But still.",
+    "grammar": "Fillers & Connectors",
+    "notes": "反論しつつ受け入れるニュアンス"
+  },
+  {
+    "jp": "一応。",
+    "en": "Just in case. / Just to be safe.",
+    "grammar": "Fillers & Connectors",
+    "notes": "「念のため」のニュアンス。\"technically\" は「厳密には」の意味で別物"
+  },
+  {
+    "jp": "とりあえず。",
+    "en": "For now. / Let's just.",
+    "grammar": "Fillers & Connectors",
+    "notes": "\"For now\" =「今のところは」。\"Let's just do X\" =「とりあえずXしよう」"
+  },
+  {
+    "jp": "ぶっちゃけ。",
+    "en": "Honestly. / To be honest.",
+    "grammar": "Fillers & Connectors",
+    "notes": "TBH とテキストで略される"
+  },
+  {
+    "jp": "正直に言うと。",
+    "en": "To be honest. / Honestly speaking.",
+    "grammar": "Fillers & Connectors",
+    "notes": "\"ぶっちゃけ\" より少し丁寧"
+  },
+  {
+    "jp": "結局。",
+    "en": "In the end. / At the end of the day.",
+    "grammar": "Fillers & Connectors",
+    "notes": "\"At the end of the day\" はネイティブが非常によく使う"
+  },
+  {
+    "jp": "やっぱり。",
+    "en": "I knew it. / After all. / As I thought.",
+    "grammar": "Fillers & Connectors",
+    "notes": "文脈で訳が大きく変わる。予想通り→ \"I knew it.\" 結局→ \"After all.\""
+  },
+  {
+    "jp": "なんかね。",
+    "en": "Like. / You know.",
+    "grammar": "Fillers & Connectors",
+    "notes": "英語の \"like\" は若者のフィラーとして非常に頻出"
+  },
+  {
+    "jp": "それがさ。",
+    "en": "So here's the thing. / The thing is.",
+    "grammar": "Fillers & Connectors",
+    "notes": "意外な展開や問題を切り出す時の定番"
+  },
+  {
+    "jp": "話としては。",
+    "en": "Basically. / The story is.",
+    "grammar": "Fillers & Connectors",
+    "notes": "状況を要約して説明し始める時"
+  }
+]

@@ -1,101 +1,77 @@
 import csv
 import json
 import os
-import glob
+import re
 
 base_dir = '/Users/nt718/learning/language'
 output_dir = os.path.join(base_dir, 'flashcard-app/src/data')
 os.makedirs(output_dir, exist_ok=True)
 
-csv_files = glob.glob(os.path.join(base_dir, '*.csv'))
+CSV_FILES = {
+    'en': os.path.join(base_dir, 'memo2_en.csv'),
+    'zh': os.path.join(base_dir, 'memo2_zh.csv'),
+}
+
+def slugify(text):
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9\u4e00-\u9fff\u3040-\u30ff]+', '_', text)
+    return text.strip('_')[:40]
+
 materials_manifest = []
 
-for csv_path in csv_files:
-    file_name = os.path.basename(csv_path)
-    material_name = file_name.replace('.csv', '').replace(' - master', '')
-    
-    # Handle language-specific suffixes for better display names
-    display_name = material_name
-    if display_name.endswith('_en'):
-        display_name = display_name[:-3].capitalize() + ' (English)'
-    elif display_name.endswith('_zh'):
-        display_name = display_name[:-3].capitalize() + ' (Chinese)'
-    else:
-        display_name = display_name.replace('_', ' ').capitalize()
+for lang, csv_path in CSV_FILES.items():
+    sections = {}  # section_name -> list of entries
 
-    safe_name = material_name.lower().replace(' ', '_')
-    json_filename = f"{safe_name}.json"
-    json_path = os.path.join(output_dir, json_filename)
-    
-    sentences = []
-    with open(csv_path, mode='r', encoding='utf-8') as f:
+    with open(csv_path, encoding='utf-8') as f:
         reader = csv.DictReader(f)
-        
         for row in reader:
-            jp = row.get('Japanese')
-            en = row.get('English')
-            cn = row.get('Chinese')
-            grammar = row.get('Grammar')
-            point = row.get('Point', '')
-            rephrasing = row.get('Rephrasing', '')
-            pinyin = row.get('Pinyin')
-            
+            jp      = row.get('Japanese', '').strip()
+            en      = row.get('English', '').strip()
+            cn      = row.get('Chinese', '').strip()
+            pinyin  = row.get('Pinyin', '').strip()
+            section = row.get('Section', '').strip()
+            point   = row.get('Point', '').strip()
+
             if not jp or not (en or cn):
                 continue
-            if jp == en or '〜' in jp:
-                continue
-                
-            notes = point.strip() if point else ''
-            if rephrasing:
-                notes += f"\n【言い換え】\n{rephrasing.strip()}"
-            notes = notes.strip()
-                
-            entry = {
-                "jp": jp,
-                "en": en,
-                "cn": cn,
-                "pinyin": pinyin,
-                "grammar": grammar,
-                "notes": notes if notes else None,
-            }
-            entry = {k: v for k, v in entry.items() if v}
-            sentences.append(entry)
-    
-    chunk_size = 20
-    for i in range(0, len(sentences), chunk_size):
-        chunk = sentences[i:i + chunk_size]
-        start_idx = i + 1
-        end_idx = i + len(chunk)
-        
-        chunk_json_filename = f"{safe_name}_{start_idx}_{end_idx}.json"
-        chunk_json_path = os.path.join(output_dir, chunk_json_filename)
-        
-        with open(chunk_json_path, mode='w', encoding='utf-8') as f:
-            json.dump(chunk, f, ensure_ascii=False, indent=2)
-        
-        # Determine grammar themes for the chunk if possible
-        grammars = list(dict.fromkeys([s.get('grammar', '') for s in chunk if s.get('grammar')]))
-        grammar_label = f" ({', '.join(grammars[:2])}{'...' if len(grammars) > 2 else ''})" if grammars else ""
-        
+
+            entry = {"jp": jp}
+            if en:      entry["en"]     = en
+            if cn:      entry["cn"]     = cn
+            if pinyin:  entry["pinyin"] = pinyin
+            if section: entry["grammar"] = section
+            if point:   entry["notes"]   = point
+
+            sections.setdefault(section, []).append(entry)
+
+    for idx, (section_name, entries) in enumerate(sections.items(), start=1):
+        slug = f"memo2_{lang}_s{idx:02d}"
+        json_filename = f"{slug}.json"
+        json_path = os.path.join(output_dir, json_filename)
+
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(entries, f, ensure_ascii=False, indent=2)
+
+        lang_label = 'English' if lang == 'en' else 'Chinese'
         materials_manifest.append({
-            "id": f"{safe_name}_{start_idx}_{end_idx}",
-            "name": f"{display_name} {start_idx}-{end_idx}{grammar_label}",
-            "path": f"./{chunk_json_filename}",
-            "count": len(chunk)
+            "id":    slug,
+            "name":  f"{section_name} ({lang_label})",
+            "path":  f"./{json_filename}",
+            "count": len(entries),
         })
 
-    
-# Sort materials by name to ensure consistent order in UI
-# Since names are like "瞬間作文_1000文 1-20", sorting by name is tricky for numeric parts.
-# Let's sort based on the start index embedded in the id instead.
-import re
-def extract_start_idx(material_id):
-    match = re.search(r'_(\d+)_\d+$', material_id)
-    return int(match.group(1)) if match else 0
+        print(f"  {json_filename}: {len(entries)} sentences")
 
-materials_manifest.sort(key=lambda x: extract_start_idx(x['id']))
+# Sort: group by section index, then lang
+def sort_key(m):
+    match = re.search(r's(\d+)$', m['id'])
+    num = int(match.group(1)) if match else 0
+    lang = 0 if '_en_' in m['id'] else 1
+    return (num, lang)
 
-with open(os.path.join(output_dir, 'materials.json'), mode='w', encoding='utf-8') as f:
+materials_manifest.sort(key=sort_key)
+
+with open(os.path.join(output_dir, 'materials.json'), 'w', encoding='utf-8') as f:
     json.dump(materials_manifest, f, ensure_ascii=False, indent=2)
 
-print(f"Processed {len(materials_manifest)} materials with supplementary notes support.")
+print(f"\nDone: {len(materials_manifest)} materials written to materials.json")

@@ -1,0 +1,152 @@
+[
+  {
+    "jp": "うれしい。",
+    "en": "I'm happy. / I'm so glad.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"glad\" は「ほっとした嬉しさ」のニュアンス"
+  },
+  {
+    "jp": "楽しい。",
+    "en": "This is fun. / I'm having fun.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"fun\" は形容詞としても名詞としても使える"
+  },
+  {
+    "jp": "悲しい。",
+    "en": "I'm sad. / That's sad.",
+    "grammar": "Expressing Emotions",
+    "notes": "シンプルで直接的"
+  },
+  {
+    "jp": "寂しい。",
+    "en": "I miss you. / I feel lonely.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"miss\" は特定の対象が必要。\"lonely\" は一般的な孤独感"
+  },
+  {
+    "jp": "不安なんだよね。",
+    "en": "I'm kind of anxious. / I'm a bit worried.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"anxious\" =「漠然とした不安」、\"worried\" =「具体的な心配」"
+  },
+  {
+    "jp": "緊張してる。",
+    "en": "I'm nervous.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"I've got butterflies.\" =「緊張でドキドキ」の慣用表現"
+  },
+  {
+    "jp": "ドキドキしてる。",
+    "en": "My heart is racing. / I'm so nervous.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"heart is racing\" は緊張・興奮どちらにも使える"
+  },
+  {
+    "jp": "ワクワクする。",
+    "en": "I'm excited. / I can't wait.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"I can't wait!\" は「待ちきれない」で非常によく使う"
+  },
+  {
+    "jp": "イライラしてる。",
+    "en": "I'm frustrated. / I'm irritated.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"frustrated\" は「うまくいかなくてイライラ」、\"irritated\" は「人や物にイライラ」"
+  },
+  {
+    "jp": "ムカつく。",
+    "en": "That's so annoying. / That pisses me off.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"piss off\" は非常にカジュアル（やや下品）。フォーマルでは避ける"
+  },
+  {
+    "jp": "落ち込んでる。",
+    "en": "I'm feeling down. / I'm a bit depressed.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"feeling down\" はカジュアル。\"depressed\" は重め"
+  },
+  {
+    "jp": "気まずい。",
+    "en": "That's awkward. / This is awkward.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"awkward\" が完全に一致する。非常に頻出"
+  },
+  {
+    "jp": "ほっとした。",
+    "en": "What a relief. / I'm so relieved.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"relief/relieved\" は「安堵」の定番"
+  },
+  {
+    "jp": "焦ってる。",
+    "en": "I'm panicking. / I'm stressed.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"panicking\" は強い焦り、\"stressed\" は一般的な焦り"
+  },
+  {
+    "jp": "モヤモヤしてる。",
+    "en": "Something's bugging me. / I feel uneasy.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"bug\" =「気になる／もやもやさせる」"
+  },
+  {
+    "jp": "やる気が出ない。",
+    "en": "I'm not motivated. / I can't get motivated.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"I have zero motivation.\" はカジュアル"
+  },
+  {
+    "jp": "テンション上がる。",
+    "en": "I'm hyped. / I'm pumped.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"hyped/pumped\" は若者がよく使うスラング"
+  },
+  {
+    "jp": "テンション下がる。",
+    "en": "That's a buzzkill. / That killed my vibe.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"buzzkill\" =「テンションを下げるもの」"
+  },
+  {
+    "jp": "すっきりした。",
+    "en": "I feel so much better. / That's refreshing.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"I feel better\" は気分全般、\"refreshing\" は清々しさ"
+  },
+  {
+    "jp": "満足。",
+    "en": "I'm satisfied. / I'm good.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"I'm good.\" はカジュアルに「満足」を表す"
+  },
+  {
+    "jp": "ちょっと切ない。",
+    "en": "It's bittersweet. / It makes me a little sad.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"bittersweet\" =「切ない」に最も近い英単語"
+  },
+  {
+    "jp": "恥ずかしい。",
+    "en": "I'm embarrassed. / That's embarrassing.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"embarrassed\" =「恥ずかしい（自分が）」。\"shy\" とは別物"
+  },
+  {
+    "jp": "懐かしい。",
+    "en": "That brings back memories. / That's so nostalgic.",
+    "grammar": "Expressing Emotions",
+    "notes": "英語には「懐かしい」の一語の形容詞がない。\"nostalgic\" はやや文語的"
+  },
+  {
+    "jp": "悔しい。",
+    "en": "That's frustrating. / I'm so mad at myself.",
+    "grammar": "Expressing Emotions",
+    "notes": "英語に「悔しい」の直訳はない。自分への怒り＋悔しさの組み合わせで表現"
+  },
+  {
+    "jp": "怖い。",
+    "en": "I'm scared. / That's scary.",
+    "grammar": "Expressing Emotions",
+    "notes": "\"scared\" =「怖がっている」、\"scary\" =「怖い（もの・こと）」"
+  }
+]
