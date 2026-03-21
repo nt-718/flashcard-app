@@ -1,0 +1,122 @@
+[
+  {
+    "jp": "ただの勘違いだった。",
+    "en": "It was just a misunderstanding.",
+    "grammar": "説明する",
+    "notes": "問題が深刻なものではなく、単なる誤解から生じたと説明する。\n【言い換え】\nIt was a simple mix-up."
+  },
+  {
+    "jp": "深い意味はないよ。",
+    "en": "I didn’t mean anything by it.",
+    "grammar": "説明する",
+    "notes": "発言に他意や悪意がなかったことを説明して安心させる。\n【言い換え】\nDon't read too much into it."
+  },
+  {
+    "jp": "先に連絡しようと思ってた。",
+    "en": "I was going to contact you first.",
+    "grammar": "説明する",
+    "notes": "事後報告になったことの言い訳や、同じ考えだったと伝える。\n【言い換え】\nI meant to let you know beforehand."
+  },
+  {
+    "jp": "たまたまそうなっただけ。",
+    "en": "It just happened that way.",
+    "grammar": "説明する",
+    "notes": "意図的ではなく、偶然の結果であることを説明する。\n【言い換え】\nIt was purely a coincidence."
+  },
+  {
+    "jp": "今日は家でゆっくりしたい。",
+    "en": "I want to relax at home today.",
+    "grammar": "説明する",
+    "notes": "外出を断る時の無難な理由。\n【言い換え】\nI just want to chill at home today."
+  },
+  {
+    "jp": "今は一人になりたい。",
+    "en": "I want to be alone right now.",
+    "grammar": "説明する",
+    "notes": "相手の干渉を避けたい時や、距離を置きたい時の直接的な表現。\n【言い換え】\nI need some time to myself."
+  },
+  {
+    "jp": "ちょっと頭を整理したい。",
+    "en": "I want to clear my head.",
+    "grammar": "説明する",
+    "notes": "考えをまとめる時間が欲しいという理由で一人になりたい時などに使う。\n【言い換え】\nI need to gather my thoughts."
+  },
+  {
+    "jp": "今ちょっと余裕がない。",
+    "en": "I don’t have much room right now.",
+    "grammar": "説明する",
+    "notes": "精神的・時間的などにキャパシティがないことを伝える表現。\n【言い換え】\nI'm a little overwhelmed right now. / I have a lot on my plate."
+  },
+  {
+    "jp": "お金を使いすぎた。",
+    "en": "I spent too much money.",
+    "grammar": "説明する",
+    "notes": "金欠であることを説明・弁解する表現。\n【言い換え】\nI went a bit overboard with my spending."
+  },
+  {
+    "jp": "最近寝不足なんだ。",
+    "en": "I haven’t been getting enough sleep lately.",
+    "grammar": "説明する",
+    "notes": "疲労やミスの理由として寝不足を挙げる表現。\n【言い換え】\nI'm sleep-deprived lately."
+  },
+  {
+    "jp": "そのせいで集中できない。",
+    "en": "That’s why I can’t focus.",
+    "grammar": "説明する",
+    "notes": "（例えば寝不足などの理由を挙げた後で）原因を説明する表現。\n【言い換え】\nBecause of that, I can't concentrate."
+  },
+  {
+    "jp": "そんなに深刻じゃないよ。",
+    "en": "It’s not that serious.",
+    "grammar": "説明する",
+    "notes": "相手が心配しすぎている時に、安心させるための表現。\n【言い換え】\nIt's not a big deal."
+  },
+  {
+    "jp": "ただ確認したかっただけ。",
+    "en": "I just wanted to make sure.",
+    "grammar": "説明する",
+    "notes": "尋問しているわけではないと意図を説明する。\n【言い換え】\nI just wanted to double-check."
+  },
+  {
+    "jp": "急いでるわけじゃない。",
+    "en": "I’m not in a hurry.",
+    "grammar": "説明する",
+    "notes": "相手を焦らせないように期限に余裕があることを伝える。\n【言い換え】\nThere's no rush."
+  },
+  {
+    "jp": "今はそれが一番自然だと思う。",
+    "en": "I think that feels the most natural right now.",
+    "grammar": "説明する",
+    "notes": "自分の選択を、現状に一番適していると正当化・説明する。\n【言い換え】\nI feel it's the right thing to do at the moment."
+  },
+  {
+    "jp": "つまりね。",
+    "en": "What I mean is.",
+    "grammar": "言い換える・補足する",
+    "notes": "相手に伝わっていないと感じて、言い換える時の前置き。\n【言い換え】\nSo basically,"
+  },
+  {
+    "jp": "簡単に言うと。",
+    "en": "Simply put.",
+    "grammar": "言い換える・補足する",
+    "notes": "複雑な話をわかりやすく要約する時の前置き。\n【言い換え】\nTo make a long story short. / In short."
+  },
+  {
+    "jp": "もっとわかりやすく言うと。",
+    "en": "To put it more simply.",
+    "grammar": "言い換える・補足する",
+    "notes": "相手の理解度に合わせて嚙み砕いて説明し直す時の表現。\n【言い換え】\nIn simpler terms,"
+  },
+  {
+    "jp": "たとえばね。",
+    "en": "For example.",
+    "grammar": "言い換える・補足する",
+    "notes": "抽象的な話を具体例で補足する時の表現。\n【言い換え】\nFor instance,"
+  },
+  {
+    "jp": "要するに。",
+    "en": "In short.",
+    "grammar": "言い換える・補足する",
+    "notes": "話の結論や最も重要な点だけを伝えるためのフィラー。\n【言い換え】\nBottom line is,"
+  }
+]

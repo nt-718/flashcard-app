@@ -1,0 +1,122 @@
+[
+  {
+    "jp": "そういう意味じゃなくて。",
+    "en": "That’s not what I mean.",
+    "grammar": "言い換える・補足する",
+    "notes": "誤解を解く時の最も一般的な前置き。\n【言い換え】\nNot exactly."
+  },
+  {
+    "jp": "いや、そうじゃなくて。",
+    "en": "No, that’s not it.",
+    "grammar": "言い換える・補足する",
+    "notes": "相手の解釈を明確に否定して言い直す時の表現。\n【言い換え】\nThat's not right. / No, actually..."
+  },
+  {
+    "jp": "もう少しちゃんと言うと。",
+    "en": "To say it more clearly.",
+    "grammar": "言い換える・補足する",
+    "notes": "自分の言葉足らずを補う時の表現。\n【言い換え】\nLet me clarify."
+  },
+  {
+    "jp": "正確には。",
+    "en": "More precisely.",
+    "grammar": "言い換える・補足する",
+    "notes": "少し大雑把だった表現を厳密な事実に正す時の表現。\n【言い換え】\nTo be exact. / Technically,"
+  },
+  {
+    "jp": "というか。",
+    "en": "Or rather.",
+    "grammar": "言い換える・補足する",
+    "notes": "自分の直前の発言を微修正する時の便利な表現。\n【言い換え】\nWell, actually..."
+  },
+  {
+    "jp": "どっちかというと。",
+    "en": "If anything.",
+    "grammar": "言い換える・補足する",
+    "notes": "AよりBだ、と傾向を示す表現。\n【言い換え】\nI'd say... / More like..."
+  },
+  {
+    "jp": "ちょっと違うかな。",
+    "en": "That’s a little different.",
+    "grammar": "言い換える・補足する",
+    "notes": "完全な間違いではないが、ニュアンスが違うとやんわり否定する。\n【言い換え】\nNot quite."
+  },
+  {
+    "jp": "完全に同じではないけど。",
+    "en": "It’s not exactly the same, but.",
+    "grammar": "言い換える・補足する",
+    "notes": "似て非なるものを例えに出した際の補足。\n【言い換え】\nIt's not identical, but..."
+  },
+  {
+    "jp": "近いのはこっち。",
+    "en": "This one is closer.",
+    "grammar": "言い換える・補足する",
+    "notes": "より正確な選択肢や表現を示す時の言い方。\n【言い換え】\nThis is more like it."
+  },
+  {
+    "jp": "伝えたいのはそこじゃなくて。",
+    "en": "That’s not the point I’m trying to make.",
+    "grammar": "言い換える・補足する",
+    "notes": "議論が本筋から逸れた時に軌道修正する表現。\n【言い換え】\nThat's beside the point."
+  },
+  {
+    "jp": "本当に言いたいのは。",
+    "en": "What I really want to say is.",
+    "grammar": "言い換える・補足する",
+    "notes": "前置きや枝葉を省いて結論を述べる時の表現。\n【言い換え】\nMy actual point is..."
+  },
+  {
+    "jp": "それに加えて。",
+    "en": "On top of that.",
+    "grammar": "言い換える・補足する",
+    "notes": "情報を付け足す時の表現。（しかも、さらに）\n【言い換え】\nIn addition to that."
+  },
+  {
+    "jp": "もう一つ言うと。",
+    "en": "One more thing.",
+    "grammar": "言い換える・補足する",
+    "notes": "最後にもう一つ追加したい情報がある時の表現。\n【言い換え】\nAnother thing is..."
+  },
+  {
+    "jp": "細かいことを言うと。",
+    "en": "To be more specific.",
+    "grammar": "言い換える・補足する",
+    "notes": "詳細や具体的な事実を付け加える場合の表現。\n【言い換え】\nSpecifically,"
+  },
+  {
+    "jp": "少し補足すると。",
+    "en": "Let me add something.",
+    "grammar": "言い換える・補足する",
+    "notes": "説明や情報が不十分だったところに言葉を足す表現。\n【言い換え】\nJust to add to that,"
+  },
+  {
+    "jp": "勘違いしないでほしいんだけど。",
+    "en": "I don’t want you to get the wrong idea, but.",
+    "grammar": "言い換える・補足する",
+    "notes": "批判やネガティブに聞こえそうな発言の前に置くクッション。\n【言い換え】\nDon't get me wrong, but..."
+  },
+  {
+    "jp": "誤解しないでね。",
+    "en": "Don’t get me wrong.",
+    "grammar": "言い換える・補足する",
+    "notes": "自分の意図が悪く取られないように念を押す表現。\n【言い換え】\nPlease don't misunderstand me."
+  },
+  {
+    "jp": "悪い意味じゃなくて。",
+    "en": "I don’t mean it in a bad way.",
+    "grammar": "言い換える・補足する",
+    "notes": "キツい指摘や率直な意見の角を立てないための表現。\n【言い換え】\nNo offense. / In a good way."
+  },
+  {
+    "jp": "いい意味で言ってる。",
+    "en": "I mean that in a good way.",
+    "grammar": "言い換える・補足する",
+    "notes": "貶し言葉に聞こえる表現を褒め言葉として使った時の補足。\n【言い換え】\nI'm saying that as a compliment."
+  },
+  {
+    "jp": "それっぽいけど少し違う。",
+    "en": "It sounds like that, but it’s a little different.",
+    "grammar": "言い換える・補足する",
+    "notes": "惜しいけれど微妙に正解ではない時の反応。\n【言い換え】\nClose, but not quite."
+  }
+]

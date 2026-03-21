@@ -84,7 +84,29 @@ function App() {
   useEffect(() => {
     if (selectedMaterial) {
       import(`./data/${selectedMaterial.id}.json`).then(module => {
-        setSentences(module.default);
+        const loadedSentences = module.default as Sentence[];
+        setSentences(loadedSentences);
+
+        // Check for saved session first
+        const saved = loadSession();
+        if (saved && saved.materialId === selectedMaterial.id && saved.currentIndex > 0) {
+          // If there's a saved session for this material, we stay in the selection view 
+          // to let the user choose between Resume and Restart.
+          return;
+        }
+
+        // Auto-select language if only one is available
+        if (loadedSentences.length > 0) {
+          const first = loadedSentences[0];
+          const hasEn = !!first.en;
+          const hasCn = !!first.cn;
+          
+          if (hasEn && !hasCn) {
+            handleStart('en');
+          } else if (hasCn && !hasEn) {
+            handleStart('cn');
+          }
+        }
       });
     }
   }, [selectedMaterial]);
@@ -422,8 +444,8 @@ function App() {
   const currentSentence = sentences[currentIndex] as Sentence;
   const answer = language === 'en' ? currentSentence?.en : currentSentence?.cn;
   const pinyin = language === 'cn' ? currentSentence?.pinyin : null;
-  const notes = language === 'en' ? currentSentence?.notes : null;
-  const grammar = language === 'en' ? currentSentence?.grammar : null;
+  const notes = currentSentence?.notes;
+  const grammar = currentSentence?.grammar;
 
   return (
     <div>

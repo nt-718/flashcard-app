@@ -1,0 +1,122 @@
+[
+  {
+    "jp": "個人的には微妙。",
+    "en": "Personally, I’m not sure about it.",
+    "grammar": "意見を述べる",
+    "notes": "客観的にはいいかもしれないが、自分としてはイマイチだという感想。\n【言い換え】\nI'm not convinced."
+  },
+  {
+    "jp": "それはありだと思う。",
+    "en": "I think that works.",
+    "grammar": "意見を述べる",
+    "notes": "完璧ではないが、選択肢として有効だ、実行可能だという評価。\n【言い換え】\nThat's a valid option. / Why not?"
+  },
+  {
+    "jp": "それはなしだと思う。",
+    "en": "I don’t think that works.",
+    "grammar": "意見を述べる",
+    "notes": "選択肢として除外すべきだ、現実的ではないという評価。\n【言い換え】\nThat's out of the question."
+  },
+  {
+    "jp": "私ならそうしない。",
+    "en": "I wouldn’t do that.",
+    "grammar": "意見を述べる",
+    "notes": "仮定法を使った控えめな忠告や、自分の方針を伝える表現。\n【言い換え】\nIf I were you, I wouldn't do that."
+  },
+  {
+    "jp": "私ならこっちを選ぶ。",
+    "en": "I’d choose this one.",
+    "grammar": "意見を述べる",
+    "notes": "自分がもし当事者だったらという前提での意見。（I would ~）\n【言い換え】\nI would go with this one."
+  },
+  {
+    "jp": "その考えはわかる。",
+    "en": "I get that idea.",
+    "grammar": "意見を述べる",
+    "notes": "相手のロジックは理解できると伝える「Yes, but...」の前半部分。\n【言い換え】\nI see your point."
+  },
+  {
+    "jp": "でも私は違うと思う。",
+    "en": "But I think differently.",
+    "grammar": "意見を述べる",
+    "notes": "相手の意見を尊重しつつ、自分の異なる意見を述べる「Yes, but...」の後半。\n【言い換え】\nBut I see it differently."
+  },
+  {
+    "jp": "私は気に入ってる。",
+    "en": "I like it.",
+    "grammar": "意見を述べる",
+    "notes": "他人の評価はさておき、自分は好意的に思っているという感想。\n【言い換え】\nIt appeals to me."
+  },
+  {
+    "jp": "私はちょっと不安。",
+    "en": "I’m a little worried about it.",
+    "grammar": "意見を述べる",
+    "notes": "懸念や不確実性に対する心配を伝える率直な表現。\n【言い換え】\nI have some concerns about it."
+  },
+  {
+    "jp": "それは自然な考えだと思う。",
+    "en": "I think that’s a natural way to think.",
+    "grammar": "意見を述べる",
+    "notes": "相手の思考プロセスを肯定し「誰でもそう考える」と安心させる表現。\n【言い換え】\nThat makes perfect sense."
+  },
+  {
+    "jp": "私には少し早い気がする。",
+    "en": "It feels a little early to me.",
+    "grammar": "意見を述べる",
+    "notes": "時期尚早であるという個人的な感覚を伝える。\n【言い換え】\nIt seems premature to me."
+  },
+  {
+    "jp": "今は待ったほうがいいと思う。",
+    "en": "I think we should wait for now.",
+    "grammar": "意見を述べる",
+    "notes": "行動を起こさずに様子見（wait and see）を推奨する表現。\n【言い換え】\nWe'd better hold off for now."
+  },
+  {
+    "jp": "今やったほうがいいと思う。",
+    "en": "I think we should do it now.",
+    "grammar": "意見を述べる",
+    "notes": "先延ばしにせず、ただちに行動すべきだと促す表現。\n【言い換え】\nThere's no time like the present. (ことわざ的表現)"
+  },
+  {
+    "jp": "それは言いすぎだと思う。",
+    "en": "I think that’s going too far.",
+    "grammar": "意見を述べる",
+    "notes": "相手の批判や極端な表現に対して、行き過ぎだと諫める表現。\n【言い換え】\nYou're exaggerating."
+  },
+  {
+    "jp": "そこまで悪くないと思う。",
+    "en": "I don’t think it’s that bad.",
+    "grammar": "意見を述べる",
+    "notes": "悲観的になっている相手に、現状の最低限の評価を伝える表現。\n【言い換え】\nIt's not the end of the world."
+  },
+  {
+    "jp": "私は結構好き。",
+    "en": "I actually like it.",
+    "grammar": "意見を述べる",
+    "notes": "他の人が微妙だと言っている中で、自分は意外と好みに合うという表現。\n【言い換え】\nI'm quite fond of it."
+  },
+  {
+    "jp": "正直、それは微妙。",
+    "en": "Honestly, I’m not into it.",
+    "grammar": "意見を述べる",
+    "notes": "「not into it（ハマっていない、趣味に合わない）」を使ったカジュアルな否定表現。\n【言い換え】\nTo be honest, it's not great."
+  },
+  {
+    "jp": "私はそのノリについていけない。",
+    "en": "I can’t really get into that vibe.",
+    "grammar": "意見を述べる",
+    "notes": "雰囲気（vibe）やテンションに自分の波長が合わない時の表現。\n【言い換え】\nThat's not my scene."
+  },
+  {
+    "jp": "それはちょっと重い。",
+    "en": "That feels a bit much.",
+    "grammar": "意見を述べる",
+    "notes": "話題が深刻すぎたり、量が多すぎたり、負担が大きすぎる時の表現。\n【言い換え】\nThat's too heavy."
+  },
+  {
+    "jp": "私にはそれが合ってる。",
+    "en": "That suits me.",
+    "grammar": "意見を述べる",
+    "notes": "suit (合っている、似合っている) を用いて、自分に最適だと伝える。\n【言い換え】\nThat's a good fit for me."
+  }
+]

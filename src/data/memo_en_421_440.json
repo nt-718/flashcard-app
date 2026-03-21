@@ -1,0 +1,122 @@
+[
+  {
+    "jp": "それ、送ってくれる？",
+    "en": "Can you send me that?",
+    "grammar": "依頼・提案する",
+    "notes": "データや写真の共有をお願いする時の表現。\n【言い換え】\nCould you send that over?"
+  },
+  {
+    "jp": "写真撮ってくれる？",
+    "en": "Can you take a picture?",
+    "grammar": "依頼・提案する",
+    "notes": "撮影をお願いする時の最も一般的な言い方。\n【言い換え】\nCould you snap a photo?"
+  },
+  {
+    "jp": "後で電話してもいい？",
+    "en": "Can I call you later?",
+    "grammar": "依頼・提案する",
+    "notes": "メッセージではなく口頭で話したい場合の許可・アポ取り。\n【言い換え】\nIs it okay if I give you a ring later?"
+  },
+  {
+    "jp": "今回はこれでいこう。",
+    "en": "Let’s go with this for now.",
+    "grammar": "依頼・提案する",
+    "notes": "暫定的に、あるいは今回の機会に限ってその案を採用しようという提案。\n【言い換え】\nThis will do for this time."
+  },
+  {
+    "jp": "で、どうする？",
+    "en": "So, what should we do?",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "状況を把握した上で、次の具体的な行動決定を相手に促す。\n【言い換え】\nSo, what's the plan?"
+  },
+  {
+    "jp": "それでね。",
+    "en": "So then.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "話し手が、次の話の展開につなげるための短い接続表現。\n【言い換え】\nAnd so. / After that..."
+  },
+  {
+    "jp": "で、続きなんだけど。",
+    "en": "Anyway, back to what I was saying.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "脱線した話を元の軌道に戻して、続きを話し始めるときの表現。\n【言い換え】\nContinuing on..."
+  },
+  {
+    "jp": "話を戻すと。",
+    "en": "Getting back to the point.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "具体的な本題や要点への回帰を明示する丁寧な言い回し。\n【言い換え】\nBack to the main topic..."
+  },
+  {
+    "jp": "ちょっと話変わるけど。",
+    "en": "Changing the subject a bit.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "今までの流れを切り、全く別の話題に移る前置き表現。\n【言い換え】\nOn a different note..."
+  },
+  {
+    "jp": "そういえば。",
+    "en": "That reminds me.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "直前の会話や出来事をきっかけに、何かを思い出したときに使う表現。\n【言い換え】\nNow that you mention it..."
+  },
+  {
+    "jp": "ところで。",
+    "en": "By the way.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "脈絡なく話題を変えたり、新しい情報を追加したりするときの定番。\n【言い換え】\nIncidentally..."
+  },
+  {
+    "jp": "まあ、それは置いといて。",
+    "en": "Anyway, putting that aside.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "今の話題を意図的に切り上げ、議論を先に進めるための表現。\n【言い換え】\nMoving on... / Leaving that for now..."
+  },
+  {
+    "jp": "とりあえず次いこう。",
+    "en": "Anyway, let’s move on.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "滞っている現状に見切りをつけ、次の議題や行動を促す。\n【言い換え】\nLet's just advance to the next step."
+  },
+  {
+    "jp": "まずはこれから。",
+    "en": "Let’s start with this.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "複数のタスクや話題の最初（開始地点）を指定する表現。\n【言い換え】\nFirst things first."
+  },
+  {
+    "jp": "次はどうしようか。",
+    "en": "What should we do next?",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "一つの行動が終わって、次のステップを相談する表現。\n【言い換え】\nWhat's our next move?"
+  },
+  {
+    "jp": "その話はあとでしよう。",
+    "en": "Let’s talk about that later.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "今話すべきではないトピックを意図的に後回しにするための表現。\n【言い換え】\nLet's save that for another time."
+  },
+  {
+    "jp": "それはまた今度でいいや。",
+    "en": "We can talk about that another time.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "緊急性がない話題を、後日に先送り・保留にする表現。\n【言い換え】\nThat can wait."
+  },
+  {
+    "jp": "ひとまずここまで。",
+    "en": "Let’s stop here for now.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "時間や状況の区切りとして、一旦作業や話を中断・終了させる表現。\n【言い換え】\nThat's it for now."
+  },
+  {
+    "jp": "今日はこのへんで。",
+    "en": "Let’s call it a day.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "その日の業務や大きな集まりをお開きにするときの定番フレーズ。\n【言い換え】\nLet's wrap it up."
+  },
+  {
+    "jp": "じゃあ、そろそろ行くね。",
+    "en": "All right, I should get going.",
+    "grammar": "会話を進める・切り替える・終える",
+    "notes": "自分から主体的にその場を離れる旨を伝える別れの挨拶。\n【言い換え】\nWell, I better take off."
+  }
+]

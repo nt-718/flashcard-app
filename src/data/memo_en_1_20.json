@@ -1,0 +1,122 @@
+[
+  {
+    "jp": "やあ。",
+    "en": "Hey.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "親しい間柄で使うカジュアルな挨拶。\n【言い換え】\nHi. / Hello."
+  },
+  {
+    "jp": "こんにちは。",
+    "en": "Hi.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "Heyより少し丁寧だが、非常に一般的な挨拶。\n【言い換え】\nHello. / Good afternoon."
+  },
+  {
+    "jp": "おはよう。",
+    "en": "Morning.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "Good morningを省略したカジュアルな表現。\n【言い換え】\nGood morning."
+  },
+  {
+    "jp": "こんばんは。",
+    "en": "Good evening.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "夜の挨拶。HiやHelloの代わりに使える。\n【言い換え】\nEvening."
+  },
+  {
+    "jp": "元気？",
+    "en": "How are you?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "最も定番の挨拶。定型句として使われる。\n【言い換え】\nHow's it going? / How are you doing?"
+  },
+  {
+    "jp": "最近どう？",
+    "en": "How’s it going?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "How are you? よりも少しカジュアルでよく使われる。\n【言い換え】\nHow have things been? / What's up?"
+  },
+  {
+    "jp": "調子どう？",
+    "en": "How are you doing?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "How are you? と同義だが、少し親しみがある。\n【言い換え】\nHow are things?"
+  },
+  {
+    "jp": "今日どうだった？",
+    "en": "How was your day?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "一日の終わりに、相手のその日について尋ねる定番表現。\n【言い換え】\nDid you have a good day?"
+  },
+  {
+    "jp": "久しぶり。",
+    "en": "Long time no see.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "しばらく会っていなかった相手へのカジュアルな挨拶。\n【言い換え】\nIt's been a while."
+  },
+  {
+    "jp": "会えてうれしい。",
+    "en": "Nice to see you.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "再会したときの定番の挨拶。（初対面は Nice to meet you）\n【言い換え】\nGood to see you. / Great to see you."
+  },
+  {
+    "jp": "今ちょっと話せる？",
+    "en": "Can you talk for a minute?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "相手の都合を尋ねてから話を切り出すときの気遣い。\n【言い換え】\nDo you have a second?"
+  },
+  {
+    "jp": "ちょっといい？",
+    "en": "Got a minute?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "Do you have a minute? を省略したカジュアルな言い方。\n【言い換え】\nDo you have a sec? / Can I bother you for a sec?"
+  },
+  {
+    "jp": "聞いてもいい？",
+    "en": "Can I ask you something?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "質問やお願いをする前の前置きとして非常によく使う。\n【言い換え】\nMay I ask you a question?"
+  },
+  {
+    "jp": "相談してもいい？",
+    "en": "Can I ask you something?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "英語では「相談」も ask (頼む・尋ねる) で表現することが多い。\n【言い換え】\nCan I get your advice on something? / I need your advice."
+  },
+  {
+    "jp": "そういえばさ。",
+    "en": "By the way.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "話題を変えたり、ふと思い出したことを話すときの表現。\n【言い換え】\nSpeaking of which,"
+  },
+  {
+    "jp": "ところでさ。",
+    "en": "By the way.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "直前の会話とは関係のない新しい話題を切り出すときにも使う。\n【言い換え】\nOn another note,"
+  },
+  {
+    "jp": "ねえ、聞いて。",
+    "en": "Hey, listen.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "相手の注意を引きたいときに使う表現。少しカジュアル。\n【言い換え】\nGuess what. / You won't believe this."
+  },
+  {
+    "jp": "これ見て。",
+    "en": "Look at this.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "何かを見せながら注意を向けるときの直接的な表現。\n【言い換え】\nCheck this out."
+  },
+  {
+    "jp": "ちょっと思ったんだけど。",
+    "en": "I was just thinking.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "ふと思いついたアイデアや意見を切り出すときの控えめな表現。\n【言い換え】\nIt just occurred to me that..."
+  },
+  {
+    "jp": "さっきの話なんだけど。",
+    "en": "About what we were talking about earlier.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "一度保留にした話題や、少し前の会話に戻るときの表現。\n【言い換え】\nGoing back to our earlier conversation,"
+  }
+]

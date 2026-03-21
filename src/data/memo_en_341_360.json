@@ -1,0 +1,122 @@
+[
+  {
+    "jp": "こっちは直感的。",
+    "en": "This one is more intuitive.",
+    "grammar": "比較する",
+    "notes": "説明書なしでも感覚的に操作できることを評価する。\n【言い換え】\nThis one just makes sense."
+  },
+  {
+    "jp": "あっちは慣れが必要。",
+    "en": "That one takes getting used to.",
+    "grammar": "比較する",
+    "notes": "習熟に時間がかかる、ハードルが少しあることを説明する。\n【言い換え】\nThere's a learning curve for that one."
+  },
+  {
+    "jp": "家で使うならこっち。",
+    "en": "This one is better for home use.",
+    "grammar": "比較する",
+    "notes": "使用する場所を基準にして選ぶ時の表現。\n【言い換え】\nThis is perfect for the house."
+  },
+  {
+    "jp": "外で使うならあっち。",
+    "en": "That one is better for using outside.",
+    "grammar": "比較する",
+    "notes": "携帯性など屋外の適性で評価する。\n【言い換え】\nThat's better for on-the-go."
+  },
+  {
+    "jp": "こっちは落ち着いてる。",
+    "en": "This one feels calm.",
+    "grammar": "比較する",
+    "notes": "デザインや雰囲気が大人しい、静かなものであるという評価。\n【言い換え】\nThis one is subdued."
+  },
+  {
+    "jp": "あっちは元気な感じ。",
+    "en": "That one feels more energetic.",
+    "grammar": "比較する",
+    "notes": "活発で明るい印象を与える方についての評価。\n【言い換え】\nThat one is full of life."
+  },
+  {
+    "jp": "同じように見えて結構違う。",
+    "en": "They look similar, but they’re actually pretty different.",
+    "grammar": "比較する",
+    "notes": "一見似ているが、本質や使い勝手が異なると注意を促す。\n【言い換え】\nLooks can be deceiving, they're quite distinct."
+  },
+  {
+    "jp": "値段を考えるとこっちかな。",
+    "en": "Considering the price, I’d go with this one.",
+    "grammar": "比較する",
+    "notes": "「予算やコスパ（Considering the price）」を決定打とする時の定番。\n【言い換え】\nFactoring in the cost, this one wins."
+  },
+  {
+    "jp": "たぶん大丈夫。",
+    "en": "It’s probably fine.",
+    "grammar": "仮定・推測する",
+    "notes": "おそらく（probably）問題ないだろうという楽観的な推測。\n【言い換え】\nI'm sure it's okay."
+  },
+  {
+    "jp": "たぶん間に合う。",
+    "en": "We’ll probably make it.",
+    "grammar": "仮定・推測する",
+    "notes": "時間的に余裕があるだろうという推測。\n【言い換え】\nWe should be there in time."
+  },
+  {
+    "jp": "おそらく来ると思う。",
+    "en": "I think they’ll probably come.",
+    "grammar": "仮定・推測する",
+    "notes": "人の行動を予測する表現。「I think ~ probably」で少し確度の高い予想。\n【言い換え】\nChances are they'll show up."
+  },
+  {
+    "jp": "たぶん忘れてるだけ。",
+    "en": "They probably just forgot.",
+    "grammar": "仮定・推測する",
+    "notes": "悪気があるわけではなく、単純なミスだと仮定する表現。\n【言い換え】\nIt probably just slipped their mind."
+  },
+  {
+    "jp": "もしかして寝てる？",
+    "en": "Maybe they’re sleeping?",
+    "grammar": "仮定・推測する",
+    "notes": "返信がない時などに「もしかして（Maybe）」と可能性を探る表現。\n【言い換え】\nCould they be asleep?"
+  },
+  {
+    "jp": "もしかしたら道に迷ってるのかも。",
+    "en": "Maybe they got lost.",
+    "grammar": "仮定・推測する",
+    "notes": "到着が遅れている相手に対して、あり得る理由を推測する。\n【言い換え】\nThey might have taken a wrong turn."
+  },
+  {
+    "jp": "この感じだと雨が降りそう。",
+    "en": "It looks like it’s going to rain.",
+    "grammar": "仮定・推測する",
+    "notes": "状況や空模様（looks like）から未来を予測する定番表現。\n【言い換え】\nIt feels like rain."
+  },
+  {
+    "jp": "そのままだと遅れそう。",
+    "en": "At this rate, we’ll be late.",
+    "grammar": "仮定・推測する",
+    "notes": "「このペースだと（At this rate）」という仮定のもとで未来を懸念する。\n【言い換え】\nIf we keep this up, we'll be late."
+  },
+  {
+    "jp": "早く出れば間に合うかも。",
+    "en": "We might make it if we leave early.",
+    "grammar": "仮定・推測する",
+    "notes": "解決策や可能性（might）を仮定の手法で提案する。\n【言い換え】\nLeaving soon could get us there on time."
+  },
+  {
+    "jp": "もし今行けば空いてるかも。",
+    "en": "It might be empty if we go now.",
+    "grammar": "仮定・推測する",
+    "notes": "今のタイミングなら状況が良くなっているかもしれないと期待する。\n【言い換え】\nIt shouldn't be crowded if we head out now."
+  },
+  {
+    "jp": "たぶんそんなに深く考えてないよ。",
+    "en": "They probably aren’t thinking that deeply about it.",
+    "grammar": "仮定・推測する",
+    "notes": "相手の意図を過大評価・深読みしすぎないようアドバイスする推測。\n【言い換え】\nThey probably aren't overthinking it."
+  },
+  {
+    "jp": "ただ疲れてるだけかも。",
+    "en": "Maybe they’re just tired.",
+    "grammar": "仮定・推測する",
+    "notes": "不機嫌にみえる人の理由として体調を挙げる推測の表現。\n【言い換え】\nCould be they're just exhausted."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "jp": "もし無理なら無理でいい。",
+    "en": "If it doesn’t work, that’s okay too.",
+    "grammar": "仮定・推測する",
+    "notes": "失敗という結果を許容する仮定の表現。\n【言い換え】\nIf we can't do it, no big deal."
+  },
+  {
+    "jp": "そう考えると納得できる。",
+    "en": "If you think about it that way, it makes sense.",
+    "grammar": "仮定・推測する",
+    "notes": "ある仮説に基づいて考察すると、辻褄が合うという表現。\n【言い換え】\nPutting it that way, it's understandable."
+  },
+  {
+    "jp": "時間がたてば変わるかも。",
+    "en": "It might change over time.",
+    "grammar": "仮定・推測する",
+    "notes": "将来的な事態の変化を期待する表現。\n【言い換え】\nTime might change things."
+  },
+  {
+    "jp": "今のところは問題なさそう。",
+    "en": "So far, it seems fine.",
+    "grammar": "仮定・推測する",
+    "notes": "現状（So far）に基づいた暫定的な「問題ない」という評価。\n【言い換え】\nNothing to worry about as of now."
+  },
+  {
+    "jp": "そのうち慣れると思う。",
+    "en": "I think you’ll get used to it eventually.",
+    "grammar": "仮定・推測する",
+    "notes": "不安に思っている相手に、時間がいずれ解決すると伝える表現。\n【言い換え】\nYou'll grow accustomed to it."
+  },
+  {
+    "jp": "このまま様子を見るしかないかも。",
+    "en": "We might just have to wait and see.",
+    "grammar": "仮定・推測する",
+    "notes": "今は動かず、推移を見守る（wait and see）べきという提案。\n【言い換え】\nThere's nothing we can do but wait."
+  },
+  {
+    "jp": "ちょっと待って。",
+    "en": "Wait a second.",
+    "grammar": "依頼・提案する",
+    "notes": "相手を呼び止める、行動を一時停止させる表現。\n【言い換え】\nHold on a second. / Just a moment."
+  },
+  {
+    "jp": "これ見て。",
+    "en": "Take a look at this.",
+    "grammar": "依頼・提案する",
+    "notes": "相手の注意を何かに向けさせたいときの表現。\n【言い換え】\nLook here. / Check this out."
+  },
+  {
+    "jp": "手伝って。",
+    "en": "Help me out.",
+    "grammar": "依頼・提案する",
+    "notes": "支援や協力をカジュアルに依頼する表現。\n【言い換え】\nGive me a hand."
+  },
+  {
+    "jp": "もう一回言って。",
+    "en": "Say it again.",
+    "grammar": "依頼・提案する",
+    "notes": "聞き取れなかったり、意味がわからなかったりしたときに聞き返す。\n【言い換え】\nCan you repeat that? / Come again?"
+  },
+  {
+    "jp": "ちょっと聞いて。",
+    "en": "Hear me out.",
+    "grammar": "依頼・提案する",
+    "notes": "途中で遮らずに、まずは自分の言い分を聞いてほしい時の表現。\n【言い換え】\nListen to me."
+  },
+  {
+    "jp": "先に行ってて。",
+    "en": "Go ahead first.",
+    "grammar": "依頼・提案する",
+    "notes": "自分は後から行くので、先に向かってほしい時の表現。\n【言い換え】\nYou go first."
+  },
+  {
+    "jp": "ここ座って。",
+    "en": "Sit here.",
+    "grammar": "依頼・提案する",
+    "notes": "動作を促すシンプルな命令・提案表現。\n【言い換え】\nTake a seat here. / Have a seat."
+  },
+  {
+    "jp": "ちょっと貸して。",
+    "en": "Let me borrow that.",
+    "grammar": "依頼・提案する",
+    "notes": "一時的に何かを使わせてほしいときの依頼。\n【言い換え】\nCan I use that for a second?"
+  },
+  {
+    "jp": "一緒に行こう。",
+    "en": "Let’s go together.",
+    "grammar": "依頼・提案する",
+    "notes": "Let's (〜しよう) を使った定番の勧誘表現。\n【言い換え】\nWhy don't we go together?"
+  },
+  {
+    "jp": "今日は早めに帰ろう。",
+    "en": "Let’s go home early today.",
+    "grammar": "依頼・提案する",
+    "notes": "予定の切り上げを提案する表現。\n【言い換え】\nLet's call it a day early."
+  },
+  {
+    "jp": "休憩しよう。",
+    "en": "Let’s take a break.",
+    "grammar": "依頼・提案する",
+    "notes": "疲労や区切りが見えたときに一時休止を提案する。\n【言い換え】\nLet's rest for a bit."
+  },
+  {
+    "jp": "先にご飯食べよう。",
+    "en": "Let’s eat first.",
+    "grammar": "依頼・提案する",
+    "notes": "空腹時など、他の事より食事を優先させる提案。\n【言い換え】\nWe should probably eat first."
+  },
+  {
+    "jp": "あとで考えよう。",
+    "en": "Let’s think about it later.",
+    "grammar": "依頼・提案する",
+    "notes": "今すぐ決断できないことへの先送りの提案。\n【言い換え】\nLet's figure it out later."
+  },
+  {
+    "jp": "とりあえずやってみよう。",
+    "en": "Let’s just try it for now.",
+    "grammar": "依頼・提案する",
+    "notes": "結果を心配せず、まずは行動に移そうという前向きな強い提案。\n【言い換え】\nLet's give it a shot."
+  }
+]

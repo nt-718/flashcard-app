@@ -1,0 +1,122 @@
+[
+  {
+    "jp": "たぶんこの言い方のほうが近い。",
+    "en": "This wording is probably closer.",
+    "grammar": "言い換える・補足する",
+    "notes": "より適した表現が見つかった時の訂正の仕方。\n【言い換え】\nThis might be a better way to put it."
+  },
+  {
+    "jp": "日常っぽく言うと。",
+    "en": "In everyday speech, you’d say.",
+    "grammar": "言い換える・補足する",
+    "notes": "フォーマルな言葉をカジュアルな言い回しにする時の前置き。\n【言い換え】\nCasually speaking,"
+  },
+  {
+    "jp": "もっと自然に言うなら。",
+    "en": "To say it more naturally.",
+    "grammar": "言い換える・補足する",
+    "notes": "不自然な言い回しをネイティブらしい表現に直す時の前置き。\n【言い換え】\nA more natural way to say it would be..."
+  },
+  {
+    "jp": "フォーマルすぎるかも。",
+    "en": "That might sound too formal.",
+    "grammar": "言い換える・補足する",
+    "notes": "表現が堅苦しすぎることを指摘する時の表現。\n【言い換え】\nThat's a bit too stiff."
+  },
+  {
+    "jp": "カジュアルに言うなら。",
+    "en": "If you want to say it casually.",
+    "grammar": "言い換える・補足する",
+    "notes": "より友人同士などで使う表現を教える時の前置き。\n【言い換え】\nIn a more relaxed setting, you'd say..."
+  },
+  {
+    "jp": "言いたかったのはそれ。",
+    "en": "That’s what I was trying to say.",
+    "grammar": "言い換える・補足する",
+    "notes": "相手が自分のまとまらない考えを的確に代弁してくれた時の反応。\n【言い換え】\nExactly what I meant."
+  },
+  {
+    "jp": "そうそう、そんな感じ。",
+    "en": "Yeah, that’s what I mean.",
+    "grammar": "言い換える・補足する",
+    "notes": "相手の解釈が自分の意図と合致した時の相槌。\n【言い換え】\nRight on. / Spot on."
+  },
+  {
+    "jp": "ちょっと大げさに言うと。",
+    "en": "If I exaggerate a little.",
+    "grammar": "言い換える・補足する",
+    "notes": "比喩や強調を含めてわかりやすく説明する時の前置き。\n【言い換え】\nTo exaggerate slightly,"
+  },
+  {
+    "jp": "極端に言うと。",
+    "en": "To put it extremely.",
+    "grammar": "言い換える・補足する",
+    "notes": "物事を白黒はっきり極論で述べる時の表現。\n【言い換え】\nIn extreme terms,"
+  },
+  {
+    "jp": "そこだけ切り取るとそう見える。",
+    "en": "If you isolate that part, it looks that way.",
+    "grammar": "言い換える・補足する",
+    "notes": "文脈が抜け落ちていると誤解される可能性があるという指摘。\n【言い換え】\nTaken out of context, yes."
+  },
+  {
+    "jp": "でも全体で見ると違う。",
+    "en": "But it’s different when you look at the whole thing.",
+    "grammar": "言い換える・補足する",
+    "notes": "全体像（big picture）を把握するように促す時の表現。\n【言い換え】\nBut looking at the bigger picture, it's different."
+  },
+  {
+    "jp": "そう聞こえたならごめん。",
+    "en": "Sorry if it sounded that way.",
+    "grammar": "言い換える・補足する",
+    "notes": "意図せず相手を不快にさせた場合や誤ったニュアンスで伝わった場合の謝罪。\n【言い換え】\nI apologize if that's how it came across."
+  },
+  {
+    "jp": "本当はもっと単純な話。",
+    "en": "It’s actually simpler than that.",
+    "grammar": "言い換える・補足する",
+    "notes": "複雑に考えすぎている相手に、シンプルさを伝える表現。\n【言い換え】\nIt's not that complicated."
+  },
+  {
+    "jp": "言い直すね。",
+    "en": "Let me rephrase that.",
+    "grammar": "言い換える・補足する",
+    "notes": "自分の言葉選びが悪かったと気づいて言い直す時の定番フレーズ。\n【言い換え】\nLet me try again. / Let me put it another way."
+  },
+  {
+    "jp": "私はこっちが好き。",
+    "en": "I like this one better.",
+    "grammar": "意見を述べる",
+    "notes": "複数の選択肢から自分の好みを伝えるシンプルな表現。\n【言い換え】\nI prefer this one."
+  },
+  {
+    "jp": "そっちのほうがいいと思う。",
+    "en": "I think that one is better.",
+    "grammar": "意見を述べる",
+    "notes": "相手が持っているものや、話題に上がっているものを推奨する表現。\n【言い換え】\nThat seems better to me."
+  },
+  {
+    "jp": "私はあまり好きじゃない。",
+    "en": "I don’t like it that much.",
+    "grammar": "意見を述べる",
+    "notes": "否定を柔らかく伝える「あまり〜ない（not that much）」の表現。\n【言い換え】\nI'm not a big fan of it."
+  },
+  {
+    "jp": "私はそれでいいと思う。",
+    "en": "I think that’s fine.",
+    "grammar": "意見を述べる",
+    "notes": "相手の提案や状況に対して「問題ない、十分だ」と肯定する表現。\n【言い換え】\nThat works for me."
+  },
+  {
+    "jp": "私は反対かな。",
+    "en": "I’m against it.",
+    "grammar": "意見を述べる",
+    "notes": "明確に不支持を表明する表現。少し強い言い方。\n【言い換え】\nI disagree. / I oppose it."
+  },
+  {
+    "jp": "私は賛成。",
+    "en": "I’m for it.",
+    "grammar": "意見を述べる",
+    "notes": "明確に支持を表明する表現。（I am in favor of it. の口語）\n【言い換え】\nI agree. / I support that."
+  }
+]

@@ -13,6 +13,16 @@ materials_manifest = []
 for csv_path in csv_files:
     file_name = os.path.basename(csv_path)
     material_name = file_name.replace('.csv', '').replace(' - master', '')
+    
+    # Handle language-specific suffixes for better display names
+    display_name = material_name
+    if display_name.endswith('_en'):
+        display_name = display_name[:-3].capitalize() + ' (English)'
+    elif display_name.endswith('_zh'):
+        display_name = display_name[:-3].capitalize() + ' (Chinese)'
+    else:
+        display_name = display_name.replace('_', ' ').capitalize()
+
     safe_name = material_name.lower().replace(' ', '_')
     json_filename = f"{safe_name}.json"
     json_path = os.path.join(output_dir, json_filename)
@@ -26,7 +36,8 @@ for csv_path in csv_files:
             en = row.get('English')
             cn = row.get('Chinese')
             grammar = row.get('Grammar')
-            point = row.get('Point')
+            point = row.get('Point', '')
+            rephrasing = row.get('Rephrasing', '')
             pinyin = row.get('Pinyin')
             
             if not jp or not (en or cn):
@@ -34,13 +45,18 @@ for csv_path in csv_files:
             if jp == en or '〜' in jp:
                 continue
                 
+            notes = point.strip() if point else ''
+            if rephrasing:
+                notes += f"\n【言い換え】\n{rephrasing.strip()}"
+            notes = notes.strip()
+                
             entry = {
                 "jp": jp,
                 "en": en,
                 "cn": cn,
                 "pinyin": pinyin,
                 "grammar": grammar,
-                "notes": point,
+                "notes": notes if notes else None,
             }
             entry = {k: v for k, v in entry.items() if v}
             sentences.append(entry)
@@ -63,7 +79,7 @@ for csv_path in csv_files:
         
         materials_manifest.append({
             "id": f"{safe_name}_{start_idx}_{end_idx}",
-            "name": f"{material_name} {start_idx}-{end_idx}{grammar_label}",
+            "name": f"{display_name} {start_idx}-{end_idx}{grammar_label}",
             "path": f"./{chunk_json_filename}",
             "count": len(chunk)
         })

@@ -1,0 +1,122 @@
+[
+  {
+    "jp": "あのさ。",
+    "en": "You know.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "文頭に置いて「あのね」と相手の注意を引くフィラー（つなぎ言葉）。\n【言い換え】\nYou know what?"
+  },
+  {
+    "jp": "ちょっと聞きたいことがあるんだけど。",
+    "en": "There’s something I want to ask you.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "前置きをして、これから重要なことや質問を言いたい時に使う。\n【言い換え】\nI have a question for you."
+  },
+  {
+    "jp": "今忙しい？",
+    "en": "Are you busy right now?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "相手に話しかける前の気遣いの表現。\n【言い換え】\nAre you in the middle of something?"
+  },
+  {
+    "jp": "今大丈夫？",
+    "en": "Is now a good time?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "電話や直接話しかけるときに都合がいいか確認する定番フレーズ。\n【言い換え】\nAre you free right now?"
+  },
+  {
+    "jp": "今日何してたの？",
+    "en": "What were you doing today?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "相手のその日の行動を尋ねる表現。過去進行形を使う。\n【言い換え】\nWhat did you do today? / What have you been up to today?"
+  },
+  {
+    "jp": "何してるの？",
+    "en": "What are you doing?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "現在進行形で、まさに今何をしているか尋ねる表現。\n【言い換え】\nWhat are you up to?"
+  },
+  {
+    "jp": "今どこ？",
+    "en": "Where are you now?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "現在地を尋ねるシンプルな表現。待ち合わせなどで使う。\n【言い換え】\nWhere are you at?"
+  },
+  {
+    "jp": "ちょうど連絡しようと思ってた。",
+    "en": "I was just about to text you.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "be about to ~ (まさに〜しようとしている) を使った表現。\n【言い換え】\nI was just going to message you. / I was about to call you."
+  },
+  {
+    "jp": "そうだ、聞こうと思ってた。",
+    "en": "Oh right, I meant to ask you.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "mean to ~ (〜するつもりだった) を使い、思い出したように言う。\n【言い換え】\nI remembered I wanted to ask you something."
+  },
+  {
+    "jp": "今日はどうする？",
+    "en": "What are we doing today?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "その日の予定や計画を相談するときの表現。\n【言い換え】\nWhat's the plan for today?"
+  },
+  {
+    "jp": "何かあった？",
+    "en": "Did something happen?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "様子がおかしい相手を気遣って尋ねる表現。\n【言い換え】\nIs everything okay? / What's wrong?"
+  },
+  {
+    "jp": "その話、気になってた。",
+    "en": "I was curious about that.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "curious (好奇心がある、気になる) を使って関心を示す。\n【言い換え】\nI've been wondering about that."
+  },
+  {
+    "jp": "ちょっと話したいことがある。",
+    "en": "I want to talk about something.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "真剣な話や相談事があるときに前置きとして使う表現。\n【言い換え】\nThere's something I need to talk to you about."
+  },
+  {
+    "jp": "先に一個だけいい？",
+    "en": "Can I say one thing first?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "相手が話す前や別の話題の前に、差し込む形で使う。\n【言い換え】\nLet me just say one thing first."
+  },
+  {
+    "jp": "まずこれだけ言わせて。",
+    "en": "Let me say this first.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "Let me ~ (私に〜させて) を使った強い表現。\n【言い換え】\nFirst of all, let me say this."
+  },
+  {
+    "jp": "ねえねえ。",
+    "en": "Hey.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "親しい人に話しかける時の軽い呼びかけ。\n【言い換え】\nHey there. / Hey you."
+  },
+  {
+    "jp": "なんかさ。",
+    "en": "So, like.",
+    "grammar": "あいさつ・切り出し",
+    "notes": "特に意味を持たないが、会話のクッションになる表現。\n【言い換え】\nYou know, / I mean,"
+  },
+  {
+    "jp": "今ちょうど暇？",
+    "en": "Are you free right now?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "相手の手が空いているか確認する時のカジュアルな表現。\n【言い換え】\nAre you available now? / Got some free time?"
+  },
+  {
+    "jp": "話しかけて大丈夫だった？",
+    "en": "Was it okay to talk to you?",
+    "grammar": "あいさつ・切り出し",
+    "notes": "急に話しかけた後に、邪魔ではなかったか確認する気遣い。\n【言い換え】\nI hope I didn't interrupt. / Did I catch you at a bad time?"
+  },
+  {
+    "jp": "へえ。",
+    "en": "Oh really?",
+    "grammar": "反応する",
+    "notes": "驚きや関心を示す軽い相槌。トーンでニュアンスが変わる。\n【言い換え】\nIs that so? / Huh."
+  }
+]
