@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="80" fill="#1a1a2e"/>
+
+  <!-- Globe circle -->
+  <circle cx="220" cy="240" r="140" fill="none" stroke="#4a90d9" stroke-width="14"/>
+
+  <!-- Globe latitude lines -->
+  <ellipse cx="220" cy="240" rx="60" ry="140" fill="none" stroke="#4a90d9" stroke-width="10"/>
+  <line x1="80" y1="180" x2="360" y2="180" stroke="#4a90d9" stroke-width="10"/>
+  <line x1="80" y1="240" x2="360" y2="240" stroke="#4a90d9" stroke-width="10"/>
+  <line x1="80" y1="300" x2="360" y2="300" stroke="#4a90d9" stroke-width="10"/>
+
+  <!-- Clip globe to circle -->
+  <defs>
+    <clipPath id="globeClip">
+      <circle cx="220" cy="240" r="137"/>
+    </clipPath>
+  </defs>
+  <ellipse cx="220" cy="240" rx="60" ry="140" fill="none" stroke="#4a90d9" stroke-width="10" clip-path="url(#globeClip)"/>
+  <line x1="80" y1="180" x2="360" y2="180" stroke="#4a90d9" stroke-width="10" clip-path="url(#globeClip)"/>
+  <line x1="80" y1="240" x2="360" y2="240" stroke="#4a90d9" stroke-width="10" clip-path="url(#globeClip)"/>
+  <line x1="80" y1="300" x2="360" y2="300" stroke="#4a90d9" stroke-width="10" clip-path="url(#globeClip)"/>
+
+  <!-- Speech bubble -->
+  <rect x="270" y="290" width="170" height="110" rx="20" fill="#ffffff"/>
+  <!-- Bubble tail pointing to globe -->
+  <polygon points="290,390 270,430 330,390" fill="#ffffff"/>
+
+  <!-- Three dots inside bubble (representing text/language) -->
+  <circle cx="315" cy="345" r="12" fill="#1a1a2e"/>
+  <circle cx="355" cy="345" r="12" fill="#4a90d9"/>
+  <circle cx="395" cy="345" r="12" fill="#1a1a2e"/>
+</svg>
