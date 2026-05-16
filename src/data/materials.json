@@ -226,5 +226,35 @@
     "name": "推进・转换・结束对话（会話を進める・切り替える・終える） (Chinese)",
     "path": "./memo2_zh_s19.json",
     "count": 38
+  },
+  {
+    "id": "conv_zh_s01",
+    "name": "咖啡厅聊天（カフェでの雑談） (Chinese)",
+    "path": "./conv_zh_s01.json",
+    "count": 33
+  },
+  {
+    "id": "conv_zh_s02",
+    "name": "餐厅点餐（レストランでの注文） (Chinese)",
+    "path": "./conv_zh_s02.json",
+    "count": 25
+  },
+  {
+    "id": "conv_zh_s03",
+    "name": "购物（買い物） (Chinese)",
+    "path": "./conv_zh_s03.json",
+    "count": 25
+  },
+  {
+    "id": "conv_zh_s04",
+    "name": "职场对话（職場での会話） (Chinese)",
+    "path": "./conv_zh_s04.json",
+    "count": 26
+  },
+  {
+    "id": "conv_zh_s05",
+    "name": "旅行计划（旅行の計画） (Chinese)",
+    "path": "./conv_zh_s05.json",
+    "count": 29
   }
 ]
