@@ -1,0 +1,22 @@
+[
+  { "jp": "炒める", "cn": "炒", "pinyin": "chǎo" },
+  { "jp": "揚げる", "cn": "炸", "pinyin": "zhá" },
+  { "jp": "蒸す", "cn": "蒸", "pinyin": "zhēng" },
+  { "jp": "煮る", "cn": "煮", "pinyin": "zhǔ" },
+  { "jp": "焼く（オーブン）", "cn": "烤", "pinyin": "kǎo" },
+  { "jp": "焼く（フライパン）", "cn": "煎", "pinyin": "jiān" },
+  { "jp": "和える", "cn": "拌", "pinyin": "bàn" },
+  { "jp": "煮込む・とろ火で煮る", "cn": "炖", "pinyin": "dùn" },
+  { "jp": "茹でる（野菜の下茹で）", "cn": "焯", "pinyin": "chāo" },
+  { "jp": "燻す", "cn": "熏", "pinyin": "xūn" },
+  { "jp": "漬ける", "cn": "腌", "pinyin": "yān" },
+  { "jp": "赤煮（醤油・砂糖で煮る）", "cn": "红烧", "pinyin": "hóngshāo" },
+  { "jp": "蓋をして蒸し焼き", "cn": "焖", "pinyin": "mèn" },
+  { "jp": "湯通し", "cn": "汆", "pinyin": "cuān" },
+  { "jp": "素揚げ", "cn": "干炸", "pinyin": "gānzhá" },
+  { "jp": "電子レンジで温める", "cn": "微波炉加热", "pinyin": "wēibōlú jiārè" },
+  { "jp": "生で食べる", "cn": "生吃", "pinyin": "shēngchī" },
+  { "jp": "刻む", "cn": "切碎", "pinyin": "qiēsuì" },
+  { "jp": "すりおろす", "cn": "磨碎", "pinyin": "mósùi" },
+  { "jp": "混ぜる", "cn": "搅拌", "pinyin": "jiǎobàn" }
+]

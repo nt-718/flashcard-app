@@ -256,5 +256,203 @@
     "name": "旅行计划（旅行の計画） (Chinese)",
     "path": "./conv_zh_s05.json",
     "count": 29
+  },
+  {
+    "id": "vocab_zh_vegetables",
+    "name": "蔬菜（野菜） (Chinese)",
+    "path": "./vocab_zh_vegetables.json",
+    "count": 45
+  },
+  {
+    "id": "vocab_zh_drinks",
+    "name": "饮料（飲み物） (Chinese)",
+    "path": "./vocab_zh_drinks.json",
+    "count": 40
+  },
+  {
+    "id": "vocab_zh_fruits",
+    "name": "水果（果物） (Chinese)",
+    "path": "./vocab_zh_fruits.json",
+    "count": 35
+  },
+  {
+    "id": "vocab_zh_meat",
+    "name": "肉类（肉・加工品） (Chinese)",
+    "path": "./vocab_zh_meat.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_zh_seafood",
+    "name": "海鲜（魚介類） (Chinese)",
+    "path": "./vocab_zh_seafood.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_zh_grains",
+    "name": "主食・谷物（穀物・主食） (Chinese)",
+    "path": "./vocab_zh_grains.json",
+    "count": 20
+  },
+  {
+    "id": "vocab_zh_seasonings",
+    "name": "调味料（調味料・スパイス） (Chinese)",
+    "path": "./vocab_zh_seasonings.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_zh_chinese_food",
+    "name": "中华料理（中華料理） (Chinese)",
+    "path": "./vocab_zh_chinese_food.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_zh_cooking_methods",
+    "name": "烹饪方法（調理法） (Chinese)",
+    "path": "./vocab_zh_cooking_methods.json",
+    "count": 20
+  },
+  {
+    "id": "vocab_zh_kitchen",
+    "name": "厨具（キッチン用品） (Chinese)",
+    "path": "./vocab_zh_kitchen.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_zh_body",
+    "name": "身体部位（体の部位） (Chinese)",
+    "path": "./vocab_zh_body.json",
+    "count": 40
+  },
+  {
+    "id": "vocab_zh_family",
+    "name": "家庭成员・人际关系（家族・人間関係） (Chinese)",
+    "path": "./vocab_zh_family.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_zh_furniture",
+    "name": "房间・家具（部屋・家具） (Chinese)",
+    "path": "./vocab_zh_furniture.json",
+    "count": 35
+  },
+  {
+    "id": "vocab_zh_clothing",
+    "name": "衣物・时尚（衣類・ファッション） (Chinese)",
+    "path": "./vocab_zh_clothing.json",
+    "count": 35
+  },
+  {
+    "id": "vocab_zh_daily_items",
+    "name": "日用品（日用品・生活雑貨） (Chinese)",
+    "path": "./vocab_zh_daily_items.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_zh_transportation",
+    "name": "交通・出行（交通・移動手段） (Chinese)",
+    "path": "./vocab_zh_transportation.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_zh_occupations",
+    "name": "职业（職業） (Chinese)",
+    "path": "./vocab_zh_occupations.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_zh_countries",
+    "name": "国家・地区（国・地域・都市） (Chinese)",
+    "path": "./vocab_zh_countries.json",
+    "count": 35
+  },
+  {
+    "id": "vocab_zh_shopping",
+    "name": "购物・金钱（買い物・お金） (Chinese)",
+    "path": "./vocab_zh_shopping.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_zh_medical",
+    "name": "疾病・症状・医疗（病気・症状・医療） (Chinese)",
+    "path": "./vocab_zh_medical.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_zh_weather",
+    "name": "天气・季节（天気・季節） (Chinese)",
+    "path": "./vocab_zh_weather.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_zh_animals",
+    "name": "动物（動物） (Chinese)",
+    "path": "./vocab_zh_animals.json",
+    "count": 40
+  },
+  {
+    "id": "vocab_zh_plants",
+    "name": "植物・花卉（植物・花） (Chinese)",
+    "path": "./vocab_zh_plants.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_zh_sports",
+    "name": "运动・体育（スポーツ） (Chinese)",
+    "path": "./vocab_zh_sports.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_zh_hobbies",
+    "name": "爱好・娱乐（趣味・娯楽） (Chinese)",
+    "path": "./vocab_zh_hobbies.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_zh_school",
+    "name": "学校・学习（学校・勉強） (Chinese)",
+    "path": "./vocab_zh_school.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_zh_technology",
+    "name": "电子产品・科技（電子機器・テクノロジー） (Chinese)",
+    "path": "./vocab_zh_technology.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_zh_social_media",
+    "name": "网络・社交媒体（SNS・インターネット） (Chinese)",
+    "path": "./vocab_zh_social_media.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_zh_adjectives",
+    "name": "形容词（形容詞） (Chinese)",
+    "path": "./vocab_zh_adjectives.json",
+    "count": 40
+  },
+  {
+    "id": "vocab_zh_emotions",
+    "name": "情感・心情（感情・気持ち） (Chinese)",
+    "path": "./vocab_zh_emotions.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_zh_personality",
+    "name": "性格特点（性格・人柄） (Chinese)",
+    "path": "./vocab_zh_personality.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_zh_directions",
+    "name": "方向・位置（方向・位置） (Chinese)",
+    "path": "./vocab_zh_directions.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_zh_colors",
+    "name": "颜色・形状（色・形） (Chinese)",
+    "path": "./vocab_zh_colors.json",
+    "count": 30
   }
 ]

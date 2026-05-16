@@ -1,0 +1,22 @@
+[
+  { "jp": "ごはん", "cn": "米饭", "pinyin": "mǐfàn" },
+  { "jp": "白米", "cn": "白米", "pinyin": "báimǐ" },
+  { "jp": "玄米", "cn": "糙米", "pinyin": "cāomǐ" },
+  { "jp": "もち米", "cn": "糯米", "pinyin": "nuòmǐ" },
+  { "jp": "麺", "cn": "面条", "pinyin": "miàntiáo" },
+  { "jp": "うどん", "cn": "乌冬面", "pinyin": "wūdōngmiàn" },
+  { "jp": "そば", "cn": "荞麦面", "pinyin": "qiáomàimiàn" },
+  { "jp": "ラーメン", "cn": "拉面", "pinyin": "lāmiàn" },
+  { "jp": "ビーフン", "cn": "米粉", "pinyin": "mǐfěn" },
+  { "jp": "春雨", "cn": "粉丝", "pinyin": "fěnsī" },
+  { "jp": "お粥", "cn": "粥", "pinyin": "zhōu" },
+  { "jp": "パン", "cn": "面包", "pinyin": "miànbāo" },
+  { "jp": "食パン", "cn": "吐司", "pinyin": "tǔsī" },
+  { "jp": "バゲット", "cn": "法棍", "pinyin": "fǎgùn" },
+  { "jp": "マントウ（蒸しパン）", "cn": "馒头", "pinyin": "mántou" },
+  { "jp": "花巻", "cn": "花卷", "pinyin": "huājuǎn" },
+  { "jp": "小麦粉", "cn": "面粉", "pinyin": "miànfěn" },
+  { "jp": "片栗粉", "cn": "生粉", "pinyin": "shēngfěn" },
+  { "jp": "とうもろこし粉", "cn": "玉米粉", "pinyin": "yùmǐfěn" },
+  { "jp": "オートミール", "cn": "燕麦", "pinyin": "yànmài" }
+]
