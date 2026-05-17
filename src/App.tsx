@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import materialsManifest from './data/materials.json'
 
-type Language = 'en' | 'cn';
+type Language = 'en' | 'cn' | 'kr';
 type Result = 'correct' | 'incorrect';
 
 interface Material {
@@ -13,9 +13,11 @@ interface Material {
 
 interface Sentence {
   jp: string;
-  en: string;
+  en?: string;
   cn?: string;
   pinyin?: string;
+  kr?: string;
+  pronunciation?: string;
   grammar?: string;
   notes?: string;
 }
@@ -100,10 +102,13 @@ function App() {
           const first = loadedSentences[0];
           const hasEn = !!first.en;
           const hasCn = !!first.cn;
-          
-          if (hasEn && !hasCn) {
+          const hasKr = !!first.kr;
+
+          if (hasKr && !hasEn && !hasCn) {
+            handleStart('kr');
+          } else if (hasEn && !hasCn && !hasKr) {
             handleStart('en');
-          } else if (hasCn && !hasEn) {
+          } else if (hasCn && !hasEn && !hasKr) {
             handleStart('cn');
           }
         }
@@ -167,7 +172,7 @@ function App() {
     const record: SessionRecord = {
       timestamp: new Date().toISOString(),
       material: selectedMaterial.name,
-      language: language === 'en' ? 'English' : 'Chinese',
+      language: language === 'en' ? 'English' : language === 'cn' ? 'Chinese' : 'Korean',
       correctCount,
       incorrectCount,
       accuracy,
@@ -285,7 +290,7 @@ function App() {
                   <tr key={i}>
                     <td>{new Date(rec.timestamp).toLocaleDateString('ja-JP', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })}</td>
                     <td>{rec.material.replace('言語学習 - ', '')}</td>
-                    <td>{rec.language === 'English' ? '🇬🇧' : '🇨🇳'}</td>
+                    <td>{rec.language === 'English' ? '🇬🇧' : rec.language === 'Chinese' ? '🇨🇳' : '🇰🇷'}</td>
                     <td style={{ color: '#2db573', fontWeight: 600 }}>{rec.correctCount}</td>
                     <td style={{ color: '#eb5757', fontWeight: 600 }}>{rec.incorrectCount}</td>
                     <td>
@@ -356,7 +361,7 @@ function App() {
         {hasSaved ? (
           <>
             <p style={{ color: '#6b6b6b', marginBottom: '32px' }}>
-              前回の途中データがあります（{saved.language === 'en' ? 'English' : '中国語'} — {saved.currentIndex}/{saved.totalCount}問完了）
+              前回の途中データがあります（{saved.language === 'en' ? 'English' : saved.language === 'cn' ? '中国語' : '韓国語'} — {saved.currentIndex}/{saved.totalCount}問完了）
             </p>
             <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
               <button
@@ -382,12 +387,21 @@ function App() {
           <>
             <p style={{ color: '#6b6b6b', marginBottom: '40px' }}>学習する言語を選択してください</p>
             <div style={{ display: 'flex', gap: '20px', justifyContent: 'center' }}>
-              <button className="primary" style={{ padding: '20px 40px', fontSize: '18px' }} onClick={() => handleStart('en')}>
-                English
-              </button>
-              <button className="primary" style={{ padding: '20px 40px', fontSize: '18px' }} onClick={() => handleStart('cn')}>
-                中国語
-              </button>
+              {sentences.length > 0 && sentences[0].en && (
+                <button className="primary" style={{ padding: '20px 40px', fontSize: '18px' }} onClick={() => handleStart('en')}>
+                  English
+                </button>
+              )}
+              {sentences.length > 0 && sentences[0].cn && (
+                <button className="primary" style={{ padding: '20px 40px', fontSize: '18px' }} onClick={() => handleStart('cn')}>
+                  中国語
+                </button>
+              )}
+              {sentences.length > 0 && sentences[0].kr && (
+                <button className="primary" style={{ padding: '20px 40px', fontSize: '18px' }} onClick={() => handleStart('kr')}>
+                  韓国語
+                </button>
+              )}
             </div>
           </>
         )}
@@ -442,8 +456,12 @@ function App() {
 
   // ─── Flashcard View ──────────────────────────────────────────
   const currentSentence = sentences[currentIndex] as Sentence;
-  const answer = language === 'en' ? currentSentence?.en : currentSentence?.cn;
-  const pinyin = language === 'cn' ? currentSentence?.pinyin : null;
+  const answer = language === 'en' ? currentSentence?.en
+    : language === 'cn' ? currentSentence?.cn
+    : currentSentence?.kr;
+  const pinyin = language === 'cn' ? currentSentence?.pinyin
+    : language === 'kr' ? currentSentence?.pronunciation
+    : null;
   const notes = currentSentence?.notes;
   const grammar = currentSentence?.grammar;
 
@@ -451,8 +469,8 @@ function App() {
     <div>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '40px' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-          <span className="notion-tag" style={{ background: language === 'en' ? '#fdecc8' : '#e7f3ef' }}>
-            {language === 'en' ? '🇬🇧 English' : '🇨🇳 中国語'}
+          <span className="notion-tag" style={{ background: language === 'en' ? '#fdecc8' : language === 'kr' ? '#fde8ec' : '#e7f3ef' }}>
+            {language === 'en' ? '🇬🇧 English' : language === 'cn' ? '🇨🇳 中国語' : '🇰🇷 韓国語'}
           </span>
           <span style={{ color: '#6b6b6b', fontSize: '14px' }}>
             {currentIndex + 1} / {sentences.length}
