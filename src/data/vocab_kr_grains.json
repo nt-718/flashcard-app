@@ -1,0 +1,22 @@
+[
+  { "jp": "ごはん", "kr": "밥", "pronunciation": "パプ" },
+  { "jp": "白米", "kr": "백미", "pronunciation": "ペンミ" },
+  { "jp": "玄米", "kr": "현미", "pronunciation": "ヒョンミ" },
+  { "jp": "もち米", "kr": "찹쌀", "pronunciation": "チャプサル" },
+  { "jp": "麺", "kr": "국수", "pronunciation": "ククス" },
+  { "jp": "うどん", "kr": "우동", "pronunciation": "ウドン" },
+  { "jp": "そば", "kr": "메밀국수", "pronunciation": "メミルククス" },
+  { "jp": "ラーメン（インスタント）", "kr": "라면", "pronunciation": "ラミョン" },
+  { "jp": "ビーフン", "kr": "쌀국수", "pronunciation": "サルククス" },
+  { "jp": "春雨", "kr": "당면", "pronunciation": "タンミョン" },
+  { "jp": "お粥", "kr": "죽", "pronunciation": "チュク" },
+  { "jp": "パン", "kr": "빵", "pronunciation": "パン" },
+  { "jp": "食パン", "kr": "식빵", "pronunciation": "シクパン" },
+  { "jp": "バゲット", "kr": "바게트", "pronunciation": "バゲトゥ" },
+  { "jp": "餅（トッ）", "kr": "떡", "pronunciation": "トッ" },
+  { "jp": "小麦粉", "kr": "밀가루", "pronunciation": "ミルカル" },
+  { "jp": "片栗粉", "kr": "전분", "pronunciation": "チョンブン" },
+  { "jp": "とうもろこし粉", "kr": "옥수수 가루", "pronunciation": "オクスス カル" },
+  { "jp": "オートミール", "kr": "오트밀", "pronunciation": "オトゥミル" },
+  { "jp": "もち（おもち）", "kr": "찰떡", "pronunciation": "チャルトッ" }
+]

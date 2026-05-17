@@ -1,0 +1,22 @@
+[
+  { "jp": "炒める", "kr": "볶다", "pronunciation": "ポクタ" },
+  { "jp": "揚げる", "kr": "튀기다", "pronunciation": "トゥィギダ" },
+  { "jp": "蒸す", "kr": "찌다", "pronunciation": "チダ" },
+  { "jp": "煮る", "kr": "끓이다", "pronunciation": "クリダ" },
+  { "jp": "焼く（グリル・オーブン）", "kr": "굽다", "pronunciation": "クプタ" },
+  { "jp": "焼く（フライパン）", "kr": "부치다", "pronunciation": "プチダ" },
+  { "jp": "和える", "kr": "무치다", "pronunciation": "ムチダ" },
+  { "jp": "煮込む・煮詰める", "kr": "조리다", "pronunciation": "チョリダ" },
+  { "jp": "茹でる", "kr": "삶다", "pronunciation": "サムタ" },
+  { "jp": "湯通しする", "kr": "데치다", "pronunciation": "テチダ" },
+  { "jp": "漬ける", "kr": "절이다", "pronunciation": "チョリダ" },
+  { "jp": "刻む・みじん切りにする", "kr": "다지다", "pronunciation": "タジダ" },
+  { "jp": "すりおろす", "kr": "갈다", "pronunciation": "カルダ" },
+  { "jp": "混ぜる", "kr": "섞다", "pronunciation": "ソクタ" },
+  { "jp": "ちぎる", "kr": "뜯다", "pronunciation": "トゥッタ" },
+  { "jp": "薄く切る", "kr": "얇게 썰다", "pronunciation": "ヤルゲ ソルダ" },
+  { "jp": "素揚げする", "kr": "그냥 튀기다", "pronunciation": "クニャン トゥィギダ" },
+  { "jp": "電子レンジで温める", "kr": "전자레인지로 데우다", "pronunciation": "チョンジャレインジロ テウダ" },
+  { "jp": "生で食べる", "kr": "날것으로 먹다", "pronunciation": "ナルゴスロ モクタ" },
+  { "jp": "味つけする", "kr": "간하다", "pronunciation": "カナダ" }
+]

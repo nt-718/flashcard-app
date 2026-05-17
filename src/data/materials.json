@@ -454,5 +454,233 @@
     "name": "颜色・形状（色・形） (Chinese)",
     "path": "./vocab_zh_colors.json",
     "count": 30
+  },
+  {
+    "id": "conv_kr_s01",
+    "name": "카페에서 잡담（カフェでの雑談） (Korean)",
+    "path": "./conv_kr_s01.json",
+    "count": 24
+  },
+  {
+    "id": "conv_kr_s02",
+    "name": "식당에서 주문（レストランでの注文） (Korean)",
+    "path": "./conv_kr_s02.json",
+    "count": 23
+  },
+  {
+    "id": "conv_kr_s03",
+    "name": "쇼핑（買い物） (Korean)",
+    "path": "./conv_kr_s03.json",
+    "count": 23
+  },
+  {
+    "id": "conv_kr_s04",
+    "name": "직장 대화（職場での会話） (Korean)",
+    "path": "./conv_kr_s04.json",
+    "count": 24
+  },
+  {
+    "id": "conv_kr_s05",
+    "name": "여행 계획（旅行の計画） (Korean)",
+    "path": "./conv_kr_s05.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_vegetables",
+    "name": "채소（野菜） (Korean)",
+    "path": "./vocab_kr_vegetables.json",
+    "count": 45
+  },
+  {
+    "id": "vocab_kr_drinks",
+    "name": "음료（飲み物） (Korean)",
+    "path": "./vocab_kr_drinks.json",
+    "count": 40
+  },
+  {
+    "id": "vocab_kr_fruits",
+    "name": "과일（果物） (Korean)",
+    "path": "./vocab_kr_fruits.json",
+    "count": 35
+  },
+  {
+    "id": "vocab_kr_meat",
+    "name": "고기（肉類） (Korean)",
+    "path": "./vocab_kr_meat.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_seafood",
+    "name": "해산물（魚介類） (Korean)",
+    "path": "./vocab_kr_seafood.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_grains",
+    "name": "곡물・빵（穀物・パン） (Korean)",
+    "path": "./vocab_kr_grains.json",
+    "count": 20
+  },
+  {
+    "id": "vocab_kr_seasonings",
+    "name": "양념・조미료（調味料） (Korean)",
+    "path": "./vocab_kr_seasonings.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_korean_food",
+    "name": "한국 요리（韓国料理） (Korean)",
+    "path": "./vocab_kr_korean_food.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_kr_cooking_methods",
+    "name": "조리법（調理法） (Korean)",
+    "path": "./vocab_kr_cooking_methods.json",
+    "count": 20
+  },
+  {
+    "id": "vocab_kr_kitchen",
+    "name": "주방 용품（キッチン用品） (Korean)",
+    "path": "./vocab_kr_kitchen.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_body",
+    "name": "신체（体の部位） (Korean)",
+    "path": "./vocab_kr_body.json",
+    "count": 40
+  },
+  {
+    "id": "vocab_kr_family",
+    "name": "가족 관계（家族・人間関係） (Korean)",
+    "path": "./vocab_kr_family.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_kr_furniture",
+    "name": "집・가구（家・家具） (Korean)",
+    "path": "./vocab_kr_furniture.json",
+    "count": 35
+  },
+  {
+    "id": "vocab_kr_clothing",
+    "name": "옷・패션（服・ファッション） (Korean)",
+    "path": "./vocab_kr_clothing.json",
+    "count": 35
+  },
+  {
+    "id": "vocab_kr_daily_items",
+    "name": "일상 용품（日用品） (Korean)",
+    "path": "./vocab_kr_daily_items.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_kr_transportation",
+    "name": "교통（交通） (Korean)",
+    "path": "./vocab_kr_transportation.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_occupations",
+    "name": "직업（職業） (Korean)",
+    "path": "./vocab_kr_occupations.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_kr_countries",
+    "name": "나라・도시（国・都市） (Korean)",
+    "path": "./vocab_kr_countries.json",
+    "count": 35
+  },
+  {
+    "id": "vocab_kr_shopping",
+    "name": "쇼핑（買い物） (Korean)",
+    "path": "./vocab_kr_shopping.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_medical",
+    "name": "의료・건강（医療・健康） (Korean)",
+    "path": "./vocab_kr_medical.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_kr_weather",
+    "name": "날씨（天気） (Korean)",
+    "path": "./vocab_kr_weather.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_kr_animals",
+    "name": "동물（動物） (Korean)",
+    "path": "./vocab_kr_animals.json",
+    "count": 40
+  },
+  {
+    "id": "vocab_kr_plants",
+    "name": "식물・꽃（植物・花） (Korean)",
+    "path": "./vocab_kr_plants.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_sports",
+    "name": "스포츠（スポーツ） (Korean)",
+    "path": "./vocab_kr_sports.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_kr_hobbies",
+    "name": "취미（趣味） (Korean)",
+    "path": "./vocab_kr_hobbies.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_school",
+    "name": "학교（学校・教育） (Korean)",
+    "path": "./vocab_kr_school.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_kr_technology",
+    "name": "기술（テクノロジー） (Korean)",
+    "path": "./vocab_kr_technology.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_kr_social_media",
+    "name": "SNS（ソーシャルメディア） (Korean)",
+    "path": "./vocab_kr_social_media.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_adjectives",
+    "name": "형용사（形容詞） (Korean)",
+    "path": "./vocab_kr_adjectives.json",
+    "count": 40
+  },
+  {
+    "id": "vocab_kr_emotions",
+    "name": "감정（感情） (Korean)",
+    "path": "./vocab_kr_emotions.json",
+    "count": 30
+  },
+  {
+    "id": "vocab_kr_personality",
+    "name": "성격（性格） (Korean)",
+    "path": "./vocab_kr_personality.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_directions",
+    "name": "방향・위치（方向・位置） (Korean)",
+    "path": "./vocab_kr_directions.json",
+    "count": 25
+  },
+  {
+    "id": "vocab_kr_colors",
+    "name": "색깔・모양（色・形） (Korean)",
+    "path": "./vocab_kr_colors.json",
+    "count": 30
   }
 ]
